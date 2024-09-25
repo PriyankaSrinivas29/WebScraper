@@ -1,0 +1,1587 @@
+<?xml version='1.0' encoding='UTF-8'?><html><body><rss version="2.0">
+<channel>
+<title>Drugs.com - New Drug Approvals</title>
+<link/>https://www.drugs.com/newdrugs.html
+<description>New drug approvals news from Drugs.com. Comprehensive, up-to-date drug news for consumers and healthcare professionals.</description>
+<pubdate>Wed, 25 Sep 2024 09:18:48 +0000</pubdate>
+<lastbuilddate>Wed, 25 Sep 2024 09:18:48 +0000</lastbuilddate>
+<language>en-us</language>
+<item>
+<title>FDA Approves Miplyffa (arimoclomol) for the Treatment of Niemann-Pick Disease Type C</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-miplyffa-arimoclomol-niemann-pick-type-c-6370.html
+<description>CELEBRATION, Fla., Sept. 20, 2024 (GLOBE NEWSWIRE) -- Zevra Therapeutics, Inc. (NasdaqGS: ZVRA) (Zevra, or the Company), a commercial-stage rare disease therapeutics company, today announced that the U.S. Food and Drug Administration (FDA) has...</description>
+<pubdate>Fri, 20 Sep 2024 05:09:55 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Ocrevus Zunovo (ocrelizumab &amp; hyaluronidase-ocsq) Twice-A-Year Subcutaneous Injection for People With Relapsing and Progressive Multiple Sclerosis</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-ocrevus-zunovo-ocrelizumab-hyaluronidase-ocsq-twice-year-subcutaneous-relapsing-6367.html
+<description>South San Francisco, CA -- September 13, 2024 -- Genentech, a member of the Roche Group (SIX: RO, ROG; OTCQX: RHHBY) announced today that the United States Food and Drug Administration (U.S. FDA) has approved Ocrevus Zunovo (ocrelizumab &amp;amp...</description>
+<pubdate>Tue, 17 Sep 2024 05:09:49 +0000</pubdate>
+</item>
+<item>
+<title>Tremfya (guselkumab) Receives U.S. FDA Approval for Adults with Moderately to Severely Active Ulcerative Colitis</title>
+<link/>https://www.drugs.com/newdrugs/tremfya-guselkumab-receives-u-s-fda-approval-adults-moderately-severely-active-ulcerative-colitis-6364.html
+<description>HORSHAM, Pa. (September 11, 2024) &amp;ndash; Johnson &amp;amp; Johnson (NYSE: JNJ) today announced that the U.S. Food and Drug Administration (FDA) has approved Tremfya&amp;reg; (guselkumab) for the treatment of adults with moderately to severely active...</description>
+<pubdate>Fri, 13 Sep 2024 07:09:57 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Ebglyss (lebrikizumab-lbkz) for the Treatment of Atopic Dermatitis</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-ebglyss-lebrikizumab-lbkz-atopic-dermatitis-6366.html
+<description>INDIANAPOLIS, Sept. 13, 2024 /PRNewswire/ -- Eli Lilly and Company (NYSE: LLY) announced today the U.S. Food and Drug Administration (FDA) approved Ebglyss (lebrikizumab-lbkz), a targeted IL-13 inhibitor, for the treatment of adults and children 12...</description>
+<pubdate>Fri, 13 Sep 2024 00:09:18 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Tecentriq Hybreza (atezolizumab and hyaluronidase-tqjs) Subcutaneous Anti-PD-(L)1 Cancer Immunotherapy</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-tecentriq-hybreza-atezolizumab-hyaluronidase-tqjs-subcutaneous-anti-pd-l-1-cancer-6365.html
+<description>South San Francisco, CA -- September 12, 2024 -- Genentech, a member of the Roche Group (SIX: RO, ROG; OTCQX: RHHBY), announced today that the U.S. Food and Drug Administration (FDA) has approved Tecentriq Hybreza (atezolizumab and...</description>
+<pubdate>Thu, 12 Sep 2024 08:09:13 +0000</pubdate>
+</item>
+<item>
+<title>Travere Therapeutics Announces Full FDA Approval of Filspari (sparsentan), the Only Non-Immunosuppressive Treatment that Significantly Slows Kidney Function Decline in IgA Nephropathy</title>
+<link/>https://www.drugs.com/newdrugs/travere-therapeutics-announces-full-fda-approval-filspari-sparsentan-only-non-immunosuppressive-6362.html
+<description>SAN DIEGO, Sept. 05, 2024 (GLOBE NEWSWIRE) -- Travere Therapeutics, Inc., (Nasdaq: TVTX) today announced that the U.S. Food and Drug Administration (FDA) has granted full approval to Filspari&amp;reg; (sparsentan) to slow kidney function decline in...</description>
+<pubdate>Thu, 05 Sep 2024 05:09:20 +0000</pubdate>
+</item>
+<item>
+<title>Emergent BioSolutions’ ACAM2000 (Smallpox and Mpox (Vaccinia) Vaccine, Live) Receives U.S. FDA Approval for Mpox Indication</title>
+<link/>https://www.drugs.com/newdrugs/emergent-biosolutions-acam2000-smallpox-mpox-vaccinia-vaccine-live-receives-u-s-fda-approval-mpox-6361.html
+<description>GAITHERSBURG, Md., Aug. 29, 2024 (GLOBE NEWSWIRE) -- Emergent BioSolutions Inc. (NYSE: EBS) today announced that the U.S. Food and Drug Administration (FDA) has approved the supplemental Biologics License Application (sBLA) for the expansion of the...</description>
+<pubdate>Thu, 29 Aug 2024 04:08:02 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Pavblu (aflibercept-ayyh), a Biosimilar to Eylea</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-pavblu-aflibercept-ayyh-biosimilar-eylea-6360.html
+<description>August 23, 2024 &amp;ndash; The U.S. Food and Drug Administration (FDA) has announced the approval of Pavblu (aflibercept-ayyh) 2 mg injection (single-dose prefilled syringe and single-dose vial) for intravitreal administration. Pavblu is indicated for...</description>
+<pubdate>Fri, 23 Aug 2024 01:08:44 +0000</pubdate>
+</item>
+<item>
+<title>Moderna Receives U.S. FDA Approval for Updated COVID-19 Vaccine Targeting KP.2 Variant of SARS-CoV-2</title>
+<link/>https://www.drugs.com/newdrugs/moderna-receives-u-s-fda-approval-updated-covid-19-vaccine-targeting-kp-2-variant-sars-cov-2-6358.html
+<description>CAMBRIDGE, MA / ACCESSWIRE / AUGUST 22, 2024 / Moderna, Inc. (NASDAQ:MRNA) today announced the U.S. Food and Drug Administration (FDA) has approved the supplemental Biologics License Application (sBLA) for Spikevax&amp;reg; (2024-2025 formula) for...</description>
+<pubdate>Thu, 22 Aug 2024 22:08:14 +0000</pubdate>
+</item>
+<item>
+<title>Pfizer and BioNTech Receive U.S. FDA Approval &amp; Authorization for Omicron KP.2-adapted COVID-19 Vaccine</title>
+<link/>https://www.drugs.com/newdrugs/pfizer-biontech-receive-u-s-fda-approval-authorization-omicron-kp-2-adapted-covid-19-vaccine-6359.html
+<description>NEW YORK &amp;amp; MAINZ, Germany--(BUSINESS WIRE) August 22, 2024 -- Pfizer Inc. (NYSE: PFE, &amp;ldquo;Pfizer&amp;rdquo;) and BioNTech SE (Nasdaq: BNTX, &amp;ldquo;BioNTech&amp;rdquo;) today announced that the U.S. Food and Drug Administration (&amp;ldquo;FDA&amp;rdquo;) has...</description>
+<pubdate>Thu, 22 Aug 2024 22:08:08 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Rybrevant (amivantamab-vmjw) Plus Lazcluze (lazertinib) for Patients with EGFR-Mutated Advanced Lung cancer</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-rybrevant-amivantamab-vmjw-plus-lazcluze-lazertinib-patients-egfr-mutated-advanced-6357.html
+<description>RARITAN, N.J., Aug. 20, 2024 /PRNewswire/ -- Johnson &amp;amp; Johnson (NYSE: JNJ) announced today that the U.S. Food and Drug Administration (FDA) approved Rybrevant&amp;reg; (amivantamab-vmjw) plus Lazcluze&amp;trade; (lazertinib) for the first-line treatment...</description>
+<pubdate>Tue, 20 Aug 2024 21:08:58 +0000</pubdate>
+</item>
+<item>
+<title>Imfinzi Approved in the US for the Treatment of Resectable Non-Small Cell Lung Cancer Before and After Surgery</title>
+<link/>https://www.drugs.com/newdrugs/imfinzi-approved-us-resectable-non-small-cell-lung-cancer-before-after-surgery-6355.html
+<description>16 August 2024 -- AstraZeneca&amp;rsquo;s Imfinzi (durvalumab) in combination with chemotherapy has been approved in the US for the treatment of adult patients with resectable early-stage (IIA-IIIB) non-small cell lung cancer (NSCLC) and no known...</description>
+<pubdate>Fri, 16 Aug 2024 23:08:36 +0000</pubdate>
+</item>
+<item>
+<title>Vericel Announces FDA Approval of NexoBrid for the Treatment of Pediatric Patients with Severe Thermal Burns</title>
+<link/>https://www.drugs.com/newdrugs/vericel-announces-fda-approval-nexobrid-pediatric-patients-severe-thermal-burns-6356.html
+<description>CAMBRIDGE, Mass., Aug. 15, 2024 (GLOBE NEWSWIRE) -- Vericel Corporation (NASDAQ:VCEL), a leader in advanced therapies for the sports medicine and severe burn care markets, today announced that the U.S. Food and Drug Administration (FDA) has approved...</description>
+<pubdate>Thu, 15 Aug 2024 20:08:46 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Niktimvo (axatilimab-csfr) for the Treatment of Chronic Graft-Versus-Host Disease (GVHD)</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-niktimvo-axatilimab-csfr-chronic-graft-versus-host-gvhd-6352.html
+<description>WILMINGTON, Del. &amp;amp; WALTHAM, Mass.--(BUSINESS WIRE)--Aug. 14, 2024-- Incyte (Nasdaq:INCY) and Syndax Pharmaceuticals (Nasdaq:SNDX) today announced that the U.S. Food and Drug Administration (FDA) has approved Niktimvo...</description>
+<pubdate>Wed, 14 Aug 2024 22:08:53 +0000</pubdate>
+</item>
+<item>
+<title>FDA Grants Accelerated Approval for Livdelzi (seladelpar) for the Treatment of Primary Biliary Cholangitis</title>
+<link/>https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-livdelzi-seladelpar-primary-biliary-cholangitis-6353.html
+<description>FOSTER CITY, Calif.--(BUSINESS WIRE) August 14, 2024 --  Gilead Sciences, Inc. (Nasdaq: GILD) today announced that the U.S. Food and Drug Administration (FDA) has granted accelerated approval for Livdelzi (seladelpar) for the treatment of primary...</description>
+<pubdate>Wed, 14 Aug 2024 22:08:15 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Nemluvio (nemolizumab) for the Treatment of Adult Patients with Prurigo Nodularis</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-nemluvio-nemolizumab-adult-patients-prurigo-nodularis-6351.html
+<description>Zug, Switzerland &amp;ndash; August 13, 2024 &amp;ndash; Galderma today announced that the U.S. Food and Drug Administration (FDA) has approved Nemluvio (nemolizumab) as a pre-filled pen for subcutaneous injection for the treatment of adults with prurigo...</description>
+<pubdate>Tue, 13 Aug 2024 21:08:43 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Yorvipath (palopegteriparatide) for the Treatment of Hypoparathyroidism in Adults</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-yorvipath-palopegteriparatide-hypoparathyroidism-adults-6350.html
+<description>COPENHAGEN, Denmark, Aug. 12, 2024 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced that the U.S. Food &amp;amp; Drug Administration (FDA) has approved Yorvipath (palopegteriparatide; developed as TransCon PTH) for the treatment of...</description>
+<pubdate>Mon, 12 Aug 2024 19:08:54 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Enzeevu (aflibercept-abzv), a Biosimilar to Eylea</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-enzeevu-aflibercept-abzv-biosimilar-eylea-6349.html
+<description>Basel, August 12, 2024 &amp;ndash; Sandoz (SIX:SDZ/OTCQX:SDZNY), the global leader in generic and biosimilar medicines, today announced that the US Food and Drug Administration (FDA) has approved Enzeevu (aflibercept-abzv) 2 mg vial kit and pre-filled...</description>
+<pubdate>Mon, 12 Aug 2024 06:08:24 +0000</pubdate>
+</item>
+<item>
+<title>scPharmaceuticals Announces FDA Approval of Supplemental New Drug Application Expanding the Furoscix Indication in Heart Failure</title>
+<link/>https://www.drugs.com/newdrugs/scpharmaceuticals-announces-fda-approval-supplemental-new-application-expanding-furoscix-indication-6354.html
+<description>Furoscix is now indicated for the treatment of congestion due to fluid overload in adult patients with chronic heart failure, regardless of New York Heart Association (NYHA) functional class
+Indication expansion allows for the use of Furoscix in...</description>
+<pubdate>Mon, 12 Aug 2024 01:08:47 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves neffy (epinephrine nasal spray) Needle-Free Treatment for Type I Allergic Reactions, Including Anaphylaxis</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-neffy-epinephrine-nasal-needle-free-type-allergic-reactions-including-anaphylaxis-6345.html
+<description>SAN DIEGO, Aug. 09, 2024 (GLOBE NEWSWIRE) -- ARS Pharmaceuticals, Inc. (Nasdaq: SPRY), a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect patients from severe allergic reactions that could lead to...</description>
+<pubdate>Fri, 09 Aug 2024 07:08:41 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Lymphir (denileukin diftitox-cxdl) Immunotherapy for the Treatment of Adults with Relapsed or Refractory Cutaneous T-Cell Lymphoma</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-lymphir-denileukin-diftitox-cxdl-immunotherapy-adults-relapsed-refractory-cutaneous-t-6344.html
+<description>CRANFORD, N.J., Aug. 8, 2024 /PRNewswire/ -- Citius Pharmaceuticals, Inc. (NASDAQ: CTXR) ("Citius", "Citius Pharma"), announced today that the U.S. Food and Drug Administration (FDA) has approved Lymphir (denileukin diftitox-cxdl), a novel...</description>
+<pubdate>Thu, 08 Aug 2024 22:08:26 +0000</pubdate>
+</item>
+<item>
+<title>Novartis Receives FDA Accelerated Approval for Fabhalta (iptacopan) for the Reduction of Proteinuria in Primary IgA Nephropathy (IgAN)</title>
+<link/>https://www.drugs.com/newdrugs/novartis-receives-fda-accelerated-approval-fabhalta-iptacopan-reduction-proteinuria-primary-iga-6348.html
+<description>Basel, August 8, 2024 &amp;ndash; Novartis today announced that the U.S. Food and Drug Administration (FDA) has granted accelerated approval for Fabhalta (iptacopan), a first-in-class complement inhibitor for the reduction of proteinuria in adults with...</description>
+<pubdate>Thu, 08 Aug 2024 06:08:46 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Zurnai (nalmefene hydrochloride) Auto-Injector for the Emergency Treatment of Known or Suspected Opioid Overdose</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-zurnai-nalmefene-hydrochloride-auto-injector-emergency-known-suspected-opioid-overdose-6343.html
+<description>STAMFORD, Conn., August 7, 2024 &amp;ndash; Purdue Pharma L.P. (&amp;ldquo;Purdue&amp;rdquo;) announced today that the U.S. Food and Drug Administration (FDA) approved the Company&amp;rsquo;s new drug application for the Zurnai (nalmefene injection) Auto-Injector...</description>
+<pubdate>Wed, 07 Aug 2024 21:08:47 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Crexont (carbidopa and levodopa) Extended-Release Capsules for the Treatment of Parkinson’s Disease</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-crexont-carbidopa-levodopa-extended-release-capsules-parkinson-s-6347.html
+<description>BRIDGEWATER, N.J.--(BUSINESS WIRE) August 7, 2024 --  Amneal Pharmaceuticals, Inc. (Nasdaq: AMRX) (&amp;ldquo;Amneal&amp;rdquo; or the &amp;ldquo;Company&amp;rdquo;) today announced that the U.S. Food and Drug Administration (FDA) has approved Crexont (carbidopa...</description>
+<pubdate>Wed, 07 Aug 2024 08:08:01 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Voranigo (vorasidenib) for the Treatment of Grade 2 IDH-Mutant Glioma</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-voranigo-vorasidenib-grade-2-idh-mutant-glioma-6342.html
+<description>BOSTON, Mass. &amp;ndash; August 6, 2024 &amp;ndash; Servier today announced that the U.S. Food and Drug Administration (FDA) has approved Voranigo, an isocitrate dehydrogenase-1 (IDH1) and isocitrate dehydrogenase-2 (IDH2) inhibitor, indicated for the...</description>
+<pubdate>Tue, 06 Aug 2024 19:08:49 +0000</pubdate>
+</item>
+<item>
+<title>FDA Grants Accelerated Approval for Tecelra (afamitresgene autoleucel) Cell Therapy for the Treatment of Synovial Sarcoma</title>
+<link/>https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-tecelra-afamitresgene-autoleucel-cell-therapy-synovial-sarcoma-6339.html
+<description>PHILADELPHIA &amp;amp; OXFORD, England--(BUSINESS WIRE) August 01, 2024 -- Adaptimmune Therapeutics plc (NASDAQ: ADAP), a company working to redefine the treatment of solid tumor cancers with cell therapy, today announced U.S. Food and Drug...</description>
+<pubdate>Thu, 01 Aug 2024 21:08:11 +0000</pubdate>
+</item>
+<item>
+<title>FDA Expands Jemperli (dostarlimab-gxly) Plus Chemotherapy Approval to All Adult Patients with Primary Advanced or Recurrent Endometrial Cancer</title>
+<link/>https://www.drugs.com/newdrugs/fda-expands-jemperli-dostarlimab-gxly-plus-chemotherapy-approval-all-adult-patients-primary-6340.html
+<description>Philadelphia, PA -- August 01 2024 GSK plc (LSE/NYSE: GSK) today announced the US Food and Drug Administration (FDA) has approved Jemperli (dostarlimab-gxly) in combination with carboplatin and paclitaxel (chemotherapy) followed by Jemperli as a...</description>
+<pubdate>Thu, 01 Aug 2024 04:08:09 +0000</pubdate>
+</item>
+<item>
+<title>Darzalex Faspro (daratumumab and hyaluronidase-fihj)-Based Quadruplet Regimen Approved in the U.S. for Patients with Newly Diagnosed Multiple Myeloma Who Are Transplant-Eligible</title>
+<link/>https://www.drugs.com/newdrugs/darzalex-faspro-daratumumab-hyaluronidase-fihj-based-quadruplet-regimen-approved-u-s-patients-newly-6338.html
+<description>HORSHAM, Pa., July 30, 2024 &amp;ndash; Johnson &amp;amp; Johnson (NYSE:JNJ) announced today that the U.S. Food and Drug Administration (FDA) approved Darzalex Faspro (daratumumab and hyaluronidase-fihj) in combination with bortezomib, lenalidomide and...</description>
+<pubdate>Tue, 30 Jul 2024 02:07:08 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Zunveyl (benzgalantamine) for the Treatment of Alzheimer's Disease</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-zunveyl-benzgalantamine-alzheimer-s-6336.html
+<description>VANCOUVER, B.C., and Dallas, July 29, 2024 - Alpha Cognition (CSE: ACOG) (OTCQB: ACOGF) (Alpha Cognition &amp;ldquo;ACI&amp;rdquo;, or the &amp;ldquo;Company&amp;rdquo;), a biopharmaceutical company developing novel therapeutics for debilitating neurodegenerative...</description>
+<pubdate>Mon, 29 Jul 2024 20:07:22 +0000</pubdate>
+</item>
+<item>
+<title>Grifols Receives Approval for Expanded Xembify (immune globulin subcutaneous human-klhw) Label in U.S.</title>
+<link/>https://www.drugs.com/newdrugs/grifols-receives-approval-expanded-xembify-immune-globulin-subcutaneous-human-klhw-label-u-s-6337.html
+<description>BARCELONA, Spain, July 29, 2024 (GLOBE NEWSWIRE) -- Grifols (MCE: GRF, MCE: GRF.P NASDAQ: GRFS), one of the world&amp;rsquo;s leading producers of plasma-derived medicines, today announced that the United States Food and Drug Administration (FDA) has...</description>
+<pubdate>Mon, 29 Jul 2024 05:07:20 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Erzofri (paliperidone palmitate) for the Treatment of Schizophrenia and Schizoaffective Disorder</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-erzofri-paliperidone-palmitate-schizophrenia-schizoaffective-disorder-6335.html
+<description>PRINCETON, N.J., July 28, 2024 &amp;ndash; Luye Pharma Group (Luye Pharma), an international pharmaceutical company dedicated to the R&amp;amp;D, manufacturing and sales of innovative medications, today announced that the U.S. Food and Drug Administration...</description>
+<pubdate>Sun, 28 Jul 2024 01:07:32 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Palforzia [Peanut (Arachis hypogaea) Allergen Powder-dnfp] for Use in Individuals Ages 1 through 3 Years With a Confirmed Diagnosis of Peanut Allergy</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-palforzia-peanut-arachis-hypogaea-allergen-powder-dnfp-individuals-ages-1-through-3-6332.html
+<description>July 26, 2024 -- Today, the FDA approved Palforzia [Peanut (Arachis hypogaea) Allergen Powder-dnfp] to include initiation of treatment, up-dosing and maintenance in individuals ages 1 through 3 years with a confirmed diagnosis of peanut allergy to...</description>
+<pubdate>Fri, 26 Jul 2024 23:07:07 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Leqselvi (deuruxolitinib), an Oral JAK Inhibitor for the Treatment of Severe Alopecia Areata</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-leqselvi-deuruxolitinib-oral-jak-inhibitor-severe-alopecia-areata-6331.html
+<description>MUMBAI, India and PRINCETON, N.J., July 26, 2024 /PRNewswire/ -- Sun Pharmaceutical Industries Limited (Reuters: SUN.BO, Bloomberg: SUNP IN, NSE: SUNPHARMA, BSE: 524715, "Sun Pharma" and includes its subsidiaries or associate companies) today...</description>
+<pubdate>Fri, 26 Jul 2024 21:07:11 +0000</pubdate>
+</item>
+<item>
+<title>Mirum’s Livmarli Now Approved for PFIC in Patients 12 Months and Older</title>
+<link/>https://www.drugs.com/newdrugs/mirum-s-livmarli-now-approved-pfic-patients-12-months-older-6334.html
+<description>FOSTER CITY, Calif.--(BUSINESS WIRE) July 25, 2024 --  Mirum Pharmaceuticals, Inc. (Nasdaq: MIRM) today announced that the U.S. Food and Drug Administration (FDA) has approved a label expansion for Livmarli (maralixibat) oral solution for the...</description>
+<pubdate>Thu, 25 Jul 2024 01:07:08 +0000</pubdate>
+</item>
+<item>
+<title>U.S. Food and Drug Administration Approves BioMarin's Brineura (cerliponase alfa) for Children Under 3 Years with CLN2 Disease</title>
+<link/>https://www.drugs.com/newdrugs/u-s-food-administration-approves-biomarin-s-brineura-cerliponase-alfa-children-under-3-years-cln2-6333.html
+<description>SAN RAFAEL, Calif., July 24, 2024 /PRNewswire/ -- BioMarin Pharmaceutical Inc. (Nasdaq: BMRN) today announced that the U.S. Food and Drug Administration (FDA) has approved the company's supplemental Biologics License Application (sBLA) for Brineura...</description>
+<pubdate>Wed, 24 Jul 2024 01:07:11 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Femlyv (norethindrone acetate and ethinyl estradiol) Orally Disintegrating Birth Control Pill</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-femlyv-norethindrone-acetate-ethinyl-estradiol-orally-disintegrating-birth-control-pill-6330.html
+<description>On July 22, 2024, the U.S. Food and Drug Administration (FDA) approved Femlyv (norethindrone acetate and ethinyl estradiol), the first orally disintegrating tablet approved for the prevention of pregnancy. Norethindrone acetate and ethinyl...</description>
+<pubdate>Tue, 23 Jul 2024 23:07:51 +0000</pubdate>
+</item>
+<item>
+<title>Merz Aesthetics Announces FDA Approval of Xeomin (incobotulinumtoxinA) as the First and Only U.S. Neurotoxin for the Simultaneous Treatment of Upper Facial Lines</title>
+<link/>https://www.drugs.com/newdrugs/merz-aesthetics-announces-fda-approval-xeomin-incobotulinumtoxina-first-only-u-s-neurotoxin-6329.html
+<description>RALEIGH, NC &amp;ndash; July 23, 2024 -- Merz Aesthetics, the world&amp;rsquo;s largest dedicated medical aesthetics business, announced today the U.S. Food and Drug Administration (FDA) approved Xeomin (incobotulinumtoxinA) as the first and only neurotoxin...</description>
+<pubdate>Tue, 23 Jul 2024 22:07:08 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Epysqli (eculizumab-aagh), a Biosimilar to Soliris</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-epysqli-eculizumab-aagh-biosimilar-soliris-6327.html
+<description>INCHEON, South Korea, July 22, 2024 (GLOBE NEWSWIRE) -- Samsung Bioepis Co., Ltd. announced today that the U.S. Food and Drug Administration (FDA) has approved the Biologics License Application (BLA) for Epysqli (eculizumab-aagh) as a biosimilar to...</description>
+<pubdate>Mon, 22 Jul 2024 20:07:08 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves Zituvimet XR (sitagliptin and metformin hydrochloride) Extended-Release Tablets for Adults with Type 2 Diabetes</title>
+<link/>https://www.drugs.com/newdrugs/fda-approves-zituvimet-xr-sitagliptin-metformin-hydrochloride-extended-release-adults-type-2-6328.html
+<description>Ahmedabad, India, 19 July 2024 Zydus Lifesciences Limited (including its subsidiaries/ affiliates, hereafter referred to as &amp;ldquo;Zydus&amp;rdquo;) has received final approval for its New Drug Application (NDA) from the United States Food and Drug...</description>
+<pubdate>Fri, 19 Jul 2024 19:07:56 +0000</pubdate>
+</item>
+<item>
+<title>Phathom Pharmaceuticals Announces FDA Approval of Voquezna (vonoprazan) Tablets for the Relief of Heartburn Associated with Non-Erosive GERD in Adults</title>
+<link/>https://www.drugs.com/newdrugs/phathom-pharmaceuticals-announces-fda-approval-voquezna-vonoprazan-relief-heartburn-associated-non-6326.html
+<description>FLORHAM PARK, N.J., July 18, 2024 (GLOBE NEWSWIRE) -- Phathom Pharmaceuticals, Inc. (Nasdaq: PHAT), a biopharmaceutical company focused on developing and commercializing novel treatments for gastrointestinal (GI) diseases, announced today the U.S...</description>
+<pubdate>Thu, 18 Jul 2024 21:07:46 +0000</pubdate>
+</item>
+</channel>
+</rss></body></html>
+
+
+--------------------
+<?xml version='1.0' encoding='UTF-8'?><html><body><rss version="2.0">
+<channel>
+<title>Drugs.com - FDA MedWatch Alerts</title>
+<link/>https://www.drugs.com/fda_alerts.html
+<description>FDA MedWatch Alerts from Drugs.com. Comprehensive, up-to-date drug news for consumers and healthcare professionals.</description>
+<pubdate>Wed, 25 Sep 2024 09:18:48 +0000</pubdate>
+<lastbuilddate>Wed, 25 Sep 2024 09:18:48 +0000</lastbuilddate>
+<language>en-us</language>
+<item>
+<title>Bionpharma Inc. Issues Voluntary Nationwide Recall of Atovaquone Oral Suspension Due to Bacterial Contamination</title>
+<link/>https://www.drugs.com/fda/bionpharma-inc-issues-voluntary-nationwide-recall-atovaquone-oral-suspension-due-bacterial-14702.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer September 17, 2024 &amp;ndash; Princeton, NJ, Bionpharma Inc. is voluntarily recalling (1) single Batch (2310083) of Atovaquone Oral Suspension, 750mg per mL to the consumer level. The product was...</description>
+<pubdate>Tue, 17 Sep 2024 20:36:00 +0000</pubdate>
+</item>
+<item>
+<title>Drug Safety Communication: FDA Adds Warning About Rare Occurrence of Serious Liver Injury with Use of Veozah (fezolinetant) for Hot Flashes Due to Menopause</title>
+<link/>https://www.drugs.com/fda/safety-communication-fda-adds-warning-rare-occurrence-serious-liver-injury-veozah-fezolinetant-hot-14701.html
+<description>Audience: Patient, Health Professional, OBGYN, Endocrinology September 12, 2024 -- The FDA is warning that Veozah (fezolinetant), a medicine used to treat hot flashes due to menopause, can cause rare but serious liver injury.  If there are signs and...</description>
+<pubdate>Thu, 12 Sep 2024 19:17:00 +0000</pubdate>
+</item>
+<item>
+<title>FDA Warns Consumers Not to Purchase or Use Umary and Amazy Products As They May Be Harmful To Your Health</title>
+<link/>https://www.drugs.com/fda/fda-warns-consumers-not-purchase-umary-amazy-products-they-may-harmful-your-health-14700.html
+<description>Audience: Consumers September 5, 2024 -- FDA is warning consumers not to purchase or use Umary and Amazy products, marketed as dietary supplements, as they may be harmful to your health. This is due to potentially dangerous hidden drug ingredients...</description>
+<pubdate>Thu, 05 Sep 2024 17:08:00 +0000</pubdate>
+</item>
+<item>
+<title>Veata LLC Issues Voluntary Nationwide Recall of Endurance Pro Capsules Due to the Potential Presence of Undeclared Sildenafil</title>
+<link/>https://www.drugs.com/fda/veata-llc-issues-voluntary-nationwide-recall-endurance-pro-capsules-due-potential-presence-14699.html
+<description>Audience: Consumers August 14, 2024 &amp;ndash; Sacramento CA, Veata LLC is voluntarily recalling lot 230811, Exp 8/11/25 of Endurance Pro Energy Boost capsules, packaged in 10-count blisters in a cardboard carton to the consumer level. Veata LLC was...</description>
+<pubdate>Wed, 14 Aug 2024 14:36:00 +0000</pubdate>
+</item>
+<item>
+<title>Boulla LLC Issues Voluntary Nationwide Recall of Boom Max Capsules Due to the Potential Presence of Undeclared Sildenafil</title>
+<link/>https://www.drugs.com/fda/boulla-llc-issues-voluntary-nationwide-recall-boom-max-capsules-due-potential-presence-undeclared-14698.html
+<description>Audience: Consumers August 14, 2024 &amp;ndash; Sacramento CA, Boulla LLC is voluntarily recalling lot number 230811, exp 8/11/25 of Boom Max capsules packaged in 10-count blisters packaged in a carton to the consumer level. Boulla LLC was notified by...</description>
+<pubdate>Wed, 14 Aug 2024 14:16:00 +0000</pubdate>
+</item>
+<item>
+<title>B. Braun Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride for Injection USP 1000 mL in E3 Containers Due to the Potential for Particulate Matter and Leakage</title>
+<link/>https://www.drugs.com/fda/b-braun-issues-voluntary-nationwide-recall-0-9-sodium-chloride-usp-1000-ml-e3-containers-due-14697.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer BETHLEHEM, PA - August 8, 2024 &amp;ndash; B. Braun Medical Inc. (B. Braun), is voluntarily recalling two (2) lots of 0.9% Sodium Chloride for Injection USP 1000 mL in E3 containers within the United...</description>
+<pubdate>Thu, 08 Aug 2024 09:50:00 +0000</pubdate>
+</item>
+<item>
+<title>FDA Warns Consumers to Not Purchase or Use Unapproved Inhalant Products Marketed for Alertness and Energy Boosting</title>
+<link/>https://www.drugs.com/fda/fda-warns-consumers-not-purchase-unapproved-inhalant-products-marketed-alertness-energy-boosting-14695.html
+<description>Audience: Consumer August 6, 2024 -- FDA is warning consumers to not purchase or use certain inhalants, which are unapproved drugs marketed to promote alertness and boost energy.
+These products primarily contain ammonia. Inhaling ammonia can...</description>
+<pubdate>Tue, 06 Aug 2024 09:22:00 +0000</pubdate>
+</item>
+<item>
+<title>Baxter Issues Voluntary Nationwide Recall of One Lot of Heparin Sodium in 0.9% Sodium Chloride Injection Due to Potential for Elevated Endotoxin Levels</title>
+<link/>https://www.drugs.com/fda/baxter-issues-voluntary-nationwide-recall-one-lot-heparin-sodium-0-9-sodium-chloride-due-potential-14696.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer DEERFIELD, Ill., AUG. 5, 2024 &amp;ndash; Baxter International Inc. (NYSE:BAX) is voluntarily recalling one lot of Heparin Sodium in 0.9% Sodium Chloride Injection to the consumer level due to the...</description>
+<pubdate>Mon, 05 Aug 2024 11:22:00 +0000</pubdate>
+</item>
+<item>
+<title>FDA Warns Against Purchasing or Using Chemical Peel Skin Products Without Professional Supervision</title>
+<link/>https://www.drugs.com/fda/fda-warns-against-purchasing-using-chemical-peel-skin-products-without-professional-supervision-14694.html
+<description>Audience: Consumer July 30, 2024 -- FDA is warning consumers not to purchase or use certain chemical peel skin products without appropriate professional supervision due to risk of serious skin injuries.
+The agency has not approved any chemical peel...</description>
+<pubdate>Tue, 30 Jul 2024 10:07:00 +0000</pubdate>
+</item>
+<item>
+<title>Main Products, Inc. Issues Recall of Umary Acido Hialuronico, Suplemento Alimenticio Due to the Presence of Undeclared Drug Ingredients</title>
+<link/>https://www.drugs.com/fda/main-products-inc-issues-recall-umary-acido-hialuronico-suplemento-alimenticio-due-presence-14692.html
+<description>Audience: Consumer, Health Professional, Pharmacy, Pain Management, Gastroenterology 
+
+
+
+
+July 22, 2024 &amp;ndash; Chula Vista, CA &amp;ndash; Main Products, Inc. is voluntarily recalling all lots of &amp;ldquo;Umary Acido Hialuronico, Suplemento...</description>
+<pubdate>Mon, 22 Jul 2024 16:49:00 +0000</pubdate>
+</item>
+<item>
+<title>Hikma Pharmaceuticals USA Inc. Extends Voluntary Nationwide Recall of One Lot of Acetaminophen Injection, 1000mg/100mL (10mg/mL) Bags</title>
+<link/>https://www.drugs.com/fda/hikma-pharmaceuticals-usa-inc-extends-voluntary-nationwide-recall-one-lot-acetaminophen-1000mg-14691.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer London, July 22, 2024 &amp;ndash; Hikma Pharmaceuticals PLC (Hikma, Group), today announces that its subsidiary Hikma Pharmaceuticals USA, Inc. is extending its voluntary recall of one lot (listed below)...</description>
+<pubdate>Mon, 22 Jul 2024 15:11:00 +0000</pubdate>
+</item>
+<item>
+<title>Aurobindo Pharma USA, Inc. on Behalf of AuroHealth, Issues Recall of One Lot of Healthy Living Over the Counter (OTC) Migraine Relief</title>
+<link/>https://www.drugs.com/fda/aurobindo-pharma-usa-inc-behalf-aurohealth-issues-recall-one-lot-healthy-living-over-counter-otc-14693.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer July 18, 2024 &amp;ndash; East Windsor, New Jersey. Aurobindo Pharma USA, Inc., on behalf of AuroHealth, is voluntarily recalling one lot (refer table below) of Healthy Living Migraine Relief...</description>
+<pubdate>Thu, 18 Jul 2024 11:17:00 +0000</pubdate>
+</item>
+<item>
+<title>Endo USA, Inc. Issues Recall of One Lot of Clonazepam Orally Disintegrating Tablets Due to Mislabeling: Incorrect Strength on Product Carton</title>
+<link/>https://www.drugs.com/fda/endo-usa-inc-issues-recall-one-lot-clonazepam-orally-disintegrating-due-mislabeling-incorrect-14689.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer 
+
+
+
+
+MALVERN, PA, July 16, 2024 &amp;ndash; Endo, Inc (OTCQX: NDOI) (&amp;ldquo;Endo&amp;rdquo;), announced today that one of its operating subsidiaries, Endo USA, Inc., is voluntarily recalling one lot of...</description>
+<pubdate>Tue, 16 Jul 2024 21:30:00 +0000</pubdate>
+</item>
+<item>
+<title>GURU INC. Issues Voluntary Nationwide Recall of Infla-650 Herbal Dietary Supplement Capsules Due to Hidden Drug Ingredients</title>
+<link/>https://www.drugs.com/fda/guru-inc-issues-voluntary-nationwide-recall-infla-650-herbal-dietary-supplement-capsules-due-hidden-14690.html
+<description>Audience: Consumer Lilburn, GA, July 16, 2024 -- GURU INC. is voluntarily recalling Infla-650 Herbal Dietary Supplement Capsules, Lot No. IN-032, 700 mg to the consumer/user level. Infla-650 capsules has been found to be tainted with acetaminophen...</description>
+<pubdate>Tue, 16 Jul 2024 12:56:00 +0000</pubdate>
+</item>
+<item>
+<title>FDA, FTC Continue Joint Effort to Protect Consumers Against Companies Illegally Selling Copycat Delta-8 THC Food Products</title>
+<link/>https://www.drugs.com/fda/fda-ftc-continue-joint-effort-protect-consumers-against-companies-illegally-selling-copycat-delta-8-14688.html
+<description>Audience: Consumer July 16, 2024 -- Today, the U.S. Food and Drug Administration and the Federal Trade Commission (FTC) issued warning letters to five companies for illegally selling copycat food products containing delta-8 THC and introducing them...</description>
+<pubdate>Tue, 16 Jul 2024 08:19:00 +0000</pubdate>
+</item>
+<item>
+<title>Supercore Issues Voluntary Worldwide Recall of Hard Steel Capsules &amp; Gold Hard Steel Plus Liquid Due to the Presence of Sildenafil and Acetaminophen</title>
+<link/>https://www.drugs.com/fda/supercore-issues-voluntary-worldwide-recall-hard-steel-capsules-gold-hard-steel-plus-liquid-due-14687.html
+<description>Audience: Consumer Atlanta, GA -- July 12, 2024 -- Supercore Products Group is voluntarily recalling of Hard Steel Capsules &amp;amp; Gold Hard Steel Plus Liquid to the consumer level. FDA analysis has found these products to be tainted with Sildenafil...</description>
+<pubdate>Fri, 12 Jul 2024 10:39:00 +0000</pubdate>
+</item>
+<item>
+<title>Risk Evaluation and Mitigation Strategies (REMS) for Autologous Chimeric Antigen Receptor (CAR) T cell Immunotherapies Modified to Minimize Burden on Healthcare Delivery System</title>
+<link/>https://www.drugs.com/fda/risk-evaluation-mitigation-strategies-rems-autologous-chimeric-antigen-receptor-car-t-cell-14685.html
+<description>Audience: Health Professional June 26, 2024 -- Risk Evaluation and Mitigation Strategies (REMS) for Autologous Chimeric Antigen Receptor (CAR) T cell Immunotherapies Modified to Minimize Burden on Healthcare Delivery System
+A Risk Evaluation and...</description>
+<pubdate>Wed, 26 Jun 2024 09:25:00 +0000</pubdate>
+</item>
+<item>
+<title>American Health Packaging on Behalf of BluePoint Laboratories Issues Recall for Potassium Chloride Extended-Release Capsules, USP (750 mg) 10 mEq K Due to Failed Dissolution</title>
+<link/>https://www.drugs.com/fda/american-health-packaging-behalf-bluepoint-laboratories-issues-recall-potassium-chloride-extended-14686.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer June 25, 2024 &amp;ndash; American Health Packaging on behalf of BluePoint Laboratories is voluntarily recalling 21 batches of Potassium Chloride Extended-Release Capsules, USP (750 mg) 10 mEq K, to the...</description>
+<pubdate>Tue, 25 Jun 2024 09:41:00 +0000</pubdate>
+</item>
+<item>
+<title>Glenmark Pharmaceuticals Inc., USA Issues Recall for Potassium Chloride Extended-Release Capsules, USP (750 mg) 10 mEq K Due to Failed Dissolution</title>
+<link/>https://www.drugs.com/fda/glenmark-pharmaceuticals-inc-usa-issues-recall-potassium-chloride-extended-release-capsules-usp-750-14684.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer June 24, 2024 &amp;ndash; Glenmark Pharmaceuticals Inc., USA, Mahwah, NJ is voluntarily recalling 114 batches of Potassium Chloride Extended-Release Capsules, USP (750 mg) 10 mEq K, to the consumer...</description>
+<pubdate>Mon, 24 Jun 2024 08:43:00 +0000</pubdate>
+</item>
+<item>
+<title>Male Enhancement Supplements Recalled</title>
+<link/>https://www.drugs.com/fda/male-enhancement-supplements-recalled-14682.html
+<description>Audience: Consumers June 11, 2024 -- Integrity Products , St Louis MO is voluntarily recalling tainted lot (HGW221116) within expiry of the Ram It &amp;amp; To The Moon capsules to the consumer level. FDA analysis founds these products to be tainted...</description>
+<pubdate>Tue, 11 Jun 2024 19:38:00 +0000</pubdate>
+</item>
+<item>
+<title>Penn Herb Company Ltd Recalls Nature’s Wonderland Thyroid Formula Because of Possible Health Risk</title>
+<link/>https://www.drugs.com/fda/penn-herb-ltd-recalls-nature-s-wonderland-thyroid-formula-because-possible-health-risk-14683.html
+<description>Audience: Consumer, Patient, Rheumatology, Pharmacy June 11, 2024 -- Penn Herb Company Ltd of Philadelphia, Pennsylvania is recalling 51 bottles (60 Capsules per bottle) of Nature&amp;rsquo;s Wonderland Thyroid Formula (Item #: Sm32x, Lot #: 23289A)...</description>
+<pubdate>Tue, 11 Jun 2024 18:28:00 +0000</pubdate>
+</item>
+<item>
+<title>HomeoCare Laboratories Inc. Issues Recall of Stella Life Oral Care Spray Unflavored and Advanced Formula Peppermint Oral Care Rinse Due to Microbial Contamination</title>
+<link/>https://www.drugs.com/fda/homeocare-laboratories-inc-issues-recall-stella-oral-care-unflavored-advanced-formula-peppermint-14681.html
+<description>Audience: Consumers Yonkers, NY, 06/05/2024 &amp;ndash; HomeoCare Laboratories Inc., a manufacturer of homeopathic products, is voluntarily recalling two batches of Homeopathic StellaLife Oral Care Products listed in the table below manufactured in 2024...</description>
+<pubdate>Thu, 06 Jun 2024 18:09:00 +0000</pubdate>
+</item>
+<item>
+<title>Sagent Pharmaceuticals Issues Voluntary Nationwide Recall of Docetaxel Injection, USP Due to Potential Presence of Particulate Matter</title>
+<link/>https://www.drugs.com/fda/sagent-pharmaceuticals-issues-voluntary-nationwide-recall-docetaxel-usp-due-potential-presence-14680.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer SCHAUMBURG, IL &amp;ndash; May 28, 2024 &amp;ndash; Sagent Pharmaceuticals today announced the voluntary nationwide recall of two lots of Docetaxel Injection, USP (80 mg per 8 mL multi-dose vials and 160 mg...</description>
+<pubdate>Tue, 28 May 2024 20:53:00 +0000</pubdate>
+</item>
+<item>
+<title>Hospira Inc. Issues Voluntary Recall for Buprenorphine HCl Injection Carpuject Units and Labetalol HCl Injection Carpuject Units Due to Potential for Incomplete Crimp Seals</title>
+<link/>https://www.drugs.com/fda/hospira-inc-issues-voluntary-recall-buprenorphine-hcl-carpuject-units-labetalol-hcl-carpuject-units-14679.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer May 21, 2024 - NEW YORK, NY., Hospira, Inc., a Pfizer company (&amp;ldquo;Pfizer&amp;rdquo;), is voluntarily recalling the lots listed in the table below of Buprenorphine Hydrochloride Injection CarpujectTM...</description>
+<pubdate>Tue, 21 May 2024 15:53:00 +0000</pubdate>
+</item>
+<item>
+<title>Cross-Compatibility Issues with Autoinjector Devices Optional for Use with Glatiramer Acetate Injection</title>
+<link/>https://www.drugs.com/fda/cross-compatibility-issues-autoinjector-devices-optional-glatiramer-acetate-14678.html
+<description>Audience: Patients, Caregivers, Health Care Providers May 16, 2024 -- FDA is alerting patients, caregivers, and health care professionals of labeling updates for glatiramer acetate injection products. Updated labeling includes a new warning that...</description>
+<pubdate>Thu, 16 May 2024 14:30:00 +0000</pubdate>
+</item>
+<item>
+<title>FDA Safety Communication: Do Not Use Cue Health’s COVID-19 Tests Due to Risk of False Results</title>
+<link/>https://www.drugs.com/fda/fda-safety-communication-do-not-cue-health-s-covid-19-tests-due-risk-false-results-14677.html
+<description>Audience: Health Care Provider, Consumer May 13, 2024 -- The U.S. Food and Drug Administration (FDA) is warning home test users, caregivers, and health care providers not to use Cue Health&amp;rsquo;s COVID-19 Tests for Home and Over-the-Counter (OTC)...</description>
+<pubdate>Mon, 13 May 2024 18:51:00 +0000</pubdate>
+</item>
+<item>
+<title>FDA Alerts Health Care Professionals of Pregnancy Problems Associated with Thiopurines</title>
+<link/>https://www.drugs.com/fda/fda-alerts-health-care-professionals-pregnancy-problems-associated-thiopurines-14676.html
+<description>Audience: Health Care Professionals April 29, 2024 -- FDA is alerting health care professionals of the rare risk of intrahepatic cholestasis of pregnancy (ICP) associated with the use of thiopurines (azathioprine, 6-mercaptopurine, and...</description>
+<pubdate>Mon, 29 Apr 2024 11:45:00 +0000</pubdate>
+</item>
+<item>
+<title>Dr. Reddy’s Issues Voluntary Nationwide Recall of Sapropterin Dihydrochloride Powder for Oral Solution 100 mg Due to Sub-Potency</title>
+<link/>https://www.drugs.com/fda/dr-reddy-s-issues-voluntary-nationwide-recall-sapropterin-dihydrochloride-powder-oral-solution-100-14674.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer Hyderabad India and Princeton, NJ, US; April 23, 2024 &amp;ndash; Dr. Reddy's Laboratories Ltd. today announced that it is voluntarily recalling six (6) lots of Sapropterin Dihydrochloride Powder for...</description>
+<pubdate>Tue, 23 Apr 2024 09:43:00 +0000</pubdate>
+</item>
+<item>
+<title>FDA Requires Boxed Warning for T Cell Malignancies Following Treatment with BCMA-Directed or CD19-Directed Autologous CAR T Cell Immunotherapies</title>
+<link/>https://www.drugs.com/fda/fda-requires-boxed-warning-t-cell-malignancies-following-bcma-directed-cd19-directed-autologous-car-14673.html
+<description>Audience: Health Professional April 18, 2024 -- In November 2023, the Food and Drug Administration (FDA) posted a safety communication to provide information about reports of T cell malignancies including chimeric antigen receptor CAR-positive...</description>
+<pubdate>Thu, 18 Apr 2024 08:59:00 +0000</pubdate>
+</item>
+<item>
+<title>Counterfeit Versions of Botox Found in Multiple States</title>
+<link/>https://www.drugs.com/fda/counterfeit-versions-botox-found-multiple-states-14672.html
+<description>Audience: Health Care Professionals, Consumers April 16, 2024 -- FDA is alerting health care professionals and consumers that unsafe counterfeit versions of Botox (botulinum toxin) have been found in multiple states and administered to consumers for...</description>
+<pubdate>Tue, 16 Apr 2024 08:04:00 +0000</pubdate>
+</item>
+<item>
+<title>Otsuka Initiates Voluntary Nationwide Recall of Certain Lots of Abilify (aripiprazole) Tablets Due to Drug Product Cross-Contamination on Manufacturing Equipment</title>
+<link/>https://www.drugs.com/fda/otsuka-initiates-voluntary-nationwide-recall-certain-lots-abilify-aripiprazole-due-product-cross-14671.html
+<description>Audience: Healthcare Provider, Pharmacy, Consumer PRINCETON, N.J. (April 9, 2024) &amp;ndash; Otsuka America Pharmaceutical, Inc. (Otsuka) is voluntarily recalling certain Abilify (aripiprazole) Tablets in the United States due to cross-contamination...</description>
+<pubdate>Tue, 09 Apr 2024 15:54:00 +0000</pubdate>
+</item>
+<item>
+<title>Aruba Aloe Balm N.V. Issues Voluntary Nationwide Recall of Aruba Aloe Hand Sanitizer Gel Alcohol 80% and Aruba Aloe Alcoholada Gel Due to Presence of Methanol</title>
+<link/>https://www.drugs.com/fda/aruba-aloe-balm-n-v-issues-voluntary-nationwide-recall-aruba-aloe-hand-sanitizer-gel-alcohol-80-14670.html
+<description>Audience: Consumers April 5, 2024 &amp;ndash; Oranjestad, Aruba, Aruba Aloe Balm N.V. is voluntarily recalling 40 lots of Aruba Aloe Hand Sanitizer Gel Alcohol 80% and Aruba Aloe Alcoholada Gel to the consumer level. The products have been found to...</description>
+<pubdate>Fri, 05 Apr 2024 11:11:00 +0000</pubdate>
+</item>
+<item>
+<title>ForeverMen Supplements Recalled</title>
+<link/>https://www.drugs.com/fda/forevermen-supplements-recalled-14669.html
+<description>Audience: Consumers April 2, 2024 -- FAonline INC , 65-20 180 Street NY 11365 is voluntarily recalling all lots within expiry of the ForeverMen capsules to the consumer level. FDA analysis founds these products to be tainted with sildenafil and...</description>
+<pubdate>Tue, 02 Apr 2024 11:07:00 +0000</pubdate>
+</item>
+<item>
+<title>AvKARE, LLC. Issues Voluntary Nationwide Recall of Atovaquone Oral Suspension, USP 750 mg/5 mL Due to Potential Bacillus Cereus Contamination</title>
+<link/>https://www.drugs.com/fda/avkare-llc-issues-voluntary-nationwide-recall-atovaquone-oral-suspension-usp-750-mg-5-ml-due-14668.html
+<description>Audience: Consumer, Health Professional, Pharmacy March 29, 2024 &amp;ndash;AvKARE, LLC is voluntarily recalling lot # AW0221A of Atovaquone Oral Suspension, USP 750mg/5mL to the Consumer/User level, due to the potential Bacillus cereus contamination in...</description>
+<pubdate>Fri, 29 Mar 2024 07:37:00 +0000</pubdate>
+</item>
+<item>
+<title>Eugia US LLC Issues Voluntary Nationwide Recall of Methocarbamol Injection, USP 1000 mg/10 mL Due to Presence of White Particles</title>
+<link/>https://www.drugs.com/fda/eugia-us-llc-issues-voluntary-nationwide-recall-methocarbamol-usp-1000-mg-10-ml-due-presence-white-14667.html
+<description>Audience: Health Professional, Pharmacy March 28, 2024&amp;ndash; East Windsor, New Jersey, Eugia US LLC (f/k/a AuroMedics Pharma LLC) has initiated a voluntary recall of lot number 3MC23011 of Methocarbamol Injection, USP 1000 mg/10 mL (100mg/mL)...</description>
+<pubdate>Thu, 28 Mar 2024 13:27:00 +0000</pubdate>
+</item>
+<item>
+<title>Amneal Issues a Nationwide Voluntary Recall of Vancomycin Hydrochloride for Oral Solution USP, 250mg/5mL Due to the Potential for Some Bottles to be Super Potent</title>
+<link/>https://www.drugs.com/fda/amneal-issues-nationwide-voluntary-recall-vancomycin-hydrochloride-oral-solution-usp-250mg-5ml-due-14666.html
+<description>Audience: Consumer, Health Professional, Pharmacy March 27, 2024 - Amneal Pharmaceuticals, LLC. Bridgewater, New Jersey (Amneal), is voluntarily recalling 4 lots (see table below) of Vancomycin Hydrochloride for Oral Solution, USP, 250 mg/5mL...</description>
+<pubdate>Wed, 27 Mar 2024 13:15:00 +0000</pubdate>
+</item>
+<item>
+<title>FDA Warns Consumers to Avoid Certain Topical Pain Relief Products Due to Potential for Dangerous Health Effects</title>
+<link/>https://www.drugs.com/fda/fda-warns-consumers-avoid-certain-topical-pain-relief-products-due-potential-dangerous-health-14665.html
+<description>Audience: Consumers March 26, 2024 -- The U.S. Food and Drug Administration is warning consumers not to use certain over-the-counter analgesic (pain relief) products that are marketed for topical use to relieve pain before, during or after certain...</description>
+<pubdate>Tue, 26 Mar 2024 09:28:00 +0000</pubdate>
+</item>
+<item>
+<title>Pyramid Wholesale Issues Recall of Various Brands of Products Sold as Dietary Supplements for Sexual Enhancement</title>
+<link/>https://www.drugs.com/fda/pyramid-wholesale-issues-recall-various-brands-products-sold-dietary-supplements-sexual-enhancement-14664.html
+<description>Audience: Consumers March 19, 2024, Los Angeles, CA &amp;ndash; Pyramid Wholesale is issuing a recall of various brands of products sold as dietary supplements for sexual enhancement because they contain undeclared prescription drugs including...</description>
+<pubdate>Tue, 19 Mar 2024 08:06:00 +0000</pubdate>
+</item>
+<item>
+<title>Par Pharmaceutical Issues Voluntary Nationwide Recall of One Lot of Treprostinil Injection Due to Potential for Silicone Particulates</title>
+<link/>https://www.drugs.com/fda/par-pharmaceutical-issues-voluntary-nationwide-recall-one-lot-treprostinil-due-potential-silicone-14663.html
+<description>Audience: Consumer, Health Professional, Pharmacy March 12, 2024 &amp;ndash; DUBLIN, Ireland &amp;ndash; Endo International plc announced today that one of its operating companies, Par Pharmaceutical, Inc. (Par), is voluntarily recalling one lot of...</description>
+<pubdate>Tue, 12 Mar 2024 09:15:00 +0000</pubdate>
+</item>
+<item>
+<title>Brassica Pharma Pvt. Ltd. Issues Voluntary Nationwide Recall of Eye Ointment Products Due to Potential Lack of Sterility</title>
+<link/>https://www.drugs.com/fda/brassica-pharma-pvt-ltd-issues-voluntary-nationwide-recall-eye-ointment-products-due-potential-lack-14662.html
+<description>Audience: Consumer, Health Professional, Pharmacy, Ophthalmology 22 February, 2024 &amp;ndash; Thane, Maharashtra, India, Brassica Pharma Pvt. Ltd. is voluntarily recalling Eye Ointment products listed in the table below with expiration date ranging...</description>
+<pubdate>Thu, 22 Feb 2024 08:55:00 +0000</pubdate>
+</item>
+</channel>
+</rss></body></html>
+
+
+--------------------
+<?xml version='1.0' encoding='UTF-8'?><html><body><rss version="2.0">
+<channel>
+<title>Drugs.com - New Drug Applications</title>
+<link/>https://www.drugs.com/new-drug-applications.html
+<description>New drug applications news from Drugs.com. Comprehensive, up-to-date drug news for consumers and healthcare professionals.</description>
+<pubdate>Wed, 25 Sep 2024 09:18:48 +0000</pubdate>
+<lastbuilddate>Wed, 25 Sep 2024 09:18:48 +0000</lastbuilddate>
+<language>en-us</language>
+<item>
+<title>KalVista Announces FDA Acceptance of New Drug Application for Sebetralstat for Oral On-Demand Treatment of Hereditary Angioedema</title>
+<link/>https://www.drugs.com/nda/sebetralstat_240903.html
+<description>CAMBRIDGE, Mass. &amp;amp; SALISBURY, England--(BUSINESS WIRE)--Sep. 3, 2024-- KalVista Pharmaceuticals, Inc. (NASDAQ: KALV), today announced that the U.S. Food and Drug Administration (FDA) has accepted its New Drug Application (NDA) for sebetralstat...</description>
+<pubdate>Tue, 03 Sep 2024 20:09:29 +0000</pubdate>
+</item>
+<item>
+<title>Unicycive Therapeutics Announces Submission of the New Drug Application (NDA) to the U.S. FDA for Oxylanthanum Carbonate (OLC) for the Treatment of Hyperphosphatemia in Patients with Chronic Kidney Disease on Dialysis</title>
+<link/>https://www.drugs.com/nda/oxylanthanum_carbonate_240903.html
+<description>LOS ALTOS, Calif., Sept. 03, 2024 (GLOBE NEWSWIRE) -- Unicycive Therapeutics, Inc. (Nasdaq: UNCY), a clinical-stage biotechnology company developing therapies for patients with kidney disease (the &amp;ldquo;Company&amp;rdquo; or &amp;ldquo;Unicycive&amp;rdquo;)...</description>
+<pubdate>Tue, 03 Sep 2024 01:09:22 +0000</pubdate>
+</item>
+<item>
+<title>Johnson &amp; Johnson Seeks First Approval of Nipocalimab to Treat Broadest Population Living with Antibody Positive Generalized Myasthenia Gravis</title>
+<link/>https://www.drugs.com/nda/nipocalimab_240829.html
+<description>Spring House, Pa. (August 29, 2024) &amp;ndash; Johnson &amp;amp; Johnson today announced the submission of a Biologics License Application (BLA) to the U.S. Food and Drug Administration (FDA) seeking the first approval of nipocalimab globally for the...</description>
+<pubdate>Thu, 29 Aug 2024 23:08:30 +0000</pubdate>
+</item>
+<item>
+<title>Telix Submits NDA for TLX101-CDx (Pixclara) Brain Cancer Imaging Agent</title>
+<link/>https://www.drugs.com/nda/pixclara_240828.html
+<description>MELBOURNE, Australia, Aug. 28, 2024 (GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, Telix, the Company) today announces it has submitted a New Drug Application (NDA) to the United States (U.S.) Food and Drug Administration (FDA) for...</description>
+<pubdate>Wed, 28 Aug 2024 03:08:56 +0000</pubdate>
+</item>
+<item>
+<title>FDA Grants Priority Review to SpringWorks Therapeutics’ New Drug Application for Mirdametinib for the Treatment of Adults and Children with NF1-PN</title>
+<link/>https://www.drugs.com/nda/mirdametinib_240828.html
+<description>STAMFORD, Conn., Aug. 28, 2024 (GLOBE NEWSWIRE) -- SpringWorks Therapeutics, Inc. (Nasdaq: SWTX), a commercial-stage biopharmaceutical company focused on severe rare diseases and cancer, announced today that the U.S. Food and Drug Administration...</description>
+<pubdate>Wed, 28 Aug 2024 01:09:40 +0000</pubdate>
+</item>
+<item>
+<title>Soleno Therapeutics Announces U.S. FDA Acceptance for Filing and Priority Review of NDA for DCCR (Diazoxide Choline) Extended-Release Tablets in Prader-Willi Syndrome</title>
+<link/>https://www.drugs.com/nda/dccr_240827.html
+<description>REDWOOD CITY, Calif., Aug. 27, 2024 (GLOBE NEWSWIRE) -- Soleno Therapeutics, Inc. (&amp;ldquo;Soleno&amp;rdquo;) (NASDAQ: SLNO), a clinical-stage biopharmaceutical company developing novel therapeutics for the treatment of rare diseases, today announced...</description>
+<pubdate>Tue, 27 Aug 2024 05:08:33 +0000</pubdate>
+</item>
+<item>
+<title>Regeneron Provides Update on Biologics License Application for Linvoseltamab</title>
+<link/>https://www.drugs.com/nda/linvoseltamab_240820.html
+<description>TARRYTOWN, N.Y., Aug. 20, 2024 (GLOBE NEWSWIRE) -- Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) today announced that the U.S. Food and Drug Administration (FDA) has issued a Complete Response Letter (CRL) for the Biologics License Application...</description>
+<pubdate>Tue, 20 Aug 2024 02:08:46 +0000</pubdate>
+</item>
+<item>
+<title>U.S. FDA Grants Tentative Approval of Yutrepia (treprostinil) Inhalation Powder for Patients with Pulmonary Arterial Hypertension (PAH) and Pulmonary Hypertension Associated with Interstitial Lung Disease (PH-ILD)</title>
+<link/>https://www.drugs.com/nda/yutrepia_240819.html
+<description>MORRISVILLE, N.C., Aug. 19, 2024 (GLOBE NEWSWIRE) -- Liquidia Corporation (NASDAQ: LQDA), a biopharmaceutical company developing innovative therapies for patients with rare cardiopulmonary disease, announced today that the U.S. Food and Drug...</description>
+<pubdate>Mon, 19 Aug 2024 21:08:41 +0000</pubdate>
+</item>
+<item>
+<title>U.S. Food and Drug Administration Accepts for Priority Review Deciphera’s New Drug Application for Vimseltinib for the Treatment of Patients with Tenosynovial Giant Cell Tumor (TGCT)</title>
+<link/>https://www.drugs.com/nda/vimseltinib_240816.html
+<description>Osaka, Japan and Waltham, Massachusetts, August 16, 2024 &amp;ndash; Ono Pharmaceutical, Co., Ltd. (Headquarters: Osaka, Japan; President: Toichi Takino; &amp;ldquo;Ono&amp;rdquo;) today announced that the U.S. Food and Drug Administration (FDA) accepted a...</description>
+<pubdate>Fri, 16 Aug 2024 23:08:14 +0000</pubdate>
+</item>
+<item>
+<title>LENZ Therapeutics Announces Submission of New Drug Application to U.S. Food and Drug Administration for LNZ100 for the Treatment of Presbyopia</title>
+<link/>https://www.drugs.com/nda/lnz100_240812.html
+<description>SAN DIEGO, Aug. 12, 2024 (GLOBE NEWSWIRE) -- LENZ Therapeutics, Inc. (Nasdaq: LENZ or &amp;ldquo;LENZ&amp;rdquo; or the &amp;ldquo;Company&amp;rdquo;), a late clinical-stage biopharmaceutical company focused on developing the first and only aceclidine-based eye...</description>
+<pubdate>Mon, 12 Aug 2024 01:08:26 +0000</pubdate>
+</item>
+<item>
+<title>Lykos Therapeutics Announces Complete Response Letter for Midomafetamine Capsules for PTSD</title>
+<link/>https://www.drugs.com/nda/midomafetamine_240809.html
+<description>SAN JOSE, Calif., Aug. 9, 2024 /PRNewswire/ -- Lykos Therapeutics ("Lykos"), a company dedicated to transforming mental healthcare, announced that the U.S. Food and Drug Administration ("FDA") has issued a complete response letter ("CRL") for the...</description>
+<pubdate>Fri, 09 Aug 2024 21:08:38 +0000</pubdate>
+</item>
+<item>
+<title>George Medicines Announces GMRx2 NDA Filing to FDA</title>
+<link/>https://www.drugs.com/nda/gmrx2_240806.html
+<description>London, UK 6 August 2024 &amp;ndash; George Medicines, a late-stage, biopharmaceutical company addressing significant unmet need in the treatment of cardiometabolic disease, today announces its submission to the US Food and Drug Administration (FDA) of...</description>
+<pubdate>Tue, 06 Aug 2024 02:08:34 +0000</pubdate>
+</item>
+<item>
+<title>FDA Advisory Committee Votes Favorably that the Data Support Arimoclomol as Effective Treatment for Patients with Niemann-Pick Disease Type C</title>
+<link/>https://www.drugs.com/nda/arimoclomol_240802.html
+<description>CELEBRATION, Fla., Aug. 02, 2024 (GLOBE NEWSWIRE) -- Zevra Therapeutics, Inc. (NasdaqGS: ZVRA) (Zevra, or the Company), a rare disease therapeutics company, today announced that the U.S. Food and Drug Administration (FDA) Genetic Metabolic Diseases...</description>
+<pubdate>Fri, 02 Aug 2024 21:08:09 +0000</pubdate>
+</item>
+<item>
+<title>Bayer Submits New Drug Application to U.S. FDA for Elinzanetant for the Treatment of Moderate to Severe Vasomotor Symptoms Associated with Menopause</title>
+<link/>https://www.drugs.com/nda/elinzanetant_240801.html
+<description>Berlin, August 1, 2024 &amp;ndash; Bayer today announced that a New Drug Application (NDA) for the investigational compound elinzanetant has been submitted to the U.S. Food and Drug Administration (FDA) for the treatment of moderate to severe vasomotor...</description>
+<pubdate>Thu, 01 Aug 2024 05:08:36 +0000</pubdate>
+</item>
+<item>
+<title>Vertex Announces FDA Acceptance of New Drug Application for Suzetrigine for the Treatment of Moderate-to-Severe Acute Pain</title>
+<link/>https://www.drugs.com/nda/vx_548_240730.html
+<description>BOSTON--(BUSINESS WIRE)--Jul. 30, 2024-- Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced that the U.S. Food and Drug Administration (FDA) has accepted its New Drug Application (NDA) submission for suzetrigine, an investigational...</description>
+<pubdate>Tue, 30 Jul 2024 02:07:51 +0000</pubdate>
+</item>
+<item>
+<title>Xspray Pharma Shares New Information on Dasynoc, a Novel CML Treatment in Development</title>
+<link/>https://www.drugs.com/nda/dasynoc_240726.html
+<description>July 26, 2024 -- Xspray Pharma AB (publ) (Nasdaq Stockholm: XSPRAY) has received a Complete Response Letter (CRL) from the U.S. Food and Drug Administration (FDA) regarding the New Drug Application (NDA) for Dasynoc, a novel treatment for chronic...</description>
+<pubdate>Fri, 26 Jul 2024 20:07:16 +0000</pubdate>
+</item>
+<item>
+<title>Atara Biotherapeutics Announces U.S. FDA Acceptance and Priority Review of the Biologics License Application for Tabelecleucel (Tab-cel®) for the Treatment of Epstein-Barr Virus Positive Post-Transplant Lymphoproliferative Disease</title>
+<link/>https://www.drugs.com/nda/tabelecleucel_240717.html
+<description>THOUSAND OAKS, Calif.--(BUSINESS WIRE) July 17, 2024 -- Atara Biotherapeutics, Inc. (Nasdaq: ATRA), a leader in T-cell immunotherapy, leveraging its novel allogeneic Epstein-Barr virus (EBV) T-cell platform to develop transformative therapies for...</description>
+<pubdate>Wed, 17 Jul 2024 23:07:48 +0000</pubdate>
+</item>
+<item>
+<title>Orexo Receives a Complete Response Letter Regarding the NDA for OX124, a High-Dose Naloxone Rescue Medication in Development for Opioid Overdose</title>
+<link/>https://www.drugs.com/nda/ox124_240717.html
+<description>Uppsala, Sweden &amp;ndash; July 16, 2024 &amp;ndash; Orexo AB (publ.), (STO:ORX) (OTCQX:ORXOY), today announces that the company has received a complete response letter (CRL) from the US Food and Drug Administration (FDA) regarding the New Drug Application...</description>
+<pubdate>Wed, 17 Jul 2024 00:07:47 +0000</pubdate>
+</item>
+<item>
+<title>Lexicon Pharmaceuticals Receives December 20, 2024 PDUFA Goal Date for Sotagliflozin Type 1 Diabetes NDA Resubmission</title>
+<link/>https://www.drugs.com/nda/zynquista_240716.html
+<description>The Woodlands, Texas, July 16, 2024 - Lexicon Pharmaceuticals, Inc. (Nasdaq: LXRX), today announced that the U.S. Food and Drug Administration (FDA) has acknowledged the resubmission of its New Drug Application (NDA) for Zynquista&amp;trade...</description>
+<pubdate>Tue, 16 Jul 2024 21:07:51 +0000</pubdate>
+</item>
+<item>
+<title>Eton Pharmaceuticals Announces FDA Acceptance of New Drug Application for ET-400 (Hydrocortisone Oral Solution)</title>
+<link/>https://www.drugs.com/nda/et_400_240715.html
+<description>DEER PARK, Ill., July 15, 2024 (GLOBE NEWSWIRE) -- Eton Pharmaceuticals, Inc (&amp;ldquo;Eton&amp;rdquo; or the &amp;ldquo;Company&amp;rdquo;) (Nasdaq: ETON), an innovative pharmaceutical company focused on developing and commercializing treatments for rare...</description>
+<pubdate>Mon, 15 Jul 2024 04:07:42 +0000</pubdate>
+</item>
+<item>
+<title>Vertex Announces FDA Acceptance of New Drug Application for Vanzacaftor/Tezacaftor/Deutivacaftor, a Next-In-Class Triple Combination Treatment for Cystic Fibrosis</title>
+<link/>https://www.drugs.com/nda/vanzacaftor_tezacaftor_deutivacaftor_240702.html
+<description>BOSTON--(BUSINESS WIRE)--Jul. 2, 2024-- Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced that the U.S. Food and Drug Administration (FDA) has accepted its New Drug Application (NDA) for investigational once-daily...</description>
+<pubdate>Tue, 02 Jul 2024 05:07:13 +0000</pubdate>
+</item>
+<item>
+<title>SpringWorks Therapeutics Completes Submission of New Drug Application to the FDA for Mirdametinib for the Treatment of Children and Adults with NF1-PN</title>
+<link/>https://www.drugs.com/nda/mirdametinib_240701.html
+<description>STAMFORD, Conn., July 01, 2024 (GLOBE NEWSWIRE) -- SpringWorks Therapeutics, Inc. (Nasdaq: SWTX), a commercial-stage biopharmaceutical company focused on severe rare diseases and cancer, announced today that the Company has completed the submission...</description>
+<pubdate>Mon, 01 Jul 2024 06:07:15 +0000</pubdate>
+</item>
+<item>
+<title>Patritumab Deruxtecan BLA Submission Receives Complete Response Letter from FDA Due to Inspection Findings at Third-Party Manufacturer</title>
+<link/>https://www.drugs.com/nda/patritumab_deruxtecan_240626.html
+<description>BASKING RIDGE, N.J. &amp;amp; RAHWAY, N.J., June 26, 2024 &amp;ndash; The U.S. Food and Drug Administration (FDA) has issued a Complete Response Letter (CRL) for the Biologics License Application (BLA) seeking accelerated approval of Daiichi Sankyo (TSE...</description>
+<pubdate>Wed, 26 Jun 2024 04:06:40 +0000</pubdate>
+</item>
+<item>
+<title>AbbVie Provides U.S. Regulatory Update on ABBV-951 (Foscarbidopa/Foslevodopa)</title>
+<link/>https://www.drugs.com/nda/abbv_951_240625.html
+<description>NORTH CHICAGO, Ill., June 25, 2024 /PRNewswire/ -- AbbVie (NYSE: ABBV) today announced it received a Complete Response Letter (CRL) from the U.S. Food and Drug Administration (FDA) for the New Drug Application (NDA) for ABBV-951...</description>
+<pubdate>Tue, 25 Jun 2024 21:06:33 +0000</pubdate>
+</item>
+<item>
+<title>Lexicon Pharmaceuticals Resubmits Sotagliflozin NDA for Type 1 Diabetes</title>
+<link/>https://www.drugs.com/nda/zynquista_240621.html
+<description>The Woodlands, Texas, June 21, 2024 - Lexicon Pharmaceuticals, Inc. (Nasdaq: LXRX), today announced that, following multiple interactions with and recent feedback from the U.S. Food and Drug Administration (FDA), it has resubmitted its New Drug...</description>
+<pubdate>Fri, 21 Jun 2024 00:07:47 +0000</pubdate>
+</item>
+<item>
+<title>KalVista Submits New Drug Application to FDA for Sebetralstat as First Oral On-Demand Treatment for Hereditary Angioedema</title>
+<link/>https://www.drugs.com/nda/sebetralstat_240618.html
+<description>CAMBRIDGE, Mass. &amp;amp; SALISBURY, England--(BUSINESS WIRE)--Jun. 18, 2024-- KalVista Pharmaceuticals, Inc. (NASDAQ: KALV), today announced the submission of a New Drug Application (NDA) for U.S. Food and Drug Administration (FDA) review of...</description>
+<pubdate>Tue, 18 Jun 2024 00:06:39 +0000</pubdate>
+</item>
+<item>
+<title>Iterum Therapeutics Receives FDA Acceptance of Resubmission of NDA for Oral Sulopenem for the treatment of Uncomplicated Urinary Tract Infections</title>
+<link/>https://www.drugs.com/nda/sulopenem_240531.html
+<description>DUBLIN and CHICAGO, May 31, 2024 (GLOBE NEWSWIRE) -- Iterum Therapeutics plc (Nasdaq: ITRM) (the Company), a clinical-stage pharmaceutical company focused on developing next generation oral and IV antibiotics to treat infections caused by multi-drug...</description>
+<pubdate>Fri, 31 May 2024 02:05:21 +0000</pubdate>
+</item>
+<item>
+<title>U.S. FDA Acknowledges Astellas' Resubmission of Biologics License Application for Zolbetuximab and Sets New Action Date</title>
+<link/>https://www.drugs.com/nda/zolbetuximab_240530.html
+<description>TOKYO, May 30, 2024 /PRNewswire/ -- Astellas Pharma Inc. (TSE: 4503, President and CEO: Naoki Okamura, "Astellas") today announced that the U.S. Food and Drug Administration (FDA) has acknowledged the company's resubmission of the Biologics License...</description>
+<pubdate>Thu, 30 May 2024 05:06:15 +0000</pubdate>
+</item>
+<item>
+<title>Milestone Pharmaceuticals Announces FDA Acceptance of New Drug Application for Cardamyst</title>
+<link/>https://www.drugs.com/nda/cardamyst_240529.html
+<description>MONTREAL and CHARLOTTE, N.C., May 29, 2024 (GLOBE NEWSWIRE) -- Milestone&amp;reg; Pharmaceuticals Inc. (Nasdaq: MIST), a biopharmaceutical company focused on the development and commercialization of innovative cardiovascular medicines, today announced...</description>
+<pubdate>Wed, 29 May 2024 02:05:34 +0000</pubdate>
+</item>
+<item>
+<title>FDA Grants Priority Review to Roche’s Inavolisib for Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer with a PIK3CA Mutation</title>
+<link/>https://www.drugs.com/nda/inavolisib_240529.html
+<description>Basel, 29 May 2024 - Roche (SIX: RO, ROG; OTCQX: RHHBY) announced today that the U.S. Food and Drug Administration (FDA) has accepted the company&amp;rsquo;s New Drug Application and granted Priority Review to inavolisib, an investigational, oral...</description>
+<pubdate>Wed, 29 May 2024 02:05:05 +0000</pubdate>
+</item>
+<item>
+<title>Atara Biotherapeutics Submits Tabelecleucel (Tab-cel®) Biologics License Application for Treatment of Epstein-Barr Virus Positive Post-Transplant Lymphoproliferative Disease with U.S. FDA</title>
+<link/>https://www.drugs.com/nda/tabelecleucel_240520.html
+<description>THOUSAND OAKS, Calif.--(BUSINESS WIRE) May 20, 2024 -- Atara Biotherapeutics, Inc. (Nasdaq: ATRA), a leader in T-cell immunotherapy, leveraging its novel allogeneic Epstein-Barr virus (EBV) T-cell platform to develop transformative therapies for...</description>
+<pubdate>Mon, 20 May 2024 23:05:54 +0000</pubdate>
+</item>
+<item>
+<title>Ascendis Pharma Announces Extension of U.S. Food and Drug Administration Review Period for TransCon PTH for Adults with Hypoparathyroidism</title>
+<link/>https://www.drugs.com/nda/transcon_pth_240514.html
+<description>COPENHAGEN, Denmark, May 14, 2024 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced that the U.S. Food and Drug Administration (FDA) notified the Company that information submitted in response to the FDA&amp;rsquo;s ongoing review...</description>
+<pubdate>Tue, 14 May 2024 01:05:18 +0000</pubdate>
+</item>
+<item>
+<title>Eton Pharmaceuticals Announces Submission to FDA of New Drug Application for ET-400 (Hydrocortisone Oral Solution)</title>
+<link/>https://www.drugs.com/nda/et_400_240430.html
+<description>DEER PARK, Ill., April 30, 2024 (GLOBE NEWSWIRE) -- Eton Pharmaceuticals, Inc (&amp;ldquo;Eton&amp;rdquo; or the &amp;ldquo;Company&amp;rdquo;) (Nasdaq: ETON), an innovative pharmaceutical company focused on developing and commercializing treatments for rare...</description>
+<pubdate>Tue, 30 Apr 2024 02:04:44 +0000</pubdate>
+</item>
+<item>
+<title>Iterum Therapeutics Resubmits New Drug Application to U.S. Food and Drug Administration for Oral Sulopenem</title>
+<link/>https://www.drugs.com/nda/sulopenem_240429.html
+<description>DUBLIN, Ireland and CHICAGO, April 29, 2024 (GLOBE NEWSWIRE) -- Iterum Therapeutics plc (Nasdaq: ITRM) (the Company), a clinical-stage pharmaceutical company focused on developing next generation oral and IV antibiotics to treat infections caused by...</description>
+<pubdate>Mon, 29 Apr 2024 02:04:34 +0000</pubdate>
+</item>
+<item>
+<title>Abeona Therapeutics Provides Regulatory Update on Pz-cel</title>
+<link/>https://www.drugs.com/nda/eb_101_240422.html
+<description>CLEVELAND, April 22, 2024 (GLOBE NEWSWIRE) -- Abeona Therapeutics Inc. (Nasdaq: ABEO) today announced a regulatory update for prademagene zamikeracel (pz-cel). The U.S. Food and Drug Administration (FDA) has issued a Complete Response Letter (CRL)...</description>
+<pubdate>Mon, 22 Apr 2024 04:04:20 +0000</pubdate>
+</item>
+<item>
+<title>Supernus Provides Regulatory Update for SPN-830</title>
+<link/>https://www.drugs.com/nda/spn_830_240408.html
+<description>ROCKVILLE, Md., April 08, 2024 (GLOBE NEWSWIRE) -- Supernus Pharmaceuticals, Inc. (Nasdaq: SUPN), a biopharmaceutical company focused on developing and commercializing products for the treatment of central nervous system (CNS) diseases, today...</description>
+<pubdate>Mon, 08 Apr 2024 22:04:37 +0000</pubdate>
+</item>
+<item>
+<title>Stealth Biotherapeutics Announces FDA Acceptance of New Drug Application for Elamipretide for the Treatment of Barth Syndrome</title>
+<link/>https://www.drugs.com/nda/elamipretide_240408.html
+<description>NEEDHAM, Mass., April 8, 2024 /PRNewswire/ &amp;mdash; Stealth BioTherapeutics, a clinical-stage biotechnology company focused on the discovery, development and commercialization of novel therapies for diseases involving mitochondrial dysfunction, today...</description>
+<pubdate>Mon, 08 Apr 2024 04:04:03 +0000</pubdate>
+</item>
+<item>
+<title>Jazz Pharmaceuticals Completes Zanidatamab Biologics License Application for Previously Treated HER2-Positive Metastatic Biliary Tract Cancer</title>
+<link/>https://www.drugs.com/nda/zanidatamab_240402.html
+<description>DUBLIN, April 2, 2024 /PRNewswire/ -- Jazz Pharmaceuticals plc (Nasdaq: JAZZ) today announced that the company has completed the rolling submission of a Biologics License Application (BLA) to the U.S. Food and Drug Administration (FDA) seeking...</description>
+<pubdate>Tue, 02 Apr 2024 18:04:38 +0000</pubdate>
+</item>
+<item>
+<title>Datopotamab Deruxtecan Biologics License Application Accepted in the US for Patients with Previously Treated Metastatic HR-Positive, HER2-Negative Breast Cancer</title>
+<link/>https://www.drugs.com/nda/datopotamab_deruxtecan_240402.html
+<description>2 April 2024 -- AstraZeneca and Daiichi Sankyo&amp;rsquo;s Biologics License Application (BLA) for datopotamab deruxtecan (Dato-DXd) has been accepted in the US for the treatment of adult patients with unresectable or metastatic hormone receptor...</description>
+<pubdate>Tue, 02 Apr 2024 01:04:35 +0000</pubdate>
+</item>
+<item>
+<title>Milestone Pharmaceuticals Announces Resubmission of New Drug Application for Etripamil for Treatment in Paroxysmal Supraventricular Tachycardia</title>
+<link/>https://www.drugs.com/nda/cardamyst_240328.html
+<description>MONTREAL and CHARLOTTE, N.C., March 28, 2024 (GLOBE NEWSWIRE) -- Milestone&amp;reg; Pharmaceuticals Inc. (Nasdaq: MIST), a biopharmaceutical company focused on the development and commercialization of innovative cardiovascular medicines, today announced...</description>
+<pubdate>Thu, 28 Mar 2024 19:03:53 +0000</pubdate>
+</item>
+</channel>
+</rss></body></html>
+
+
+--------------------
+<?xml version='1.0' encoding='UTF-8'?><html><body><rss version="2.0">
+<channel>
+<title>Drugs.com - Clinical Trials</title>
+<link/>https://www.drugs.com/clinical_trials.html
+<description>Clinical trial news from Drugs.com. Comprehensive, up-to-date drug news for consumers and healthcare professionals.</description>
+<pubdate>Wed, 25 Sep 2024 09:18:48 +0000</pubdate>
+<lastbuilddate>Wed, 25 Sep 2024 09:18:48 +0000</lastbuilddate>
+<language>en-us</language>
+<item>
+<title>TCBP Announces First Patient Completed the Full Dose Regimen in ACHIEVE Clinical Trial</title>
+<link/>https://www.drugs.com/clinical_trials/tcbp-announces-first-patient-completed-full-regimen-achieve-clinical-trial-21672.html
+<description>EDINBURGH, Scotland, Sept. 22, 2024. TC BioPharm (Holdings) PLC ("TC BioPharm" or the "Company"), a clinical stage biotechnology company developing platform allogeneic gamma-delta T cell therapies for cancer and other indications, today announces...</description>
+<pubdate>Mon, 23 Sep 2024 05:09:24 +0000</pubdate>
+</item>
+<item>
+<title>Insilico Medicine Reports Positive Phase IIa Results for ISM001-055, a Novel First-in-Class Drug Treatment for Idiopathic Pulmonary Fibrosis (IPF) Designed Using Generative AI</title>
+<link/>https://www.drugs.com/clinical_trials/insilico-medicine-reports-positive-phase-iia-results-ism001-055-novel-first-class-idiopathic-21669.html
+<description>CAMBRIDGE, Mass., Sept. 18, 2024. Insilico Medicine, a clinical-stage generative AI-driven drug discovery company, announced positive preliminary results from its Phase IIa clinical trial evaluating ISM001-055. ISM001-055 is a first-in-class small...</description>
+<pubdate>Thu, 19 Sep 2024 06:09:23 +0000</pubdate>
+</item>
+<item>
+<title>Ascletis Enters the Obesity Drug Space with Announcement of Two Ongoing U.S. Phase I Clinical Trials Utilizing Its Small Molecule GLP-1R Agonist ASC30</title>
+<link/>https://www.drugs.com/clinical_trials/ascletis-enters-obesity-space-announcement-two-ongoing-u-s-phase-clinical-trials-utilizing-small-21668.html
+<description>HONG KONG, Sept. 17, 2024. Ascletis Pharma Inc. ("Ascletis") announces today completion of initial dosing in its two recently initiated U.S. Phase I clinical trials for ASC30, the first and only small molecule GLP-1 receptor (GLP-1R) agonist that...</description>
+<pubdate>Tue, 17 Sep 2024 11:09:10 +0000</pubdate>
+</item>
+<item>
+<title>Trishula Therapeutics Presents Positive Results from Phase 1 Trial of TTX-030 in First-Line Metastatic Pancreatic Cancer Patients</title>
+<link/>https://www.drugs.com/clinical_trials/trishula-therapeutics-presents-positive-results-phase-1-trial-ttx-030-first-line-metastatic-21667.html
+<description>SOUTH SAN FRANCISCO, Calif., Sept. 16, 2024. Trishula Therapeutics, Inc., a clinical stage, privately held biotechnology company, today reported final results from a Phase 1 trial of TTX-030, a potential first-in-class, anti-CD39 antibody, in...</description>
+<pubdate>Mon, 16 Sep 2024 14:09:08 +0000</pubdate>
+</item>
+<item>
+<title>Vico Therapeutics Announces Positive Interim Phase 1/2a Clinical Data of VO659 in Treatment of Huntington's Disease</title>
+<link/>https://www.drugs.com/clinical_trials/vico-therapeutics-announces-positive-interim-phase-1-2a-clinical-data-vo659-huntington-s-21666.html
+<description>LEIDEN, Netherlands, Sept. 13, 2024. Vico Therapeutics B.V., a clinical-stage genetic medicines company developing therapies for severe neurological diseases, today announced new positive interim data in Huntington's disease (HD) from the ongoing...</description>
+<pubdate>Sat, 14 Sep 2024 05:09:35 +0000</pubdate>
+</item>
+<item>
+<title>Neurocrine Biosciences Provides Update on ERUDITE Phase 2 Data for Luvadaxistat in Adults with Cognitive Impairment Associated with Schizophrenia</title>
+<link/>https://www.drugs.com/clinical_trials/neurocrine-biosciences-provides-update-erudite-phase-2-data-luvadaxistat-adults-cognitive-21664.html
+<description>SAN DIEGO, Sept. 12, 2024. Neurocrine Biosciences, Inc. today announced that its ERUDITE Phase 2 clinical study of investigational compound luvadaxistat (NBI-1065844) failed to meet its primary endpoint as a potential treatment to improve cognitive...</description>
+<pubdate>Fri, 13 Sep 2024 06:09:43 +0000</pubdate>
+</item>
+<item>
+<title>Biolexis Unveils Promising Data with an Oral Weight Loss Drug: BLX-7006 Shows Significant Results in Preclinical Studies</title>
+<link/>https://www.drugs.com/clinical_trials/biolexis-unveils-promising-data-oral-weight-loss-blx-7006-shows-significant-results-preclinical-21663.html
+<description>LEHI, Utah., Sept. 12, 2024. Biolexis Therapeutics, a biopharmaceutical company pioneering next-generation weight loss treatments, today announced the remarkable preclinical results of its oral small molecule GLP-1 agonist, BLX-7006. In a recent...</description>
+<pubdate>Thu, 12 Sep 2024 14:09:36 +0000</pubdate>
+</item>
+<item>
+<title>Dupixent Phase 3 Trial Confirms Significant Improvements in Itch and Hives for Patients with Chronic Spontaneous Urticaria</title>
+<link/>https://www.drugs.com/clinical_trials/dupixent-phase-3-trial-confirms-significant-improvements-itch-hives-patients-chronic-spontaneous-21662.html
+<description>TARRYTOWN, N.Y. and PARIS, Sept. 11, 2024. Regeneron Pharmaceuticals, Inc. and Sanofi today announced that a Dupixent (dupilumab) confirmatory Phase 3 trial (LIBERTY-CUPID Study C) met the primary and key secondary endpoints for the investigational...</description>
+<pubdate>Wed, 11 Sep 2024 08:09:52 +0000</pubdate>
+</item>
+<item>
+<title>Once-weekly dose of insulin efsitora alfa delivers A1C reduction consistent with the most advanced daily insulin in people with type 2 diabetes</title>
+<link/>https://www.drugs.com/clinical_trials/once-weekly-insulin-efsitora-alfa-delivers-a1c-reduction-consistent-most-advanced-daily-insulin-21661.html
+<description>INDIANAPOLIS, Sept. 10, 2024. Eli Lilly and Company today announced detailed results from the QWINT-2 phase 3 trial evaluating once-weekly insulin efsitora alfa (efsitora) compared to once-daily insulin degludec in adults with type 2 diabetes using...</description>
+<pubdate>Tue, 10 Sep 2024 15:09:36 +0000</pubdate>
+</item>
+<item>
+<title>First Patients Treated in Phase 2 Clinical Trial of STAT3 Inhibitor in Combination with Radiation for the Treatment of Glioblastoma</title>
+<link/>https://www.drugs.com/clinical_trials/first-patients-treated-phase-2-clinical-trial-stat3-inhibitor-combination-radiation-glioblastoma-21660.html
+<description>HOUSTON, Sept. 9, 2024. Moleculin Biotech, Inc., ("Moleculin" or the "Company), a Phase 3 clinical-stage pharmaceutical company with a broad portfolio of drug candidates targeting hard-to-treat tumors and viruses, today announced the enrollment and...</description>
+<pubdate>Mon, 09 Sep 2024 20:09:38 +0000</pubdate>
+</item>
+<item>
+<title>Datopotamab Deruxtecan Showed Median Overall Survival of 14.6 Months in Patients with Advanced Nonsquamous Non-Small Cell Lung Cancer in TROPION-Lung01 Phase III Trial</title>
+<link/>https://www.drugs.com/clinical_trials/datopotamab-deruxtecan-showed-median-overall-survival-14-6-months-patients-advanced-nonsquamous-non-21665.html
+<description>9 September 2024 -- Detailed results from the TROPION-Lung01 Phase III trial showed a clinically meaningful trend toward improving overall survival (OS) with datopotamab deruxtecan (Dato-DXd) compared to docetaxel, the current standard of care...</description>
+<pubdate>Mon, 09 Sep 2024 09:09:03 +0000</pubdate>
+</item>
+<item>
+<title>Cartesian Therapeutics Receives FDA Rare Pediatric Disease Designation for Descartes-08 for the Treatment of Juvenile Dermatomyositis</title>
+<link/>https://www.drugs.com/clinical_trials/cartesian-therapeutics-receives-fda-rare-pediatric-designation-descartes-08-juvenile-dermatomyositis-21671.html
+<description>GAITHERSBURG, Md., Sept. 09, 2024 (GLOBE NEWSWIRE) -- Cartesian Therapeutics, Inc. (NASDAQ: RNAC) (the &amp;ldquo;Company&amp;rdquo;), a clinical-stage biotechnology company pioneering mRNA cell therapy for autoimmune diseases, today announced that the U.S...</description>
+<pubdate>Mon, 09 Sep 2024 08:09:14 +0000</pubdate>
+</item>
+<item>
+<title>Novel Computational Pathology-Based TROP2 Biomarker for Datopotamab Deruxtecan Was Predictive of Clinical Outcomes in Patients With Non-Small Cell Lung Cancer in TROPION-Lung01 Phase III Trial</title>
+<link/>https://www.drugs.com/clinical_trials/novel-computational-pathology-based-trop2-biomarker-datopotamab-deruxtecan-predictive-clinical-21657.html
+<description>September 8, 2024 -- Results from an exploratory analysis of the TROPION-Lung01 Phase III trial showed TROP2 as measured by AstraZeneca&amp;rsquo;s proprietary computational pathology platform, quantitative continuous scoring (QCS), was predictive of...</description>
+<pubdate>Sun, 08 Sep 2024 06:09:50 +0000</pubdate>
+</item>
+<item>
+<title>Ifinatamab Deruxtecan Continues to Demonstrate Promising Objective Response Rates in Patients with Extensive-Stage Small Cell Lung Cancer in IDeate-Lung01 Phase 2 Trial</title>
+<link/>https://www.drugs.com/clinical_trials/ifinatamab-deruxtecan-continues-demonstrate-promising-objective-response-rates-patients-extensive-21659.html
+<description>BASKING RIDGE, N.J. &amp;amp; RAHWAY, N.J., September 7, 2024 &amp;ndash;  Results from an interim analysis of the dose-optimization part of the ongoing IDeate-Lung01 phase 2 trial showed ifinatamab deruxtecan (I-DXd) continues to demonstrate promising...</description>
+<pubdate>Sat, 07 Sep 2024 06:09:18 +0000</pubdate>
+</item>
+<item>
+<title>First Patient Enrolled in Phase 1b/2 Triplet Therapy Trial of REZLIDHIA in mIDH1 AML</title>
+<link/>https://www.drugs.com/clinical_trials/first-patient-enrolled-phase-1b-2-triplet-therapy-trial-rezlidhia-midh1-aml-21655.html
+<description>SOUTH SAN FRANCISCO, Calif., Sept. 5, 2024. Rigel Pharmaceuticals, a commercial stage biotechnology company focused on hematologic disorders and cancer, today announced the first patient has been enrolled in a Phase 1b/2 triplet therapy trial of...</description>
+<pubdate>Fri, 06 Sep 2024 07:09:41 +0000</pubdate>
+</item>
+<item>
+<title>In a First-of-its-kind Fixed Dose Study, Once Weekly Insulin Efsitora Alfa Leads to A1C Reduction Similar to Daily Insulin</title>
+<link/>https://www.drugs.com/clinical_trials/first-kind-fixed-study-once-weekly-insulin-efsitora-alfa-leads-a1c-reduction-similar-daily-insulin-21658.html
+<description>INDIANAPOLIS, Sept. 5, 2024 /PRNewswire/ -- Eli Lilly and Company (NYSE: LLY) today announced positive topline results from the QWINT-1 and QWINT-3 phase 3 clinical trials evaluating once weekly insulin efsitora alfa (efsitora) in adults with type 2...</description>
+<pubdate>Thu, 05 Sep 2024 06:09:43 +0000</pubdate>
+</item>
+<item>
+<title>Crestone Announces Positive Data From Phase 2 Clinical Trial of CRS3123 for C. Difficile Infections (CDI)</title>
+<link/>https://www.drugs.com/clinical_trials/crestone-announces-positive-data-phase-2-clinical-trial-crs3123-c-difficile-infections-cdi-21656.html
+<description>BOULDER, Colo.--(BUSINESS WIRE)-- September 05, 2024 -- Crestone, Inc. (&amp;ldquo;Crestone&amp;rdquo;) today announced positive topline results from the Phase 2 clinical trial evaluating CRS3123 in patients with Clostridioides difficile infection (CDI)...</description>
+<pubdate>Thu, 05 Sep 2024 05:09:06 +0000</pubdate>
+</item>
+<item>
+<title>First Patient Enrolled in Investigator-Sponsored Phase 2 Clinical Trial of Vidofludimus Calcium in Patients with Post COVID Syndrome</title>
+<link/>https://www.drugs.com/clinical_trials/first-patient-enrolled-investigator-sponsored-phase-2-clinical-trial-vidofludimus-calcium-patients-21654.html
+<description>NEW YORK, Sept. 4, 2024. Immunic, Inc., a biotechnology company developing a clinical pipeline of orally administered, small molecule therapies for chronic inflammatory and autoimmune diseases, today announced enrollment of the first patient in an...</description>
+<pubdate>Thu, 05 Sep 2024 04:09:00 +0000</pubdate>
+</item>
+<item>
+<title>Merck and EyeBio Announce Initiation of Phase 2b/3 Clinical Trial for Restoret™ for the Treatment of Diabetic Macular Edema</title>
+<link/>https://www.drugs.com/clinical_trials/merck-eyebio-announce-initiation-phase-2b-3-clinical-trial-restoret-diabetic-macular-edema-21653.html
+<description>RAHWAY, N.J.--(BUSINESS WIRE) September 4, 2024 --  Merck (NYSE: MRK), known as MSD outside of the United States and Canada, and EyeBio, a wholly-owned subsidiary of Merck &amp;amp; Co., Inc., Rahway, N.J., USA, today announced the initiation of the...</description>
+<pubdate>Wed, 04 Sep 2024 22:09:23 +0000</pubdate>
+</item>
+<item>
+<title>Arrowhead Pharmaceuticals Presents New Pivotal Phase 3 Data at ESC 2024 from PALISADE Study of Plozasiran in Patients with Familial Chylomicronemia Syndrome</title>
+<link/>https://www.drugs.com/clinical_trials/arrowhead-pharmaceuticals-presents-new-pivotal-phase-3-data-esc-2024-palisade-study-plozasiran-21652.html
+<description>PASADENA, Calif.&amp;ndash;(BUSINESS WIRE)&amp;ndash;Sep. 2, 2024&amp;ndash; Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today announced results from the Phase 3 PALISADE study of investigational plozasiran in patients with familial chylomicronemia syndrome...</description>
+<pubdate>Mon, 02 Sep 2024 04:09:24 +0000</pubdate>
+</item>
+<item>
+<title>New Pooled Analysis Published in The Lancet Demonstrated Reduced Risk of Combined CV Death or Worsening Heart Failure with Semaglutide</title>
+<link/>https://www.drugs.com/clinical_trials/new-pooled-analysis-published-lancet-demonstrated-reduced-risk-combined-cv-death-worsening-heart-21649.html
+<description>PLAINSBORO, N.J.,  Aug. 30, 2024 /PRNewswire/ -- Today, The Lancet published a new pooled, participant-level analysis of patients with heart failure with mildly reduced ejection fraction or heart failure with preserved ejection fraction (HFpEF)...</description>
+<pubdate>Fri, 30 Aug 2024 03:09:52 +0000</pubdate>
+</item>
+<item>
+<title>Novavax 2024-2025 Formula COVID-19 Vaccine Now Authorized and Recommended for Use in the U.S.</title>
+<link/>https://www.drugs.com/clinical_trials/novavax-2024-2025-formula-covid-19-vaccine-now-authorized-recommended-u-s-21646.html
+<description>GAITHERSBURG, Md., Aug. 30, 2024 /PRNewswire/ -- Novavax, Inc. (Nasdaq: NVAX), a global company advancing protein-based vaccines with its Matrix-M&amp;trade; adjuvant, today announced the Novavax COVID-19 Vaccine, Adjuvanted (2024-2025 Formula)...</description>
+<pubdate>Fri, 30 Aug 2024 00:08:42 +0000</pubdate>
+</item>
+<item>
+<title>Cannabis and Hallucinogen Use Among Adults Remained at Historic Highs in 2023</title>
+<link/>https://www.drugs.com/clinical_trials/cannabis-hallucinogen-among-adults-remained-historic-highs-2023-21648.html
+<description>August 29, 2024 -- Past-year use of cannabis and hallucinogens stayed at historically high levels in 2023 among adults aged 19 to 30 and 35 to 50, according to the latest findings from the Monitoring the Future survey. In contrast, past-year use of...</description>
+<pubdate>Thu, 29 Aug 2024 00:08:29 +0000</pubdate>
+</item>
+<item>
+<title>Astellas Initiates Phase 3 Clinical Study of Fezolinetant for VMS in Women with Breast Cancer Receiving Adjuvant Endocrine Therapy</title>
+<link/>https://www.drugs.com/clinical_trials/astellas-initiates-phase-3-clinical-study-fezolinetant-vms-women-breast-cancer-receiving-adjuvant-21644.html
+<description>TOKYO, Aug. 27, 2024. Astellas Pharma Inc. (today announced dosing of the first patient in the HIGHLIGHT 1 Phase 3 pivotal study for fezolinetant, an investigational oral, nonhormonal compound being studied for the treatment of moderate to severe...</description>
+<pubdate>Wed, 28 Aug 2024 00:08:21 +0000</pubdate>
+</item>
+<item>
+<title>Lilly Releases Zepbound (tirzepatide) Single-Dose Vials, Expanding Supply and Access for Adults Living with Obesity</title>
+<link/>https://www.drugs.com/clinical_trials/lilly-releases-zepbound-tirzepatide-single-vials-expanding-supply-access-adults-living-obesity-21642.html
+<description>INDIANAPOLIS, Aug. 27, 2024 /PRNewswire/ -- Eli Lilly and Company (NYSE: LLY) today announced Zepbound&amp;reg; (tirzepatide) 2.5 mg and 5 mg single-dose vials are available for self-pay for patients with an on-label prescription, significantly...</description>
+<pubdate>Tue, 27 Aug 2024 23:08:53 +0000</pubdate>
+</item>
+<item>
+<title>Merck Announces Phase 3 Trial Initiation for Bomedemstat, an Investigational Candidate for the Treatment of Certain Patients With Essential Thrombocythemia</title>
+<link/>https://www.drugs.com/clinical_trials/merck-announces-phase-3-trial-initiation-bomedemstat-investigational-candidate-certain-patients-21643.html
+<description>RAHWAY, N.J.--(BUSINESS WIRE) August 27, 2024 --  Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced the initiation of Shorespan-007, a pivotal Phase 3 clinical trial evaluating bomedemstat, an investigational...</description>
+<pubdate>Tue, 27 Aug 2024 00:08:52 +0000</pubdate>
+</item>
+<item>
+<title>‘Low-Intensity’ Blood Stem Cell Transplants for Sickle Cell Appear Safe for Lung Health</title>
+<link/>https://www.drugs.com/clinical_trials/low-intensity-blood-stem-cell-transplants-sickle-cell-appear-safe-lung-health-21647.html
+<description>August 27, 2024 -- So-called low-intensity blood stem cell transplants, which use milder conditioning agents than standard stem cell transplants, do not appear to damage the lungs and may help improve lung function in some patients with sickle cell...</description>
+<pubdate>Tue, 27 Aug 2024 00:08:32 +0000</pubdate>
+</item>
+<item>
+<title>FDA Releases Important Information About Risk of COVID-19 Due to SARS-CoV-2 Viral Variants with Substantially Reduced Susceptibility to Pemgarda (pemivibart)</title>
+<link/>https://www.drugs.com/clinical_trials/fda-releases-important-risk-covid-19-due-sars-cov-2-viral-variants-substantially-reduced-21641.html
+<description>August 26, 2024 -- The U.S. Food and Drug Administration today revised the Emergency Use Authorization (EUA) for Pemgarda (pemivibart) to limit its use to when the combined national frequency of variants with substantially reduced susceptibility to...</description>
+<pubdate>Mon, 26 Aug 2024 23:08:08 +0000</pubdate>
+</item>
+<item>
+<title>Mabwell Announces the CDE Approval of Novel Nectin-4 Targeting ADC to Initiate Phase III Clinical Trial for the Treatment of Cervical Cancer</title>
+<link/>https://www.drugs.com/clinical_trials/mabwell-announces-cde-approval-novel-nectin-4-targeting-adc-initiate-phase-iii-clinical-trial-21639.html
+<description>SHANGHAI, Aug. 23, 2024. Mabwell  an innovative biopharmaceutical company with entire industry chain, announced that its submission to the Center for Drug Evaluation (CDE) of the National Medical Products Administration (NMPA) for the "A Randomized...</description>
+<pubdate>Sat, 24 Aug 2024 23:08:32 +0000</pubdate>
+</item>
+<item>
+<title>The Journal of American Medical Association (JAMA) Publishes Elinzanetant Phase III Data</title>
+<link/>https://www.drugs.com/clinical_trials/journal-american-medical-association-jama-publishes-elinzanetant-phase-iii-data-21640.html
+<description>Berlin, August 22, 2024 &amp;ndash; Data published in The Journal of the American Medical Association (JAMA) from the pivotal Phase III studies OASIS 1 and 2, evaluating the efficacy and safety of the investigational compound elinzanetant, has shown...</description>
+<pubdate>Thu, 22 Aug 2024 22:08:53 +0000</pubdate>
+</item>
+<item>
+<title>Bayer Initiates Phase II Study of Soluble Guanylate Cyclase Activator (BAY3283142) in Patients with Chronic Kidney Disease</title>
+<link/>https://www.drugs.com/clinical_trials/bayer-initiates-phase-ii-study-soluble-guanylate-cyclase-activator-bay3283142-patients-chronic-21637.html
+<description>Berlin, Germany, August 22, 2024 &amp;ndash; Bayer announced today the start of the ALPINE-1 study, a Phase II clinical trial with BAY3283142, an investigational soluble guanylate cyclase (sGC) activator, in patients with chronic kidney disease (CKD)...</description>
+<pubdate>Thu, 22 Aug 2024 22:08:11 +0000</pubdate>
+</item>
+<item>
+<title>Tirzepatide Reduced the Risk of Developing Type 2 Diabetes by 94% in Adults with Pre-Diabetes and Obesity or Overweight</title>
+<link/>https://www.drugs.com/clinical_trials/tirzepatide-reduced-risk-developing-type-2-diabetes-94-adults-pre-diabetes-obesity-overweight-21638.html
+<description>INDIANAPOLIS, Aug. 20, 2024. Eli Lilly and Company (NYSE: LLY) announced today positive topline results from the SURMOUNT-1 three-year study (176-week treatment period) evaluating the efficacy and safety of tirzepatide (Zepbound and Mounjaro) once...</description>
+<pubdate>Tue, 20 Aug 2024 05:08:04 +0000</pubdate>
+</item>
+<item>
+<title>GSK Receives US FDA Breakthrough Therapy Designation for B7-H3-Targeted Antibody-Drug Conjugate GSK5764227 in Relapsed or Refractory Extensive-Stage Small-Cell Lung Cancer</title>
+<link/>https://www.drugs.com/clinical_trials/gsk-receives-us-fda-breakthrough-therapy-designation-b7-h3-targeted-antibody-conjugate-gsk5764227-21636.html
+<description>20 August 2024 -- GSK plc (LSE/NYSE: GSK) announced today that the US Food and Drug Administration (FDA) has granted Breakthrough Therapy Designation for GSK5764227 (GSK&amp;rsquo;227), the Company&amp;rsquo;s investigational B7-H3-targeted antibody drug...</description>
+<pubdate>Tue, 20 Aug 2024 02:08:04 +0000</pubdate>
+</item>
+<item>
+<title>Arthrosi Therapeutics Receives FDA Fast Track Designation for AR882 in Tophaceous Gout</title>
+<link/>https://www.drugs.com/clinical_trials/arthrosi-therapeutics-receives-fda-fast-track-designation-ar882-tophaceous-gout-21633.html
+<description>SAN DIEGO, Aug. 19, 2024 /PRNewswire/ -- Arthrosi Therapeutics, Inc., a late-stage biotechnology company developing a potentially best-in-class, highly potent and selective next generation URAT1 inhibitor to treat gout, today announced the U.S. Food...</description>
+<pubdate>Mon, 19 Aug 2024 02:08:55 +0000</pubdate>
+</item>
+<item>
+<title>Enrollment Completed for Phase 2 Clinical Trial Evaluating VG081821AC for the Treatment of Parkinson's Disease</title>
+<link/>https://www.drugs.com/clinical_trials/enrollment-completed-phase-2-clinical-trial-evaluating-vg081821ac-parkinson-s-21629.html
+<description>HANGZHOU, China, Aug. 15, 2024. Vimgreen Pharmaceuticals, a science-driven pharmaceutical company focused on the modulation of adenosine signaling, announced today the completion of enrollment of its Phase 2 clinical trial of VG081821AC, a novel...</description>
+<pubdate>Sun, 18 Aug 2024 22:08:00 +0000</pubdate>
+</item>
+<item>
+<title>Pfizer and BioNTech Provide Update on mRNA-based Combination Vaccine Program Against Influenza and COVID-19 in Individuals 18-64 Years of Age</title>
+<link/>https://www.drugs.com/clinical_trials/pfizer-biontech-provide-update-mrna-based-combination-vaccine-program-against-influenza-covid-19-21635.html
+<description>NEW YORK &amp;amp; MAINZ, Germany--(BUSINESS WIRE) August 16, 2024 -- Pfizer Inc. (NYSE: PFE, &amp;ldquo;Pfizer&amp;rdquo;) and BioNTech SE (Nasdaq: BNTX, &amp;ldquo;BioNTech&amp;rdquo;) today announced top-line results from their Phase 3 clinical trial to evaluate the...</description>
+<pubdate>Fri, 16 Aug 2024 02:08:20 +0000</pubdate>
+</item>
+<item>
+<title>Tecovirimat is Safe But Did Not Improve Clade I Mpox Resolution in Democratic Republic of the Congo</title>
+<link/>https://www.drugs.com/clinical_trials/tecovirimat-safe-but-did-not-improve-clade-mpox-resolution-democratic-republic-congo-21634.html
+<description>August 15, 2024 -- The antiviral drug tecovirimat did not reduce the duration of mpox lesions among children and adults with clade I mpox in the Democratic Republic of the Congo (DRC), based on an initial analysis of data from a randomized...</description>
+<pubdate>Thu, 15 Aug 2024 02:08:24 +0000</pubdate>
+</item>
+<item>
+<title>Prota Therapeutics Announces Publication in Allergy of Long-Term Peanut Allergy Study Confirming Clinical Remission as the Optimal Treatment Outcome</title>
+<link/>https://www.drugs.com/clinical_trials/prota-therapeutics-announces-publication-allergy-long-term-peanut-allergy-study-confirming-clinical-21624.html
+<description>MELBOURNE, Australia, Aug. 14, 2024. Prota Therapeutics Pty Ltd (Prota), an Australian clinical-stage biotechnology company focused on the development of novel oral immunotherapy treatments that induce remission of allergy, today announced...</description>
+<pubdate>Thu, 15 Aug 2024 00:08:44 +0000</pubdate>
+</item>
+<item>
+<title>Tempest Announces Successful End-of-Phase 2 Meeting with FDA for Amezalpat (TPST-1120) to Treat First-Line Hepatocellular Carcinoma</title>
+<link/>https://www.drugs.com/clinical_trials/tempest-announces-successful-end-phase-2-meeting-fda-amezalpat-tpst-1120-first-line-hepatocellular-21631.html
+<description>BRISBANE, Calif., Aug. 15, 2024 (GLOBE NEWSWIRE) -- Tempest Therapeutics, Inc. (Nasdaq: TPST), a clinical-stage biotechnology company developing first-in-classi targeted and immune-mediated therapeutics to fight cancer, today announced positive...</description>
+<pubdate>Thu, 15 Aug 2024 00:08:35 +0000</pubdate>
+</item>
+<item>
+<title>Candidate Malaria Vaccine Provides Lasting Protection in NIH-Sponsored Trials</title>
+<link/>https://www.drugs.com/clinical_trials/candidate-malaria-vaccine-provides-lasting-protection-nih-sponsored-trials-21626.html
+<description>August 14, 2024 -- Two National Institutes of Health (NIH)-supported trials of an experimental malaria vaccine in healthy Malian adults found that all three tested regimens were safe. One of the trials enrolled 300 healthy women ages 18 to 38 years...</description>
+<pubdate>Wed, 14 Aug 2024 01:08:46 +0000</pubdate>
+</item>
+</channel>
+</rss></body></html>
+
+
+--------------------
+<?xml version='1.0' encoding='UTF-8'?><html><body><rss version="2.0">
+<channel>
+<title>Drugs.com - News for Health Professionals</title>
+<link/>https://www.drugs.com/pharmanews.html
+<description>Headline news from Drugs.com. Comprehensive, up-to-date drug news for healthcare professionals.</description>
+<pubdate>Wed, 25 Sep 2024 09:18:48 +0000</pubdate>
+<lastbuilddate>Wed, 25 Sep 2024 09:18:48 +0000</lastbuilddate>
+<language>en-us</language>
+<item>
+<title>Prevalence of Obesity 40.3 Percent in U.S. From August 2021 to August 2023</title>
+<link/>https://www.drugs.com/news/prevalence-obesity-40-3-percent-u-s-august-2021-august-2023-121497.html
+<description>TUESDAY, Sept. 24, 2024  -- The prevalence of obesity among adults was 40.3 percent during August 2021 to August 2023, according to a September data brief published by the National Center for Health Statistics.Samuel D. Emmerich, D.V.M., from the...</description>
+<pubdate>Tue, 24 Sep 2024 23:02:58 +0000</pubdate>
+</item>
+<item>
+<title>Few U.S. Jails Offer Medications for Opioid Use Disorder</title>
+<link/>https://www.drugs.com/news/few-u-s-jails-offer-opioid-disorder-121498.html
+<description>TUESDAY, Sept. 24, 2024  -- Few U.S. jails offer medications for opioid use disorder (MOUD), according to a study published online Sept. 24 in JAMA Network Open.Elizabeth Flanagan Balawajder, M.P.H., from NORC at the University of Chicago, and...</description>
+<pubdate>Tue, 24 Sep 2024 23:00:51 +0000</pubdate>
+</item>
+<item>
+<title>14 Percent of U.S. Adults Meet Criteria for Absolute Iron Deficiency</title>
+<link/>https://www.drugs.com/news/14-percent-u-s-adults-meet-criteria-absolute-iron-deficiency-121499.html
+<description>TUESDAY, Sept. 24, 2024  -- A considerable proportion of U.S. adults has absolute and functional iron deficiency, according to a study published online Sept. 24 in JAMA Network Open.Yahya M.K. Tawfik, Pharm.D., from Brigham and Women's Hospital in...</description>
+<pubdate>Tue, 24 Sep 2024 22:58:58 +0000</pubdate>
+</item>
+<item>
+<title>Guidelines Provided for Diagnosis of Pediatric, Late-Onset Multiple Sclerosis</title>
+<link/>https://www.drugs.com/news/guidelines-provided-diagnosis-pediatric-late-onset-multiple-sclerosis-121500.html
+<description>TUESDAY, Sept. 24, 2024  -- In a clinical review conducted by an international committee of multiple sclerosis (MS) experts in pediatric and adult MS and published online Sept. 16 in JAMA Neurology, consensus guidance is provided for diagnosing...</description>
+<pubdate>Tue, 24 Sep 2024 22:57:04 +0000</pubdate>
+</item>
+<item>
+<title>BMI Outside of Normal Category Linked to Lower Fecundability</title>
+<link/>https://www.drugs.com/news/bmi-outside-normal-category-linked-lower-fecundability-121501.html
+<description>TUESDAY, Sept. 24, 2024  -- For women and men, body mass index (BMI) outside of the normal range is associated with increased time to pregnancy and odds of miscarriage, according to a study published online Sept. 19 in JAMA Network Open.Aline J...</description>
+<pubdate>Tue, 24 Sep 2024 22:53:57 +0000</pubdate>
+</item>
+<item>
+<title>Maternal Influenza Infection in Pregnancy Tied to Seizures in Offspring</title>
+<link/>https://www.drugs.com/news/maternal-influenza-infection-pregnancy-tied-seizures-offspring-121487.html
+<description>TUESDAY, Sept. 24, 2024 -- Maternal influenza infection during pregnancy is associated with an increased risk for seizures and febrile convulsions in offspring, according to a study published online Sept. 23 in JAMA Network Open.
+Yi-Feng Lee, M.D...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:46 +0000</pubdate>
+</item>
+<item>
+<title>Systemic Immune-Inflammation Index Tied to Mortality in CKD</title>
+<link/>https://www.drugs.com/news/systemic-immune-inflammation-index-tied-mortality-ckd-121490.html
+<description>TUESDAY, Sept. 24, 2024 -- There is a J-shaped association between systemic immune-inflammation index (SII) levels and all-cause mortality in patients with chronic kidney disease (CKD), according to a study published online Sept. 10 in Immunity...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:45 +0000</pubdate>
+</item>
+<item>
+<title>UBE Microdiscectomy Beneficial for Lumbar Disc Herniation</title>
+<link/>https://www.drugs.com/news/ube-microdiscectomy-beneficial-lumbar-disc-herniation-121496.html
+<description>TUESDAY, Sept. 24, 2024 -- For adults with symptomatic lumbar disc herniation, unilateral biportal endoscopic (UBE) microdiscectomy is associated with longer operating times and with lower pain medication consumption in the early postoperative...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:44 +0000</pubdate>
+</item>
+<item>
+<title>Electrolyte Abnormalities Tied to Adverse Outcomes in Eating Disorders</title>
+<link/>https://www.drugs.com/news/electrolyte-abnormalities-tied-adverse-outcomes-eating-disorders-121488.html
+<description>TUESDAY, Sept. 24, 2024 -- For people with an eating disorder, electrolyte abnormalities are associated with death and poor physical health outcomes, according to a study published in the October issue of The Lancet Psychiatry.
+Marco Solmi, M.D...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:38 +0000</pubdate>
+</item>
+<item>
+<title>Metal Exposure Tied to Atherosclerosis Progression</title>
+<link/>https://www.drugs.com/news/metal-exposure-tied-atherosclerosis-progression-121493.html
+<description>TUESDAY, Sept. 24, 2024 -- Metal exposure from environmental pollution is associated with the progression of atherosclerosis, according to a study published online Sept. 18 in the Journal of the American College of Cardiology.
+Katlyn E. McGraw...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:35 +0000</pubdate>
+</item>
+<item>
+<title>Residing in Low-Income, Low Food-Access Neighborhoods Tied to Higher Child BMI</title>
+<link/>https://www.drugs.com/news/residing-low-income-low-food-access-neighborhoods-tied-higher-child-bmi-121492.html
+<description>TUESDAY, Sept. 24, 2024 -- Residence in low-income, low food-access neighborhoods in early life is associated with higher subsequent child body mass index (BMI) and a higher risk for obesity, according to a study published online Sept. 16 in JAMA...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:31 +0000</pubdate>
+</item>
+<item>
+<title>Study: Five-Year Survival for Face Transplant Is 85 Percent</title>
+<link/>https://www.drugs.com/news/study-five-year-survival-face-transplant-85-percent-121491.html
+<description>TUESDAY, Sept. 24, 2024 -- The overall survival for face transplants is encouraging, with 10-year survival at 74 percent, according to a study published online Sept. 18 in JAMA Surgery.
+Pauliina Homsy, M.D., Ph.D., from the University of Helsinki...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:30 +0000</pubdate>
+</item>
+<item>
+<title>Measurable Residual Disease Results After Consolidation Therapy Predictive of Relapse in Pediatric Leukemia</title>
+<link/>https://www.drugs.com/news/measurable-residual-results-after-consolidation-therapy-predictive-relapse-pediatric-leukemia-121489.html
+<description>TUESDAY, Sept. 24, 2024 -- For children with acute lymphoblastic leukemia (ALL), measurable residual disease (MRD) after the end of first consolidation (EOC) can be used to predict the need for subsequent MRD measurements, according to a study...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:28 +0000</pubdate>
+</item>
+<item>
+<title>Skeletal Muscle Relaxants Beneficial for Only Certain Conditions</title>
+<link/>https://www.drugs.com/news/skeletal-muscle-relaxants-beneficial-only-certain-conditions-121494.html
+<description>TUESDAY, Sept. 24, 2024 -- Long-term use of skeletal muscle relaxants (SMRs) for chronic pain is only effective for certain conditions, such as painful spasms, painful cramps, and neck pain, according to a review published online Sept. 19 in JAMA...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:25 +0000</pubdate>
+</item>
+<item>
+<title>Financial Hardship Common in Patients With Cancer</title>
+<link/>https://www.drugs.com/news/financial-hardship-common-patients-cancer-121495.html
+<description>TUESDAY, Sept. 24, 2024 -- Nearly half of patients with cancer experience some level of financial hardship (FH), according to a study published online Aug. 15 in JCO Oncology Practice.
+Betina Yanez, Ph.D., from the Northwestern University Feinberg...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:12 +0000</pubdate>
+</item>
+<item>
+<title>Risk for Severe Maternal Morbidity Elevated for Pregnancy Surrogates</title>
+<link/>https://www.drugs.com/news/risk-severe-maternal-morbidity-elevated-pregnancy-surrogates-121473.html
+<description>MONDAY, Sept. 23, 2024 -- The risk for severe maternal morbidity (SMM) and adverse pregnancy outcomes is increased for gestational carriers, or pregnancy surrogates, compared with women conceiving naturally or via in vitro fertilization (IVF)...</description>
+<pubdate>Mon, 23 Sep 2024 22:09:56 +0000</pubdate>
+</item>
+<item>
+<title>Extreme Temperature-Related Deaths Set to Increase by Mid-21st Century</title>
+<link/>https://www.drugs.com/news/extreme-temperature-related-deaths-set-increase-mid-21st-century-121474.html
+<description>MONDAY, Sept. 23, 2024 -- Extreme temperature-related deaths are projected to increase considerably by the mid-21st century in the contiguous United States, according to a study published online Sept. 20 in JAMA Network Open.
+Sameed Ahmed M...</description>
+<pubdate>Mon, 23 Sep 2024 22:09:53 +0000</pubdate>
+</item>
+<item>
+<title>Review Compares Drug Interventions for Acute Migraine Treatment</title>
+<link/>https://www.drugs.com/news/review-compares-interventions-acute-migraine-121475.html
+<description>MONDAY, Sept. 23, 2024 -- All active interventions show superior efficacy to placebo for freedom from pain, and most do for sustained pain freedom, for the acute treatment of migraine among adults, according to a review published online Sept. 18 in...</description>
+<pubdate>Mon, 23 Sep 2024 22:09:00 +0000</pubdate>
+</item>
+<item>
+<title>One in Three Retired Football Players Report Perceived Chronic Traumatic Encephalopathy</title>
+<link/>https://www.drugs.com/news/one-three-retired-football-players-report-perceived-chronic-traumatic-encephalopathy-121476.html
+<description>MONDAY, Sept. 23, 2024 -- More than one-third of living former professional American-style football (ASF) players report perceived chronic traumatic encephalopathy (CTE), which is associated with an increased prevalence of self-reported suicidality...</description>
+<pubdate>Mon, 23 Sep 2024 21:09:02 +0000</pubdate>
+</item>
+<item>
+<title>'Before Medically Advised' Discharge Linked to Risk for Overdose</title>
+<link/>https://www.drugs.com/news/before-medically-advised-discharge-linked-risk-overdose-121463.html
+<description>MONDAY, Sept. 23, 2024 -- 'Before medically advised' (BMA) discharge from the hospital is associated with an increased risk for subsequent drug overdose, according to a study published online Sept. 23 in CMAJ, the journal of the Canadian Medical...</description>
+<pubdate>Mon, 23 Sep 2024 16:09:57 +0000</pubdate>
+</item>
+<item>
+<title>Higher Burden of Comorbidity Linked to Worse Clinical Outcomes in MS</title>
+<link/>https://www.drugs.com/news/higher-burden-comorbidity-linked-worse-clinical-outcomes-ms-121464.html
+<description>MONDAY, Sept. 23, 2024 -- For people with multiple sclerosis (MS), a higher burden of comorbidity is associated with worse clinical outcomes, according to a study published online Sept. 18 in JAMA Neurology to coincide with the annual meeting of the...</description>
+<pubdate>Mon, 23 Sep 2024 16:09:47 +0000</pubdate>
+</item>
+<item>
+<title>Incidence of Cardiovascular Disease Higher for Seniors With Cancer</title>
+<link/>https://www.drugs.com/news/incidence-cardiovascular-higher-seniors-cancer-121465.html
+<description>MONDAY, Sept. 23, 2024 -- The incidence of a composite cardiovascular disease (CVD) end point is increased among older adults with cancer, especially those with metastatic, hematological, and lung cancer, according to a study published online Sept...</description>
+<pubdate>Mon, 23 Sep 2024 16:09:15 +0000</pubdate>
+</item>
+<item>
+<title>Pomalidomide Efficacious in Hereditary Hemorrhagic Telangiectasia</title>
+<link/>https://www.drugs.com/news/pomalidomide-efficacious-hereditary-hemorrhagic-telangiectasia-121468.html
+<description>MONDAY, Sept. 23, 2024 -- For patients with hereditary hemorrhagic telangiectasia (HHT), pomalidomide yields a significant reduction in epistaxis severity, according to a study published in the Sept. 19 issue of the New England Journal of...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:52 +0000</pubdate>
+</item>
+<item>
+<title>Exposure to Toxic Metals Linked to Faster Increases in Glycemia</title>
+<link/>https://www.drugs.com/news/exposure-toxic-metals-linked-faster-increases-glycemia-121472.html
+<description>MONDAY, Sept. 23, 2024 -- Exposure to toxic metals and alterations in essential metal homeostasis are associated with faster increases in glycemia over time in a high-risk Mexican American population, according to a study published online Sept. 15...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:42 +0000</pubdate>
+</item>
+<item>
+<title>Paternal Antiseizure Rx Use at Conception Does Not Pose Risk to Offspring</title>
+<link/>https://www.drugs.com/news/paternal-antiseizure-rx-conception-does-not-pose-risk-offspring-121471.html
+<description>MONDAY, Sept. 23, 2024 -- Limited data indicate that paternal exposure to antiseizure medications (ASMs) at conception is unlikely to pose any major risk for adverse outcomes for offspring, according to a review published online Sept. 17 in the...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:39 +0000</pubdate>
+</item>
+<item>
+<title>High Response Incidence Seen for Axatilimab in Recurrent, Refractory GVHD</title>
+<link/>https://www.drugs.com/news/response-incidence-seen-axatilimab-recurrent-refractory-gvhd-121469.html
+<description>MONDAY, Sept. 23, 2024 -- For patients with recurrent or refractory graft-versus-host disease (GVHD), the colony-stimulating factor 1 receptor (CSF1R)-blocking antibody axatilimab results in a high incidence of overall response, according to a study...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:27 +0000</pubdate>
+</item>
+<item>
+<title>Guidance Provided for Management of Obesity in Kidney Disease</title>
+<link/>https://www.drugs.com/news/guidance-provided-management-obesity-kidney-121467.html
+<description>MONDAY, Sept. 23, 2024 -- In a report issued by the American Society of Nephrology and published online Sept. 18 in the Journal of the American Society of Nephrology, guidance is presented for the management of obesity in persons with kidney...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:26 +0000</pubdate>
+</item>
+<item>
+<title>Childhood ADHD Tied to Lower Cognitive Performance in Adulthood</title>
+<link/>https://www.drugs.com/news/childhood-adhd-tied-lower-cognitive-performance-adulthood-121470.html
+<description>MONDAY, Sept. 23, 2024 -- Childhood attention-deficit/hyperactivity disorder (ADHD) is associated with impaired cognitive functioning in adulthood, according to a study published online Aug. 28 in Frontiers in Psychology.
+Nella Schiavone, from the...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:22 +0000</pubdate>
+</item>
+<item>
+<title>Study Looks at Impact of Peritoneal Dialysis on Thyroid Function</title>
+<link/>https://www.drugs.com/news/study-looks-impact-peritoneal-dialysis-thyroid-function-121466.html
+<description>MONDAY, Sept. 23, 2024 -- Patients undergoing peritoneal dialysis (PD) have significantly higher thyroxine (T4) concentrations than hemodialysis (HD) patients and higher free T4 (FT4) concentrations at 12 and 24 months, according to a study...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:14 +0000</pubdate>
+</item>
+<item>
+<title>Stroke Was Third Most Common GBD Level 3 Cause of Death in 2021</title>
+<link/>https://www.drugs.com/news/stroke-third-most-common-gbd-level-3-cause-death-2021-121448.html
+<description>FRIDAY, Sept. 20, 2024 -- The global burden of stroke is considerable, according to a study published in the October issue of The Lancet Neurology.
+Valery L. Feigin, M.D., Ph.D., from the Auckland University of Technology in New Zealand, and...</description>
+<pubdate>Fri, 20 Sep 2024 23:09:12 +0000</pubdate>
+</item>
+<item>
+<title>No Perinatal Risks Seen With Influenza Vaccination in Successive Pregnancies</title>
+<link/>https://www.drugs.com/news/no-perinatal-risks-seen-influenza-vaccination-successive-pregnancies-121449.html
+<description>FRIDAY, Sept. 20, 2024 -- Influenza vaccination in successive pregnancies is not associated with increased risk for prespecified adverse perinatal outcomes, according to a study published online Sept. 19 in JAMA Network Open.
+Darios Getahun, M.D...</description>
+<pubdate>Fri, 20 Sep 2024 23:09:08 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves First Flu Vaccine That Can Be Self-Administered at Home</title>
+<link/>https://www.drugs.com/news/fda-approves-first-flu-vaccine-can-self-administered-home-121450.html
+<description>FRIDAY, Sept. 20, 2024 -- On Friday, the U.S. Food and Drug Administration approved the FluMist nasal vaccine for self-administration at home.
+It is a "new option for receiving a safe and effective seasonal influenza vaccine potentially with...</description>
+<pubdate>Fri, 20 Sep 2024 22:09:24 +0000</pubdate>
+</item>
+<item>
+<title>High Levels of Well-Being Protect Against Cardiovascular Disease</title>
+<link/>https://www.drugs.com/news/levels-well-being-protect-against-cardiovascular-121437.html
+<description>FRIDAY, Sept. 20, 2024 -- High levels of well-being may protect against the risks for cardiovascular diseases (CVDs), according to a study published online Sept. 18 in the Journal of the American Heart Association.
+Jinghui Zhong, from the...</description>
+<pubdate>Fri, 20 Sep 2024 16:09:14 +0000</pubdate>
+</item>
+<item>
+<title>Adjuvant Pembrolizumab Improves Survival in Muscle-Invasive Urothelial Cancer</title>
+<link/>https://www.drugs.com/news/adjuvant-pembrolizumab-improves-survival-muscle-invasive-urothelial-cancer-121443.html
+<description>FRIDAY, Sept. 20, 2024 -- Disease-free survival is significantly longer with adjuvant pembrolizumab than observation among patients with high-risk muscle-invasive urothelial carcinoma after radical surgery, according to a study published online...</description>
+<pubdate>Fri, 20 Sep 2024 15:09:57 +0000</pubdate>
+</item>
+<item>
+<title>Endovascular Therapy Improves Left Ventricular Diastolic Function in HFpEF</title>
+<link/>https://www.drugs.com/news/endovascular-therapy-improves-left-ventricular-diastolic-function-hfpef-121446.html
+<description>FRIDAY, Sept. 20, 2024 -- For patients with heart failure with preserved ejection fraction (HFpEF), endovascular treatment (EVT) improves left ventricular (LV) diastolic function, according to a study published online Sept. 9 in Circulation: Heart...</description>
+<pubdate>Fri, 20 Sep 2024 15:09:49 +0000</pubdate>
+</item>
+<item>
+<title>In 2021, More Than 1 Million Deaths Attributed to Antimicrobial Resistance</title>
+<link/>https://www.drugs.com/news/2021-more-than-1-million-deaths-attributed-antimicrobial-resistance-121438.html
+<description>FRIDAY, Sept. 20, 2024 -- From 1990 to 2021, the burden of antimicrobial resistance (AMR) decreased for those younger than 5 years and increased for those older than 70 years, according to a study published online Sept. 16 in The Lancet.
+Mohsen...</description>
+<pubdate>Fri, 20 Sep 2024 15:09:39 +0000</pubdate>
+</item>
+<item>
+<title>Homelessness Linked to ESKD, Death in Veterans With Incident CKD</title>
+<link/>https://www.drugs.com/news/homelessness-linked-eskd-death-veterans-incident-ckd-121445.html
+<description>FRIDAY, Sept. 20, 2024 -- For veterans with incident chronic kidney disease (CKD), a history of homelessness is associated with an increased risk for end-stage kidney disease (ESKD) and death, according to a study published online Sept. 10 in JAMA...</description>
+<pubdate>Fri, 20 Sep 2024 15:09:39 +0000</pubdate>
+</item>
+<item>
+<title>Study Reveals No Link Between HDL Cholesterol and Movement Disorders</title>
+<link/>https://www.drugs.com/news/study-reveals-no-link-between-hdl-cholesterol-movement-disorders-121444.html
+<description>FRIDAY, Sept. 20, 2024 &amp;ndash; There is no correlation between high-density lipoprotein cholesterol (HDL-C) levels and a patient's risk for developing movement disorders while taking an antipsychotic, according to a study published in the April-June...</description>
+<pubdate>Fri, 20 Sep 2024 15:09:37 +0000</pubdate>
+</item>
+<item>
+<title>Behavior Change Intervention Via Mail Cuts Use of Sleep Medications in Older Adults</title>
+<link/>https://www.drugs.com/news/behavior-change-intervention-via-mail-cuts-sleep-older-adults-121439.html
+<description>FRIDAY, Sept. 20, 2024 -- A mailed knowledge mobilization and behavior change intervention can reduce the use of sedatives and improve sleep outcomes in older adults with insomnia, according to a study published online Sept. 18 in JAMA...</description>
+<pubdate>Fri, 20 Sep 2024 15:09:35 +0000</pubdate>
+</item>
+<item>
+<title>Air Pollution Exposure Increases Risk for Parkinson Disease</title>
+<link/>https://www.drugs.com/news/air-pollution-exposure-increases-risk-parkinson-121440.html
+<description>FRIDAY, Sept. 20, 2024 -- Higher exposure to air pollution increases the risk for Parkinson disease (PD), according to a study published online Sept. 16 in JAMA Network Open.
+Brittany Krzyzanowski, Ph.D., from the Barrow Neurological Institute in...</description>
+<pubdate>Fri, 20 Sep 2024 15:09:28 +0000</pubdate>
+</item>
+</channel>
+</rss></body></html>
+
+
+--------------------
+<?xml version='1.0' encoding='UTF-8'?><html><body><rss version="2.0">
+<channel>
+<title>Drugs.com - Daily MedNews</title>
+<link/>https://www.drugs.com/medical-news.html
+<description>Headline news from Drugs.com. Comprehensive, up-to-date drug news for consumers and healthcare professionals.</description>
+<pubdate>Wed, 25 Sep 2024 09:18:48 +0000</pubdate>
+<lastbuilddate>Wed, 25 Sep 2024 09:18:48 +0000</lastbuilddate>
+<language>en-us</language>
+<item>
+<title>NFL Hall of Famer Brett Favre Has Parkinson's Disease</title>
+<link/>https://www.drugs.com/news/nfl-hall-famer-brett-favre-has-parkinson-s-121484.html
+<description>TUESDAY, Sept. 24, 2024 -- Green Bay Packers legend and NFL Hall of Famer Brett Favre announced Tuesday that he has been diagnosed with Parkinson's disease.
+Favre, 54, made the announcement while testifying to Congress on his potential misuse of...</description>
+<pubdate>Tue, 24 Sep 2024 16:09:03 +0000</pubdate>
+</item>
+<item>
+<title>Prediabetes in Teens Could Raise Odds for Complicated Pregnancies Later</title>
+<link/>https://www.drugs.com/news/prediabetes-teens-could-raise-odds-complicated-pregnancies-later-121486.html
+<description>TUESDAY, Sept. 24, 2024 -- If a woman is already in a "prediabetic" state in her teen or college years, her odds for a serious complication of pregnancy later in life rises, new research shows.
+Ignoring prediabetes in teenagers "may represent a...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:13 +0000</pubdate>
+</item>
+<item>
+<title>Inmates in Many U.S. Jails Have No Access to Meds That Fight Opioid Addiction</title>
+<link/>https://www.drugs.com/news/inmates-many-u-s-jails-have-no-access-meds-fight-opioid-121485.html
+<description>TUESDAY, Sept. 24, 2024 -- Opioid use disorder can be a contributing factor to Americans landing in the nation's prisons and jails, but those inmates typically have no access to medications that could help wean them off the drugs.
+So finds a new...</description>
+<pubdate>Tue, 24 Sep 2024 15:09:10 +0000</pubdate>
+</item>
+<item>
+<title>Black, Hispanic Doctors See Much Larger Proportion of Medicaid Patients</title>
+<link/>https://www.drugs.com/news/black-hispanic-doctors-see-much-larger-proportion-medicaid-patients-121479.html
+<description>TUESDAY, Sept. 24, 2024 -- Latino and Black family doctors are more likely to hang their shingle in their old neighborhood and care for the less fortunate, researchers report.
+The new findings, which also showed these doctors were more likely to...</description>
+<pubdate>Tue, 24 Sep 2024 09:09:48 +0000</pubdate>
+</item>
+<item>
+<title>Surrogate Moms Have Higher Rates of Pregnancy Complications</title>
+<link/>https://www.drugs.com/news/surrogate-moms-have-higher-rates-pregnancy-complications-121483.html
+<description>TUESDAY, Sept. 24, 2024 -- Surrogate moms have a higher risk of pregnancy complications than other pregnant women, a new study finds.
+About 8% of surrogate mothers developed a severe complication like high blood pressure or serious bleeding during...</description>
+<pubdate>Tue, 24 Sep 2024 09:09:36 +0000</pubdate>
+</item>
+<item>
+<title>Almost 200 Chemicals Linked to Breast Cancer Are Found in Food Packaging</title>
+<link/>https://www.drugs.com/news/almost-200-chemicals-linked-breast-cancer-found-food-packaging-121478.html
+<description>TUESDAY, Sept. 24, 2024 -- Food sold in shrink wrap, on cardboard trays or in paper containers might contain any of nearly 200 chemicals linked to breast cancer, a new study warns.
+Commonly used food packaging materials contain 189 chemicals that...</description>
+<pubdate>Tue, 24 Sep 2024 09:09:28 +0000</pubdate>
+</item>
+<item>
+<title>Psilocybin May Curb Mental Illness That Leads to Eating Disorders</title>
+<link/>https://www.drugs.com/news/psilocybin-may-curb-mental-illness-leads-eating-disorders-121482.html
+<description>TUESDAY, Sept. 24, 2024 -- Psilocybin could help people suffering from a mental health problem that can lead to eating disorders, a new study suggests.
+Psilocybin, the active chemical in &amp;ldquo;magic&amp;rdquo; mushrooms, significantly reduced symptoms...</description>
+<pubdate>Tue, 24 Sep 2024 09:09:27 +0000</pubdate>
+</item>
+<item>
+<title>Four in Every 10 U.S. Adults Is Now Obese; Severe Obesity Rising</title>
+<link/>https://www.drugs.com/news/four-every-10-u-s-adults-now-obese-severe-obesity-rising-121477.html
+<description>TUESDAY, Sept. 24, 2024 -- Over 40 percent of U.S. adults are now obese, with rates roughly the same for men and women, new government data shows.
+Obesity rates fluctuated with age and fell as levels of education increased, said the report from the...</description>
+<pubdate>Tue, 24 Sep 2024 09:09:23 +0000</pubdate>
+</item>
+<item>
+<title>Many Pregnant Medicaid Patients Miss Prenatal Ultrasounds, Upping Risks Around Birth Defects</title>
+<link/>https://www.drugs.com/news/many-pregnant-medicaid-patients-miss-prenatal-ultrasounds-upping-risks-around-birth-defects-121481.html
+<description>TUESDAY, Sept. 24, 2024 -- Pregnant women covered by Medicaid are less likely to get an ultrasound exam that can diagnose heart defects in a fetus, a new study finds.
+&amp;ldquo;The 20-week ultrasound is hugely important in detecting birth defects...</description>
+<pubdate>Tue, 24 Sep 2024 09:09:21 +0000</pubdate>
+</item>
+<item>
+<title>Federal Assault Weapons Ban Could Have Stopped 38 Mass Shootings Since 2005</title>
+<link/>https://www.drugs.com/news/federal-assault-weapons-ban-could-have-stopped-38-mass-shootings-since-2005-121480.html
+<description>TUESDAY, Sept. 24, 2024 -- The Federal Assault Weapons Ban (FAWB) would have prevented as many as 38 mass shootings that have taken place since the law lapsed in 2005, a new study estimates.
+Enacted by Congress in 1994, the ban prohibited the sale...</description>
+<pubdate>Tue, 24 Sep 2024 09:09:02 +0000</pubdate>
+</item>
+<item>
+<title>Many Former NFL Players Believe They Have CTE, Raising Suicide Risk</title>
+<link/>https://www.drugs.com/news/many-former-nfl-players-believe-they-have-cte-raising-suicide-risk-121461.html
+<description>MONDAY, Sept. 23, 2024 -- One in three former NFL players believe they have football-related brain damage that&amp;rsquo;s doing untold harm to their lives, a new study finds.
+Unfortunately, their fears might be harming their mental health on top of...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:50 +0000</pubdate>
+</item>
+<item>
+<title>No Higher Autism Risk Seen in Babies Born During Pandemic</title>
+<link/>https://www.drugs.com/news/no-higher-autism-risk-seen-babies-born-during-pandemic-121462.html
+<description>MONDAY, Sept. 23, 2024 -- Kids born during the first year of the COVID-19 pandemic appear to have no higher risk of autism, even if they were exposed to COVID in the womb, a new study finds.
+The study offers reassurance to doctors and parents...</description>
+<pubdate>Mon, 23 Sep 2024 15:09:07 +0000</pubdate>
+</item>
+<item>
+<title>Second Health Care Worker Linked to Missouri Bird Flu Case Also Had Symptoms: CDC</title>
+<link/>https://www.drugs.com/news/second-health-care-worker-linked-missouri-bird-flu-case-also-had-cdc-121453.html
+<description>MONDAY, Sept. 23, 2024 -- Another health care worker who was exposed to a Missouri patient who tested positive for bird flu developed respiratory symptoms but wasn't tested for the flu, U.S. health officials reported Friday.
+The news is rekindling...</description>
+<pubdate>Mon, 23 Sep 2024 10:09:38 +0000</pubdate>
+</item>
+<item>
+<title>Cataracts Gone Without Surgery? New Science Suggests It's Possible</title>
+<link/>https://www.drugs.com/news/cataracts-gone-without-surgery-new-science-suggests-s-possible-121458.html
+<description>MONDAY, Sept. 23, 2024 -- Research in rats and hibernating squirrels has pinpointed a naturally occurring protein that appears to reverse cataracts, scientists report.
+Animal studies don't always pan out in people, of course. But the discovery of...</description>
+<pubdate>Mon, 23 Sep 2024 09:09:58 +0000</pubdate>
+</item>
+<item>
+<title>Sometimes Kidney Stones Need a Little Nudge, Study Finds</title>
+<link/>https://www.drugs.com/news/sometimes-kidney-stones-need-little-nudge-study-finds-121456.html
+<description>MONDAY, Sept. 23, 2024 -- Kidney stone fragments sometimes just need a little push to be flushed out of a person&amp;rsquo;s system, a new trial finds.
+About seven in 10 patients who got ultrasound treatment to encourage fragments to clear from their...</description>
+<pubdate>Mon, 23 Sep 2024 09:09:43 +0000</pubdate>
+</item>
+<item>
+<title>Partner's Adult ADHD Can Harm a Woman's Mental Health</title>
+<link/>https://www.drugs.com/news/partner-s-adult-adhd-can-harm-woman-s-mental-health-121457.html
+<description>MONDAY, Sept. 23, 2024 -- Having a husband or boyfriend with adult ADHD can harm a woman's mental stability, a new study suggests.
+About 3 in 5 women (59%) with male partners with attention-deficit/hyperactivity disorder (ADHD) had symptoms of...</description>
+<pubdate>Mon, 23 Sep 2024 09:09:38 +0000</pubdate>
+</item>
+<item>
+<title>Psilocybin Equals or Exceeds SSRI Antidepressants at Easing Depression</title>
+<link/>https://www.drugs.com/news/psilocybin-equals-exceeds-ssri-antidepressants-easing-depression-121455.html
+<description>MONDAY, Sept. 23, 2024 -- Psilocybin, the active ingredient in magic mushrooms, appears to ease depression symptoms at least as well as one of the most commonly used antidepressants, a new clinical trial shows.
+Patients showed significant...</description>
+<pubdate>Mon, 23 Sep 2024 09:09:34 +0000</pubdate>
+</item>
+<item>
+<title>Could Antidepressants Give Memory a Boost?</title>
+<link/>https://www.drugs.com/news/could-antidepressants-give-memory-boost-121459.html
+<description>MONDAY, Sept. 23, 2024 -- Antidepressants have the potential to improve memory and thinking skills, a new study suggests.
+Some patients experienced a boost on brain tests after taking the SSRI antidepressant escitalopram (Lexapro), researchers...</description>
+<pubdate>Mon, 23 Sep 2024 09:09:29 +0000</pubdate>
+</item>
+<item>
+<title>Climate Change Could Triple U.S. Heat Deaths by Mid-Century</title>
+<link/>https://www.drugs.com/news/climate-change-could-triple-u-s-heat-deaths-mid-century-121454.html
+<description>MONDAY, Sept. 23, 2024 -- If global warming is left largely unchecked, the number of Americans who succumb to extreme heat will triple by mid-century, new projections estimate.
+These deaths could affect poor and minority Americans much more than...</description>
+<pubdate>Mon, 23 Sep 2024 09:09:13 +0000</pubdate>
+</item>
+<item>
+<title>Diabetes Treatment Might Ease Gum Disease, Too</title>
+<link/>https://www.drugs.com/news/diabetes-might-ease-gum-121460.html
+<description>MONDAY, Sept. 23, 2024 -- Diabetes can worsen the state of your gums, but a new study suggests that diabetes medications may undo some of that damage.
+Researchers in Japan found a positive turnaround in markers of gum well-being after people with...</description>
+<pubdate>Mon, 23 Sep 2024 09:09:09 +0000</pubdate>
+</item>
+<item>
+<title>Is It a Cold, Flu or COVID? An Expert Helps You Sort It Out</title>
+<link/>https://www.drugs.com/news/cold-flu-covid-expert-helps-you-sort-out-121452.html
+<description>SUNDAY, Sept. 22, 2024 -- It's that time of year when respiratory viruses start to circulate widely, but how can you tell the difference between the symptoms of a cold, the flu and COVID?
+Dr. William Brian Glenn, from Hackensack Meridian Medical...</description>
+<pubdate>Sun, 22 Sep 2024 13:09:25 +0000</pubdate>
+</item>
+<item>
+<title>Workplace Stress Triggers: How to Spot Them, How to Cope</title>
+<link/>https://www.drugs.com/news/workplace-stress-triggers-spot-them-cope-121451.html
+<description>SATURDAY, Sept. 21, 2024 (Healthday News) -- Workplace anxiety. Who hasn't experienced it?
+However, if that anxiety is so strong that it hurts your performance or lingers for months, you might have a problem, one expert says.
+Dr. Asim Shah...</description>
+<pubdate>Sat, 21 Sep 2024 13:09:35 +0000</pubdate>
+</item>
+<item>
+<title>FDA Approves First Flu Vaccine You Give Yourself at Home, FluMist</title>
+<link/>https://www.drugs.com/news/fda-approves-first-flu-vaccine-you-give-yourself-home-flumist-121447.html
+<description>FRIDAY, Sept. 20, 2024 -- The days of waiting for a flu shot at your doctor's office or local pharmacy may be over: The U.S. Food and Drug Administration on Friday approved FluMist nasal spray as the first influenza vaccine that can be...</description>
+<pubdate>Fri, 20 Sep 2024 17:09:29 +0000</pubdate>
+</item>
+<item>
+<title>Stroke Rates Rising in Adults and Kids With Sickle Cell Disease</title>
+<link/>https://www.drugs.com/news/stroke-rates-rising-adults-kids-sickle-cell-121426.html
+<description>FRIDAY, Sept. 20, 2024 -- Stroke rates continue to rise among adults and children living with sickle cell disease, despite new standards of care meant to lower their risk, a new study finds.
+People with sickle cell are vulnerable to strokes caused...</description>
+<pubdate>Fri, 20 Sep 2024 13:09:16 +0000</pubdate>
+</item>
+<item>
+<title>FDA Says Drug Makers Will Stop Producing Fentanyl 'Lollipops'</title>
+<link/>https://www.drugs.com/news/fda-says-makers-stop-producing-fentanyl-lollipops-121427.html
+<description>FRIDAY, Sept. 20, 2024 -- Controversial fentanyl lollipops and similar products will no longer be made by drug makers, the U.S. Food and Drug Administration has announced.
+Known as TIRF medications, these products contain fentanyl and are used to...</description>
+<pubdate>Fri, 20 Sep 2024 12:09:41 +0000</pubdate>
+</item>
+<item>
+<title>U.S. Whooping Cough Cases Rising, Especially in Teens, CDC Says</title>
+<link/>https://www.drugs.com/news/u-s-whooping-cough-cases-rising-especially-teens-cdc-says-121428.html
+<description>FRIDAY, Sept. 20, 2024 -- Whooping cough cases are climbing at the fastest pace in years as students across America return to school, U.S. health officials reported Thursday.
+In figures published by the U.S. Centers for Disease Control and...</description>
+<pubdate>Fri, 20 Sep 2024 11:09:20 +0000</pubdate>
+</item>
+<item>
+<title>Fussy Eater? It Might Be in Your Kid's Genes</title>
+<link/>https://www.drugs.com/news/fussy-eater-might-your-kid-s-genes-121431.html
+<description>FRIDAY, Sept. 20, 2024 -- Pulling your hair out in frustration with your finicky youngster?
+Don&amp;rsquo;t blame your parenting style -- genetics likely played a huge role in their eating habits, a new twins study FINDs.
+Fussy eating is mainly...</description>
+<pubdate>Fri, 20 Sep 2024 09:09:58 +0000</pubdate>
+</item>
+<item>
+<title>Parents, Know the Nursery Products Most Linked to Infant Deaths</title>
+<link/>https://www.drugs.com/news/parents-know-nursery-products-most-linked-infant-deaths-121433.html
+<description>FRIDAY, Sept. 20, 2024 -- Each year, an average of 174 U.S. kids under the age of 5 lose their lives over causes linked to nursery products.
+Many of these tragedies could be prevented, and the Consumer Product Safety Commission (CPSC) on Thursday...</description>
+<pubdate>Fri, 20 Sep 2024 09:09:53 +0000</pubdate>
+</item>
+<item>
+<title>Endurance Exercise Can Get Rid of Body Fat, Even Without Weight Loss</title>
+<link/>https://www.drugs.com/news/endurance-exercise-can-rid-body-fat-even-without-weight-loss-121430.html
+<description>FRIDAY, Sept. 20, 2024 -- Heavy-duty endurance exercise can cause body fat levels to drop without any accompanying weight loss, a new small-scale study indicates.
+A group of eleven middle-aged men who cycled 710 miles in seven days lost only about...</description>
+<pubdate>Fri, 20 Sep 2024 09:09:51 +0000</pubdate>
+</item>
+<item>
+<title>Yoga, Other Exercise Can Curb Urinary Incontinence in Women</title>
+<link/>https://www.drugs.com/news/yoga-other-exercise-can-curb-urinary-incontinence-women-121432.html
+<description>FRIDAY, Sept. 20, 2024 -- Millions of women struggle with the discomfort and stress of urinary incontinence, and many turn to medications for help.
+Now, new research suggests that yoga and other exercise regimens might work just as well to control...</description>
+<pubdate>Fri, 20 Sep 2024 09:09:50 +0000</pubdate>
+</item>
+<item>
+<title>Are Antidepressants Being Overused to Treat Seniors' Pain?</title>
+<link/>https://www.drugs.com/news/antidepressants-being-overused-seniors-pain-121434.html
+<description>FRIDAY, Sept. 20, 2024 -- Doctors sometimes turn to antidepressants as a means of easing older people's physical pain, but a new expert review finds there's little evidence to support the practice.
+Antidepressants may even come with hazards for...</description>
+<pubdate>Fri, 20 Sep 2024 09:09:24 +0000</pubdate>
+</item>
+<item>
+<title>Arthritis Can Flare Up in Colder Weather: Tips to Easing the Pan</title>
+<link/>https://www.drugs.com/news/arthritis-can-flare-up-colder-weather-tips-easing-pan-121435.html
+<description>FRIDAY, Sept. 20, 2024 -- An arthritis sufferer&amp;rsquo;s joints start to get ornery when the weather turns colder, getting stiff and achy as the mercury drops.
+Cold weather doesn&amp;rsquo;t cause arthritis, but it can make it worse, experts say.
+"Our...</description>
+<pubdate>Fri, 20 Sep 2024 09:09:07 +0000</pubdate>
+</item>
+<item>
+<title>Caring for Horses Could Help Veterans Battling PTSD</title>
+<link/>https://www.drugs.com/news/caring-horses-could-help-veterans-battling-ptsd-121429.html
+<description>FRIDAY, Sept. 20, 2024 -- A cavalry of sorts can come to the rescue of combat veterans suffering from post-traumatic stress disorder (PTSD), a new study says.
+Combat veterans who regularly care for horses experience an easing of their PTSD...</description>
+<pubdate>Fri, 20 Sep 2024 09:09:04 +0000</pubdate>
+</item>
+<item>
+<title>Dad's Epilepsy Med, Valproate, Use Won't Harm His Kids: Study</title>
+<link/>https://www.drugs.com/news/dad-s-epilepsy-med-valproate-won-t-harm-his-kids-study-121436.html
+<description>FRIDAY, Sept. 20, 2024 -- Would-be dads don&amp;rsquo;t have to worry that taking the epilepsy drug valproate will result in children with birth defects, a new review concludes.
+Valproate, an anti-seizure drug, is known to cause birth defects and...</description>
+<pubdate>Fri, 20 Sep 2024 09:09:01 +0000</pubdate>
+</item>
+<item>
+<title>U.S. Wastewater Tests Show Bird Flu Virus Limited to Areas With Farm Animals</title>
+<link/>https://www.drugs.com/news/u-s-wastewater-tests-show-bird-flu-virus-limited-areas-farm-animals-121410.html
+<description>THURSDAY, Sept. 19, 2024 -- An extensive look at wastewater samples taken across the United States from May to July found traces of the H5N1 bird flu popping up -- but only in areas populated by farm animals.
+The avian flu virus has been widespread...</description>
+<pubdate>Thu, 19 Sep 2024 17:09:36 +0000</pubdate>
+</item>
+<item>
+<title>New Data Supports Animal Market Origins for COVID Pandemic</title>
+<link/>https://www.drugs.com/news/new-data-supports-animal-market-origins-covid-pandemic-121411.html
+<description>THURSDAY, Sept. 19, 2024 -- The Hunan Seafood Wholesale wet market in Wuhan, China, has long been considered the most likely source of the coronavirus that caused the COVID-19 pandemic.
+That theory is now supported by a new study analyzing more...</description>
+<pubdate>Thu, 19 Sep 2024 15:09:13 +0000</pubdate>
+</item>
+<item>
+<title>Breastfeeding Crucial to a Healthy Infant Microbiome, Lowering Asthma Risk</title>
+<link/>https://www.drugs.com/news/breastfeeding-crucial-healthy-infant-microbiome-lowering-asthma-risk-121412.html
+<description>THURSDAY, Sept. 19, 2024 -- Breastfeeding through the first year of infants' lives can lower their risk of asthma by colonizing their bodies with a healthy mix of microbes, a new study finds.
+Results show that breastfeeding beyond three months...</description>
+<pubdate>Thu, 19 Sep 2024 15:09:13 +0000</pubdate>
+</item>
+<item>
+<title>Do You Know the MIND Diet? It Might Keep You Sharp With Age</title>
+<link/>https://www.drugs.com/news/do-you-know-mind-diet-might-keep-you-sharp-age-121401.html
+<description>THURSDAY, SEPT. 19, 2024 -- It's called the MIND diet and its primary aim is to help guard against thinking and memory declines as you age. But does it work?
+Yes, claims new research that found following the MIND diet for 10 years produced a small...</description>
+<pubdate>Thu, 19 Sep 2024 12:09:03 +0000</pubdate>
+</item>
+<item>
+<title>Dengue Cases Mount in Los Angeles</title>
+<link/>https://www.drugs.com/news/dengue-cases-mount-los-angeles-121402.html
+<description>THURSDAY, Sept. 19, 2024 -- The Los Angeles area is seeing a troubling increase in local dengue fever cases, health officials warned Wednesday.
+In a public notice posted on its website, the Los Angeles County Public Health Department said at least...</description>
+<pubdate>Thu, 19 Sep 2024 11:09:53 +0000</pubdate>
+</item>
+<item>
+<title>'Exercise Is Medicine' for People With Parkinson's</title>
+<link/>https://www.drugs.com/news/exercise-medicine-parkinson-s-121406.html
+<description>THURSDAY, Sept 19, 2024 -- Exercise, whether moderate- or high-intensity, can help ease Parkinson's symptoms, including fatigue, new research shows.
+As study lead author Dr. Philip Millar explained, Parkinson's patients are too often overwhelmed by...</description>
+<pubdate>Thu, 19 Sep 2024 10:09:54 +0000</pubdate>
+</item>
+</channel>
+</rss></body></html>
+
+
+--------------------

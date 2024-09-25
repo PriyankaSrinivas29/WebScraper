@@ -1,0 +1,29 @@
+ICR researchers identify new drug target for advanced prostate cancer patients
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The team estimates that around 10% of patients have high levels of the BCL2 protein
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Researchers from the Institute of Cancer Research (ICR) have found that prostate cancer patients with high levels of a specific protein have significantly poorer outcomes compared to those without.. The findings published in the Journal of Clinical Investigation suggest that BCL2, a protein responsible for preventing cell death, could be a new drug target for the disease and be used to help predict which patients will become resistant to hormone therapy.. Approximately 55,100 new cases of prostate cancer are diagnosed in the UK every year, and the researchers estimate that around 10% of patients with the disease have high levels of BCL2.. The team examined 427 biopsies from 245 patients with metastatic castration-resistant prostate cancer and found those those with higher levels of BCL2 had a much shorter overall survival from the time of diagnosis of mCRPC, of 20.. 4 months versus 53 months.. A significant difference in response to common hormone therapy treatments, depending on the cancers level of BCL2, was also observed.. Prostate-specific antigen (PSA) levels were reduced by more than 50% in only 12.. 5% of patients with higher BCL2 levels, compared to 47.. 6% of those with lower BCL2 expression, and overall survival from starting therapy was also markedly different.. In contrast, the researchers saw no variation in overall survival or PSA response when patients were treated with docetaxel chemotherapy, suggesting that this could be a better treatment option for those with high levels of BCL2.. Adam Sharp, leader of the translational therapeutics group at the ICR and honorary consultant medical oncologist at the Royal Marsden NHS Foundation Trust, said: We urgently need new treatments to help improve the quality and quantity of life for patients living with advanced prostate cancer.. Our results have shown that theres a large disparity in outcomes for people whose cancers have high levels of the BCL2 protein, and that their cancers respond less well to hormone therapies than others.. Further research could provide evidence for more personalised treatment plans, as these cancers may respond better to docetaxel than enzalutamide or abiraterone.. 
+The team, funded by the Wellcome Trust, Prostate Cancer Foundation, Prostate Cancer UK and Cancer Research UK, also attempted to target BCL2 and found the best anti-tumour response in cells when they targeted the BCL2 family of proteins together.. A clinical trial evaluating the BCL2 inhibitor venetoclax, which is approved for certain types of leukaemia, with the hormone therapy enzalutamide in prostate cancer patients has already begun.

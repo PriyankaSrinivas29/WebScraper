@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><html><body><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>PharmaTimes</title>
+<atom:link href="https://pharmatimes.com/feed/" rel="self" type="application/rss+xml"></atom:link>
+<link/>https://pharmatimes.com
+	<description>in-depth news, features and insights for the pharmaceutical and healthcare sectors</description>
+<lastbuilddate>Tue, 24 Sep 2024 10:01:43 +0000</lastbuilddate>
+<language>en-US</language>
+<sy:updateperiod>
+	hourly	</sy:updateperiod>
+<sy:updatefrequency>
+	1	</sy:updatefrequency>
+<image>
+<url>https://pharmatimes.com/wp-content/uploads/2023/11/PT-icon-150x150.png</url>
+<title>PharmaTimes</title>
+<link/>https://pharmatimes.com
+	<width>32</width>
+<height>32</height>
+</image>
+<site xmlns="com-wordpress:feed-additions:1">232894315</site> <item>
+<title>Cancer Grand Challenges launches global initiative to take on toughest problems</title>
+<link/>https://pharmatimes.com/news/cancer-grand-challenges-launches-global-initiative-to-tackle-cancers-toughest-problems/
+		
+		<dc:creator>&lt;![CDATA[John Pinching]]&gt;</dc:creator>
+<pubdate>Tue, 24 Sep 2024 09:53:38 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102373</guid>
+<description>&lt;![CDATA[<p>International think tanks to shape future of cancer research funding</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/08/arrows_up.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102373</post-id> </item>
+<item>
+<title>AlgoTx completes pivotal phase 2 trial for ground-breaking CIPN treatment</title>
+<link/>https://pharmatimes.com/news/algotx-completes-pivotal-phase-2-trial-for-ground-breaking-cipn-treatment/
+		
+		<dc:creator>&lt;![CDATA[John Pinching]]&gt;</dc:creator>
+<pubdate>Tue, 24 Sep 2024 09:41:45 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102369</guid>
+<description>&lt;![CDATA[<p>International trial marks leap forward in chemotherapy-induced neuropathy care</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/12/Arrow.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102369</post-id> </item>
+<item>
+<title>Oncologica to advance urine-based prostate cancer screening test</title>
+<link/>https://pharmatimes.com/news/oncologica-to-advance-urine-based-prostate-cancer-screening-test/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Thu, 19 Sep 2024 11:48:50 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[FRP Corporate Finance]]&gt;</category>
+<category>&lt;![CDATA[Oncologica]]&gt;</category>
+<category>&lt;![CDATA[prostate cancer]]&gt;</category>
+<category>&lt;![CDATA[ProstateFocus]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102359</guid>
+<description>&lt;![CDATA[<p>There is currently no national screening programme for the disease in the UK</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/08/cancer_cell.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102359</post-id> </item>
+<item>
+<title>Sundip Chahal</title>
+<link/>https://pharmatimes.com/appointments/sundip-chahal/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Thu, 19 Sep 2024 11:48:06 +0000</pubdate>
+<category>&lt;![CDATA[Appointments]]&gt;</category>
+<category>&lt;![CDATA[Milieu Insight]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102361</guid>
+<description>&lt;![CDATA[<p>Milieu Insight has appointed Sundip Chahal as Chief Executive Officer</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2024/09/Sundip-Chahal-Gerald-Ang-Milieu-Insight.jpeg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102361</post-id> </item>
+<item>
+<title>NHS Trust to evaluate AI software for prostate cancer diagnosis</title>
+<link/>https://pharmatimes.com/news/leeds-teaching-hospitals-nhs-trust-evaluates-ai-software-for-prostate-cancer-diagnosis/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Wed, 18 Sep 2024 11:43:45 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[AI]]&gt;</category>
+<category>&lt;![CDATA[artificial intelligence]]&gt;</category>
+<category>&lt;![CDATA[Leeds Teaching Hospitals NHS Trust]]&gt;</category>
+<category>&lt;![CDATA[Lucida Medical]]&gt;</category>
+<category>&lt;![CDATA[prostate cancer]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102344</guid>
+<description>&lt;![CDATA[<p>It is hoped that the tool will improve the diagnostic pathway and free up radiologists’ time</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/11/p30-31.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102344</post-id> </item>
+<item>
+<title>FlyPharma Europe, Vienna – October 2024 conference</title>
+<link/>https://pharmatimes.com/news/flypharma-europe-vienna-october-2024-conference/
+		
+		<dc:creator>&lt;![CDATA[FlyPharma Conferences]]&gt;</dc:creator>
+<pubdate>Wed, 18 Sep 2024 11:43:03 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[flypharma]]&gt;</category>
+<category>&lt;![CDATA[FlyPharma Europe]]&gt;</category>
+<category>&lt;![CDATA[Vienna AirportCity]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102346</guid>
+<description>&lt;![CDATA[<p>The conference will return to Vienna AirportCity on 23 to 24 October 2024</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2024/09/FlyPharma-2024.png" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102346</post-id> </item>
+<item>
+<title>UKRI’s MRC awards £27.4m to University of Dundee research unit</title>
+<link/>https://pharmatimes.com/news/ukris-mrc-awards-27-4m-to-university-of-dundee-research-unit/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Tue, 17 Sep 2024 11:40:24 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Crohn’s disease]]&gt;</category>
+<category>&lt;![CDATA[MRC]]&gt;</category>
+<category>&lt;![CDATA[MRC PPU]]&gt;</category>
+<category>&lt;![CDATA[Parkinson’s]]&gt;</category>
+<category>&lt;![CDATA[UKRI]]&gt;</category>
+<category>&lt;![CDATA[University of Dundee]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102338</guid>
+<description>&lt;![CDATA[<p>The centre aims to discover new drug targets for diseases such as Parkinson’s and hypertension</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/12/connect_people.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102338</post-id> </item>
+<item>
+<title>Jane Osbourn</title>
+<link/>https://pharmatimes.com/appointments/jane-osbourn/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Tue, 17 Sep 2024 11:39:30 +0000</pubdate>
+<category>&lt;![CDATA[Appointments]]&gt;</category>
+<category>&lt;![CDATA[Alchemab Therapeutics]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102340</guid>
+<description>&lt;![CDATA[<p>Alchemab has appointed Jane Osbourn as Chief Executive Officer</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2024/09/Jane-Osbourn.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102340</post-id> </item>
+<item>
+<title>WHO adds first mpox vaccine to prequalification list</title>
+<link/>https://pharmatimes.com/news/who-adds-first-mpox-vaccine-to-prequalification-list/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Mon, 16 Sep 2024 11:49:30 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Bavarian Nordic]]&gt;</category>
+<category>&lt;![CDATA[Imvanex]]&gt;</category>
+<category>&lt;![CDATA[mpox]]&gt;</category>
+<category>&lt;![CDATA[MVA-BN]]&gt;</category>
+<category>&lt;![CDATA[WHO]]&gt;</category>
+<category>&lt;![CDATA[World Health Organization]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102331</guid>
+<description>&lt;![CDATA[<p>The decision is expected to facilitate timely access to Bavarian Nordic’s Imvanex</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/11/p28_iStock-1069547628.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102331</post-id> </item>
+<item>
+<title>Russell Abberley</title>
+<link/>https://pharmatimes.com/appointments/russell-abberley/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Mon, 16 Sep 2024 11:48:50 +0000</pubdate>
+<category>&lt;![CDATA[Appointments]]&gt;</category>
+<category>&lt;![CDATA[ABPI]]&gt;</category>
+<category>&lt;![CDATA[Russell Abberley]]&gt;</category>
+<category>&lt;![CDATA[The Association of the British Pharmaceutical Industry]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102333</guid>
+<description>&lt;![CDATA[<p>ABPI has appointed Russell Abberley as Acting President</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2024/09/Russell-Abberley.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102333</post-id> </item>
+</channel>
+</rss></body></html>
+
+
+--------------------
+<?xml version="1.0" encoding="UTF-8"?><html><body><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>News | PharmaTimes</title>
+<atom:link href="https://pharmatimes.com/news/feed/" rel="self" type="application/rss+xml"></atom:link>
+<link/>https://pharmatimes.com
+	<description>in-depth news, features and insights for the pharmaceutical and healthcare sectors</description>
+<lastbuilddate>Tue, 24 Sep 2024 10:01:43 +0000</lastbuilddate>
+<language>en-US</language>
+<sy:updateperiod>
+	hourly	</sy:updateperiod>
+<sy:updatefrequency>
+	1	</sy:updatefrequency>
+<image>
+<url>https://pharmatimes.com/wp-content/uploads/2023/11/PT-icon-150x150.png</url>
+<title>News | PharmaTimes</title>
+<link/>https://pharmatimes.com
+	<width>32</width>
+<height>32</height>
+</image>
+<site xmlns="com-wordpress:feed-additions:1">232894315</site> <item>
+<title>Cancer Grand Challenges launches global initiative to take on toughest problems</title>
+<link/>https://pharmatimes.com/news/cancer-grand-challenges-launches-global-initiative-to-tackle-cancers-toughest-problems/
+		
+		<dc:creator>&lt;![CDATA[John Pinching]]&gt;</dc:creator>
+<pubdate>Tue, 24 Sep 2024 09:53:38 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102373</guid>
+<description>&lt;![CDATA[<p>International think tanks to shape future of cancer research funding</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/08/arrows_up.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102373</post-id> </item>
+<item>
+<title>AlgoTx completes pivotal phase 2 trial for ground-breaking CIPN treatment</title>
+<link/>https://pharmatimes.com/news/algotx-completes-pivotal-phase-2-trial-for-ground-breaking-cipn-treatment/
+		
+		<dc:creator>&lt;![CDATA[John Pinching]]&gt;</dc:creator>
+<pubdate>Tue, 24 Sep 2024 09:41:45 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102369</guid>
+<description>&lt;![CDATA[<p>International trial marks leap forward in chemotherapy-induced neuropathy care</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/12/Arrow.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102369</post-id> </item>
+<item>
+<title>Oncologica to advance urine-based prostate cancer screening test</title>
+<link/>https://pharmatimes.com/news/oncologica-to-advance-urine-based-prostate-cancer-screening-test/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Thu, 19 Sep 2024 11:48:50 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[FRP Corporate Finance]]&gt;</category>
+<category>&lt;![CDATA[Oncologica]]&gt;</category>
+<category>&lt;![CDATA[prostate cancer]]&gt;</category>
+<category>&lt;![CDATA[ProstateFocus]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102359</guid>
+<description>&lt;![CDATA[<p>There is currently no national screening programme for the disease in the UK</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/08/cancer_cell.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102359</post-id> </item>
+<item>
+<title>NHS Trust to evaluate AI software for prostate cancer diagnosis</title>
+<link/>https://pharmatimes.com/news/leeds-teaching-hospitals-nhs-trust-evaluates-ai-software-for-prostate-cancer-diagnosis/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Wed, 18 Sep 2024 11:43:45 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[AI]]&gt;</category>
+<category>&lt;![CDATA[artificial intelligence]]&gt;</category>
+<category>&lt;![CDATA[Leeds Teaching Hospitals NHS Trust]]&gt;</category>
+<category>&lt;![CDATA[Lucida Medical]]&gt;</category>
+<category>&lt;![CDATA[prostate cancer]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102344</guid>
+<description>&lt;![CDATA[<p>It is hoped that the tool will improve the diagnostic pathway and free up radiologists’ time</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/11/p30-31.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102344</post-id> </item>
+<item>
+<title>FlyPharma Europe, Vienna – October 2024 conference</title>
+<link/>https://pharmatimes.com/news/flypharma-europe-vienna-october-2024-conference/
+		
+		<dc:creator>&lt;![CDATA[FlyPharma Conferences]]&gt;</dc:creator>
+<pubdate>Wed, 18 Sep 2024 11:43:03 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[flypharma]]&gt;</category>
+<category>&lt;![CDATA[FlyPharma Europe]]&gt;</category>
+<category>&lt;![CDATA[Vienna AirportCity]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102346</guid>
+<description>&lt;![CDATA[<p>The conference will return to Vienna AirportCity on 23 to 24 October 2024</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2024/09/FlyPharma-2024.png" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102346</post-id> </item>
+<item>
+<title>UKRI’s MRC awards £27.4m to University of Dundee research unit</title>
+<link/>https://pharmatimes.com/news/ukris-mrc-awards-27-4m-to-university-of-dundee-research-unit/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Tue, 17 Sep 2024 11:40:24 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Crohn’s disease]]&gt;</category>
+<category>&lt;![CDATA[MRC]]&gt;</category>
+<category>&lt;![CDATA[MRC PPU]]&gt;</category>
+<category>&lt;![CDATA[Parkinson’s]]&gt;</category>
+<category>&lt;![CDATA[UKRI]]&gt;</category>
+<category>&lt;![CDATA[University of Dundee]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102338</guid>
+<description>&lt;![CDATA[<p>The centre aims to discover new drug targets for diseases such as Parkinson’s and hypertension</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/12/connect_people.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102338</post-id> </item>
+<item>
+<title>WHO adds first mpox vaccine to prequalification list</title>
+<link/>https://pharmatimes.com/news/who-adds-first-mpox-vaccine-to-prequalification-list/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Mon, 16 Sep 2024 11:49:30 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Bavarian Nordic]]&gt;</category>
+<category>&lt;![CDATA[Imvanex]]&gt;</category>
+<category>&lt;![CDATA[mpox]]&gt;</category>
+<category>&lt;![CDATA[MVA-BN]]&gt;</category>
+<category>&lt;![CDATA[WHO]]&gt;</category>
+<category>&lt;![CDATA[World Health Organization]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102331</guid>
+<description>&lt;![CDATA[<p>The decision is expected to facilitate timely access to Bavarian Nordic’s Imvanex</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/11/p28_iStock-1069547628.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102331</post-id> </item>
+<item>
+<title>World Sepsis Day 2024 highlights need for better sepsis treatments</title>
+<link/>https://pharmatimes.com/news/world-sepsis-day-2024-highlights-need-for-better-sepsis-treatments/
+		
+		<dc:creator>&lt;![CDATA[John Pinching]]&gt;</dc:creator>
+<pubdate>Fri, 13 Sep 2024 12:35:22 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102327</guid>
+<description>&lt;![CDATA[<p>GlobalData emphasises importance of Improved clinical trials</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/12/Target.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102327</post-id> </item>
+<item>
+<title>Nxera and Cancer Research UK to present promising cancer drug trial at ESMO</title>
+<link/>https://pharmatimes.com/news/nxera-and-cancer-research-uk-to-present-promising-cancer-drug-trial-at-esmo/
+		
+		<dc:creator>&lt;![CDATA[John Pinching]]&gt;</dc:creator>
+<pubdate>Fri, 13 Sep 2024 12:18:14 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102325</guid>
+<description>&lt;![CDATA[<p>Innovative immunotherapy drug HTL0039732 shows potential in trials</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/12/global_partnership.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102325</post-id> </item>
+<item>
+<title>HRT linked to reduced psychosis relapse risk in menopausal women</title>
+<link/>https://pharmatimes.com/news/hrt-linked-to-reduced-psychosis-relapse-risk-in-menopausal-women/
+		
+		<dc:creator>&lt;![CDATA[John Pinching]]&gt;</dc:creator>
+<pubdate>Thu, 12 Sep 2024 12:56:53 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<guid ispermalink="false">https://pharmatimes.com/?p=102323</guid>
+<description>&lt;![CDATA[<p>New study highlights potential benefits of menopausal hormone therapy</p>
+<p><img src="https://pharmatimes.com/wp-content/uploads/2023/12/shutterstock_1563971377.jpg" style="display: block; margin: 1em auto"/></p>
+]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">102323</post-id> </item>
+</channel>
+</rss></body></html>
+
+
+--------------------

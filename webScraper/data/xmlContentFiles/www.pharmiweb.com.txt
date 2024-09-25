@@ -1,0 +1,230 @@
+<html><body><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>PharmiWeb.com Articles</title>
+<atom:link href="https://www.pharmiweb.com/rss/articles" rel="self" type="application/rss+xml"></atom:link>
+<link/>https://www.pharmiweb.com
+        <description>PharmiWeb.com | Articles in the Pharmaceutical industry</description>
+<lastbuilddate>Wed, 25 Sep 2024 09:05:55 +00:00</lastbuilddate>
+<language>en-GB</language>
+<sy:updateperiod>hourly</sy:updateperiod>
+<sy:updatefrequency>1</sy:updatefrequency>
+<item>
+<title>How Air Transport Disruptions Impact Life Sciences Companies</title>
+<link/>https://www.pharmiweb.com/article/how-air-transport-disruptions-impact-life-sciences-companies
+                    <pubdate>Mon, 23 Sep 2024 03:40:17 +00:00</pubdate>
+<guid ispermalink="false">200728</guid>
+<description>&lt;![CDATA[Air transport is a critical lifeline for the life sciences and health care industries, ensuring the timely delivery of essential products like medicines and lab samples worldwide. Whether transporting temperature-sensitive biologics or coordinating international clinical trials, life sciences companies rely heavily on the efficiency of air logistics.
+However, when air transport is disrupted — whether by weather, geopolitical tensions, or logistical issues — the ripple effects can be significa...]]&gt;</description>
+</item>
+<item>
+<title>What to Expect from Your First Job in Clinical Research</title>
+<link/>https://www.pharmiweb.com/article/what-to-expect-from-your-first-job-in-clinical-research
+                    <pubdate>Mon, 23 Sep 2024 02:05:11 +00:00</pubdate>
+<guid ispermalink="false">200708</guid>
+<description>&lt;![CDATA[Starting a career in clinical research is an exciting yet challenging step. Whether you’re fresh out of university or transitioning from another field, working in clinical research offers a dynamic environment with plenty of opportunities for growth and learning, as well as an incredibly rewarding career path.
+Here, we explore the key aspects of entry-level roles in clinical research, looking at the types of roles on offer, what to expect in your first job and the skills you’ll need to thrive...]]&gt;</description>
+</item>
+<item>
+<title>Q&amp;A: How to Transition from a Large Company to a Small Start-Up</title>
+<link/>https://www.pharmiweb.com/article/qa-how-to-transition-from-a-large-company-to-a-small-start-up
+                    <pubdate>Tue, 17 Sep 2024 10:26:01 +00:00</pubdate>
+<guid ispermalink="false">200483</guid>
+<description>&lt;![CDATA[If you’re used to working for a large pharmaceutical company in a corporate environment, then transitioning to a smaller or start-up company can be a big shock to the system. Whilst no two companies are the same regardless of their size, there are distinct differences between working for a large company and a small start-up, and things you’ll need to consider before making the move.
+We sat down (virtually) with an employee of a small, biotech start-up to understand what it takes to thrive in...]]&gt;</description>
+</item>
+<item>
+<title>The Impact of AI on HEOR</title>
+<link/>https://www.pharmiweb.com/article/the-impact-of-ai-on-heor
+                    <pubdate>Thu, 05 Sep 2024 12:18:34 +00:00</pubdate>
+<guid ispermalink="false">200117</guid>
+<description>&lt;![CDATA[Health Economics and Outcomes Research (HEOR) plays a critical role in informing healthcare decisions by assessing the value of medical treatments and interventions. By evaluating costs, clinical outcomes, and patient experiences, HEOR provides evidence to help optimise healthcare spending and improve patient care.
+As the demand for more efficient and personalised healthcare systems grows, artificial intelligence (AI) has proven to be a transformative force in HEOR. With the potential to revo...]]&gt;</description>
+</item>
+<item>
+<title>10 Reasons Why Your Job Adverts Aren’t Performing</title>
+<link/>https://www.pharmiweb.com/article/10-reasons-why-your-job-adverts-aren-t-performing
+                    <pubdate>Thu, 19 Sep 2024 09:57:31 +00:00</pubdate>
+<guid ispermalink="false">200599</guid>
+<description>&lt;![CDATA[Your job adverts can either attract or repel your ideal candidates and are arguably the most important element of your recruitment marketing. In a tough market, it’s vital that you get your job adverts right, striking the perfect balance between being informative and engaging, detailed yet succinct. They should speak to the wants and needs of your target candidates whilst positioning your organisation as an employer of choice, and most importantly, they need to drive action.
+There are many re...]]&gt;</description>
+</item>
+<item>
+<title>Ai is the Next Frontier in Cancer Detection: Innovations for Improved Outcomes</title>
+<link/>https://www.pharmiweb.com/article/ai-is-the-next-frontier-in-cancer-detection-innovations-for-improved-outcomes
+                    <pubdate>Wed, 18 Sep 2024 10:25:12 +00:00</pubdate>
+<guid ispermalink="false">200537</guid>
+<description>&lt;![CDATA[Rising Cancer Rates and the Impact of AI on Diagnostics
+As cancer rates continue to climb, the market for AI in cancer diagnostics is witnessing remarkable growth. This surge is driven not only by the increasing prevalence of the disease but also by a heightened awareness of the importance of early detection. By enhancing accuracy and efficiency, AI is revolutionizing the way we approach cancer diagnostics, ultimately improving patient outcomes.
+Why AI Matters in Cancer Diagnostics
+Traditiona...]]&gt;</description>
+</item>
+<item>
+<title>Advanced Methods for Natural Product Extraction</title>
+<link/>https://www.pharmiweb.com/article/advanced-methods-for-natural-product-extraction
+                    <pubdate>Mon, 26 Aug 2024 09:07:35 +00:00</pubdate>
+<guid ispermalink="false">199762</guid>
+<description>&lt;![CDATA[Natural product extraction is a crucial process in the fields of chemistry, biology, and pharmaceuticals. It involves isolating bioactive compounds from plants, animals, and other natural sources to study their properties and potential applications in various industries.
+ 
+There are several methods used for natural product extraction, each with its advantages and limitations. One of the most common methods is solvent extraction, where a solvent is used to dissolve the bioactive compounds from...]]&gt;</description>
+</item>
+<item>
+<title>Creation Healthcare launches new platform for pharmaceutical industry to identify HCP sentiment and top digital opinion leaders in key disease spaces</title>
+<link/>https://www.pharmiweb.com/article/creation-healthcare-launches-new-platform-for-pharmaceutical-industry-to-identify-hcp-sentiment-and-top-digital-opinion-leaders-in-key-disease-spaces
+                    <pubdate>Thu, 12 Sep 2024 09:21:48 +00:00</pubdate>
+<guid ispermalink="false">200343</guid>
+<description>&lt;![CDATA[A new platform has been launched this week which allows the pharmaceutical industry to identify the most influential healthcare professionals discussing major diseases, treatments and trials on social media. 
+DOL Finder, an all-new database developed by leading digital insights consultancy Creation Healthcare, allows users to identify, monitor, and understand the most influential online healthcare professionals in any given disease space - beginning with type 2 diabetes. The platform, Creatio...]]&gt;</description>
+</item>
+<item>
+<title>Choosing the Right Clinical Research Institute: A Step-by-Step Guide with Fusion Technology Solutions</title>
+<link/>https://www.pharmiweb.com/article/choosing-the-right-clinical-research-institute-a-step-by-step-guide-with-fusion-technology-solutions
+                    <pubdate>Thu, 12 Sep 2024 05:07:09 +00:00</pubdate>
+<guid ispermalink="false">200335</guid>
+<description>&lt;![CDATA[Embarking on a career in clinical research is an exciting journey that requires the right education and training. A crucial first step in this journey is selecting the right clinical research institute. Whether you are considering clinical research courses, a PG Diploma in Clinical Research, online clinical research courses, or a diploma in clinical research, your choice of institute plays a pivotal role in shaping your career. In this guide, we will walk you through the process of choosing t...]]&gt;</description>
+</item>
+<item>
+<title>Development of Nanobody-Based Drug Delivery Systems</title>
+<link/>https://www.pharmiweb.com/article/development-of-nanobody-based-drug-delivery-systems
+                    <pubdate>Mon, 26 Aug 2024 09:08:22 +00:00</pubdate>
+<guid ispermalink="false">199763</guid>
+<description>&lt;![CDATA[Nanobodies are small antibody fragments derived from naturally occurring heavy-chain antibodies found in camelids, such as camels and llamas. They are composed of a single monomeric variable domain, making them much smaller than conventional antibodies.
+ 
+The development of nanobody-based drug delivery systems began with the discovery of camelid antibodies in the early 1990s. These antibodies were found to have several unique properties that made them ideal candidates for drug delivery applic...]]&gt;</description>
+</item>
+<item>
+<title>Applications of Stable Isotope Labeled Amino Acids in Biological and Medical Research</title>
+<link/>https://www.pharmiweb.com/article/applications-of-stable-isotope-labeled-amino-acids-in-biological-and-medical-research
+                    <pubdate>Mon, 26 Aug 2024 09:06:43 +00:00</pubdate>
+<guid ispermalink="false">199761</guid>
+<description>&lt;![CDATA[Stable isotope labeled amino acids have emerged as indispensable tools for researchers in the fields of biology and medicine, offering unique opportunities to delve into complex biological processes at the molecular level. These specially labeled amino acids, though chemically identical to their natural counterparts, possess isotopic substitutions that make them easily distinguishable and traceable within biological systems. This article explores the diverse applications of stable isotope lab...]]&gt;</description>
+</item>
+<item>
+<title>Best Clinical Research Courses in Pune by Fusion Technology Solutions</title>
+<link/>https://www.pharmiweb.com/article/best-clinical-research-courses-in-pune-by-fusion-technology-solutions
+                    <pubdate>Wed, 11 Sep 2024 09:27:32 +00:00</pubdate>
+<guid ispermalink="false">200272</guid>
+<description>&lt;![CDATA[Clinical research plays a crucial role in the development of new drugs, therapies, and medical devices. It is a field that requires expertise, knowledge, and practical skills to ensure accurate and safe results. Pune, known for its thriving healthcare industry, offers several institutes and organizations that provide Clinical Trials Course. One of the top names in this domain is Fusion Technology Solutions. With its comprehensive curriculum, experienced faculty, and state-of-the-art facilitie...]]&gt;</description>
+</item>
+<item>
+<title>How Artificial Intelligence Improves Disease Modeling</title>
+<link/>https://www.pharmiweb.com/article/how-artificial-intelligence-improves-disease-modeling
+                    <pubdate>Tue, 10 Sep 2024 02:25:54 +00:00</pubdate>
+<guid ispermalink="false">200256</guid>
+<description>&lt;![CDATA[Artificial intelligence’s role in disease modeling could be transformative. Its ability to analyze massive datasets rapidly, uncover hidden trends and forecast likely outcomes could accelerate progression in the pharmaceutical industry. How can research teams use this technology to enhance, refine or reimagine their existing processes?
+How Does AI Fit Into Disease Modeling?
+Disease modeling involves creating representative systems that mimic the behavior and progression of infectious and noni...]]&gt;</description>
+</item>
+<item>
+<title>Pea Protein Market Size, DROT, Porter’s, PEST, Region &amp; Country Revenue Analysis &amp; Forecast Till 2035</title>
+<link/>https://www.pharmiweb.com/article/pea-protein-market-size-drot-porter-s-pest-region-country-revenue-analysis-forecast-till-2035
+                    <pubdate>Tue, 10 Sep 2024 10:09:27 +00:00</pubdate>
+<guid ispermalink="false">200239</guid>
+<description>&lt;![CDATA[Roots analysis has released the latest market research report on the Pea Protein market, offering a comprehensive analysis of global industry size, and delving deeply into various segments covered in the study report. Additionally, the report covers an in-depth study of current industry statistics, market size, regional insight, revenue share, growing segments, product portfolio, and production &amp;amp; distribution costs associated with the global Pea Protein Market. Besides growth insight, the...]]&gt;</description>
+</item>
+<item>
+<title>Career Pathways in HEOR: From Entry Level Roles to Senior Leadership</title>
+<link/>https://www.pharmiweb.com/article/career-pathways-in-heor-from-entry-level-roles-to-senior-leadership
+                    <pubdate>Tue, 10 Sep 2024 02:05:41 +00:00</pubdate>
+<guid ispermalink="false">200254</guid>
+<description>&lt;![CDATA[The global&amp;nbsp;Health Economics and Outcomes Research (HEOR) Services Market size&amp;nbsp;was valued at over $1 billion in 2022 and is estimated to grow at more than 14% CAGR from 2023 to 2032, reaching a value of over $3.5 billion. The key drivers of this growth are expected to be:
+
+A surge in the number of clinical trials globally
+Focus of pharma &amp;amp; biotech companies on new drug development
+Increasing R&amp;amp;D expenditure worldwide
+Growing outsourcing of R&amp;amp;D activities
+
+Despite the vast...]]&gt;</description>
+</item>
+<item>
+<title>Revolutionizing Pharmaceuticals: The Rise of Robots in Drug Development and Patient Care</title>
+<link/>https://www.pharmiweb.com/article/revolutionizing-pharmaceuticals-the-rise-of-robots-in-drug-development-and-patient-care
+                    <pubdate>Tue, 10 Sep 2024 10:45:51 +00:00</pubdate>
+<guid ispermalink="false">200240</guid>
+<description>&lt;![CDATA[The pharmaceutical robots market is set for remarkable growth, driven by an increased prevalence of chronic diseases and a heightened demand for automation in healthcare. Valued at $177.9 million in 2022, this market is expected to advance at a compound annual growth rate (CAGR) of 10.3%, reaching an impressive $426.8 million by the end of 2031.
+The Automation Transformation: A New Era in Healthcare
+Pharmaceutical robots are revolutionizing the healthcare industry by automating critical proce...]]&gt;</description>
+</item>
+<item>
+<title>What Is a Monopoly Pharma Franchise and How Does It Work?</title>
+<link/>https://www.pharmiweb.com/article/what-is-a-monopoly-pharma-franchise-and-how-does-it-work
+                    <pubdate>Mon, 09 Sep 2024 10:35:29 +00:00</pubdate>
+<guid ispermalink="false">200197</guid>
+<description>&lt;![CDATA[What Is a Monopoly Pharma Franchise and How Does It Work?
+The pharmaceutical industry is one of the most rapidly expanding sectors globally, and with it, various business models have emerged, offering opportunities to entrepreneurs and companies alike. One such business model is the monopoly pharma franchise, which has gained significant attention due to its unique structure and profitability. This article will explore what a monopoly pharma franchise is, how it works, and why it has become a...]]&gt;</description>
+</item>
+<item>
+<title>Respiratory Disease Vaccine Market to exceed USD 73.34 Bn by 2032; FBI &amp; Consulting</title>
+<link/>https://www.pharmiweb.com/article/respiratory-disease-vaccine-market-to-exceed-usd-7334-bn-by-2032-fbi-consulting
+                    <pubdate>Mon, 09 Sep 2024 09:19:16 +00:00</pubdate>
+<guid ispermalink="false">200193</guid>
+<description>&lt;![CDATA[The respiratory disease vaccine market is expected to cross USD 73.34 billion by year 2032, observing around 1.3% CAGR between 2024 and 2032, says a report by Fundamental Business Insights. Some of the major factors driving this growth include the rising prevalence of respiratory infections such as influenza, pneumonia, and COVID-19, particularly in vulnerable populations like the elderly and children. An aging global population also contributes to increased rates of chronic respiratory condi...]]&gt;</description>
+</item>
+<item>
+<title>Healthcare professionals back NICE decision to reject ‘cost ineffective’ Alzheimer’s treatment on cash-strapped NHS budget, research finds</title>
+<link/>https://www.pharmiweb.com/article/healthcare-professionals-back-nice-decision-to-reject-cost-ineffective-alzheimer-s-treatment-on-cash-strapped-nhs-budget-research-finds
+                    <pubdate>Mon, 09 Sep 2024 08:42:45 +00:00</pubdate>
+<guid ispermalink="false">200191</guid>
+<description>&lt;![CDATA[Healthcare professionals have taken to social media to praise the National Institute for Health and Care Excellence’s (NICE) decision to reject a new Alzheimer’s treatment for use on the NHS as “rational and sensible”, according to recent research. 
+An analysis of the social media conversations of healthcare professionals immediately following the health body’s announcement that it would not recommend Lecanemab for use on the NHS found that HCPs were broadly in agreement with the decision. 
+O...]]&gt;</description>
+</item>
+<item>
+<title>Biologics CDMO Market</title>
+<link/>https://www.pharmiweb.com/article/biologics-cdmo-market
+                    <pubdate>Sun, 01 Sep 2024 12:37:19 +00:00</pubdate>
+<guid ispermalink="false">199956</guid>
+<description>&lt;![CDATA[Introduction
+In recent years, the biologics market has witnessed exponential growth, driven by the increasing demand for biopharmaceuticals, including monoclonal antibodies, vaccines, and gene therapies. Central to this surge is the pivotal role played by Contract Development and Manufacturing Organizations (CDMOs). These specialized service providers are integral to the biopharmaceutical industry, offering comprehensive support from early-stage development to large-scale commercial productio...]]&gt;</description>
+</item>
+<item>
+<title>Hormone Replacement Therapy Market to Reach USD 39.8 Billion by 2032</title>
+<link/>https://www.pharmiweb.com/article/hormone-replacement-therapy-market-to-reach-usd-398-billion-by-2032
+                    <pubdate>Thu, 29 Aug 2024 10:08:17 +00:00</pubdate>
+<guid ispermalink="false">199908</guid>
+<description>&lt;![CDATA[According to Acumen Research and Consulting, The Global Hormone Replacement Therapy Market Size accounted for USD 21.6 Billion in 2022 and is projected to achieve a market size of of USD 39.8 Billion by 2032 growing at a CAGR of 6.4% from 2023 to 2032.
+Hormone Replacement Therapy (HRT) has emerged as a critical component in the management of hormonal imbalances, particularly for menopause-related symptoms in women. As the global population ages and awareness around hormonal health grows, the...]]&gt;</description>
+</item>
+<item>
+<title>Overview on Nucleic Acid Vaccine Adjuvant Development</title>
+<link/>https://www.pharmiweb.com/article/overview-on-nucleic-acid-vaccine-adjuvant-development
+                    <pubdate>Thu, 29 Aug 2024 03:25:40 +00:00</pubdate>
+<guid ispermalink="false">199894</guid>
+<description>&lt;![CDATA[Introduction
+Vaccines are pivotal in the prevention and control of infectious diseases. With advancements in biotechnology, nucleic acid vaccines, such as DNA and RNA vaccines, have emerged as a promising frontier in immunization strategies. Nucleic acid vaccines work by introducing genetic material into the body, instructing cells to produce antigens that trigger immune responses. To enhance the efficacy of these vaccines, adjuvants play an essential role. This article offers an overview of...]]&gt;</description>
+</item>
+<item>
+<title>12 Types of Workplace Mentoring, and How They Work</title>
+<link/>https://www.pharmiweb.com/article/12-types-of-workplace-mentoring-and-how-they-work
+                    <pubdate>Thu, 29 Aug 2024 12:57:19 +00:00</pubdate>
+<guid ispermalink="false">199915</guid>
+<description>&lt;![CDATA[In an industry like the life sciences where specialised knowledge and cross-disciplinary collaboration are key, mentoring can bridge skill gaps, support career advancement, and enhance leadership capabilities. It has also proven to improve employee engagement, retention, and overall performance, with retention rates for employees with mentors&amp;nbsp;72% higher&amp;nbsp;than those without one.
+In this article, we explore 12 different types of workplace mentoring, outlining how each can positively im...]]&gt;</description>
+</item>
+<item>
+<title>What Does a Pharmaceutical Engineer Do?</title>
+<link/>https://www.pharmiweb.com/article/what-does-a-pharmaceutical-engineer-do
+                    <pubdate>Wed, 28 Aug 2024 12:08:51 +00:00</pubdate>
+<guid ispermalink="false">199872</guid>
+<description>&lt;![CDATA[A Pharmaceutical Engineer is a specialised professional who applies chemical engineering, biology, and material science principles to the design, development, and manufacturing of pharmaceutical products. Their role is crucial in ensuring that medications are produced efficiently, safely, and in compliance with strict regulatory standards. They work on the entire lifecycle of a drug, from its initial concept through to its production and quality assurance, focusing on optimising processes to...]]&gt;</description>
+</item>
+<item>
+<title>Sitting on a goldmine? How inventory management can be the hidden gem to unlock working capital for Pharma firms </title>
+<link/>https://www.pharmiweb.com/article/sitting-on-a-goldmine-how-inventory-management-can-be-the-hidden-gem-to-unlock-working-capital-for-pharma-firms
+                    <pubdate>Mon, 02 Sep 2024 02:29:50 +00:00</pubdate>
+<guid ispermalink="false">199979</guid>
+<description>&lt;![CDATA[The pandemic spun the pharmaceutical industry into overdrive, with many firms seeing their sales skyrocket as the demand for vaccines and life-saving medicines accelerated. Some of the largest firms in the pharma industry saw their revenues rise to record heights during the pandemic. Now, the challenge is to sustain this growth and ensure that profits are reinvested in research and development to enhance patient outcomes.
+However, pharma firms have been far from immune to the cash flow challe...]]&gt;</description>
+</item>
+<item>
+<title>AI in Pharma and Biotech Market Outlook 2034</title>
+<link/>https://www.pharmiweb.com/article/ai-in-pharma-and-biotech-market-outlook-2034
+                    <pubdate>Thu, 29 Aug 2024 01:53:54 +00:00</pubdate>
+<guid ispermalink="false">199917</guid>
+<description>&lt;![CDATA[Artificial Intelligence (AI) is transforming industries across the globe, and its impact on the pharmaceutical and biotechnology sectors is particularly profound. By harnessing AI, these industries are not only accelerating drug discovery but also improving the precision and efficiency of therapeutic development. This article explores the key innovations driven by AI, the technological advancements enhancing gene editing, and the implications for future therapies.
+Revolutionizing Drug Discove...]]&gt;</description>
+</item>
+</channel>
+</rss></body></html>
+
+
+--------------------

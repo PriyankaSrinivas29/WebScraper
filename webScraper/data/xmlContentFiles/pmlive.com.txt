@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><html><body><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>PMLiVE</title>
+<atom:link href="https://pmlive.com/feed/" rel="self" type="application/rss+xml"></atom:link>
+<link/>https://pmlive.com
+	<description>Pharmaceutical industry news, articles, jobs, reports, advice and services</description>
+<lastbuilddate>Tue, 24 Sep 2024 11:39:44 +0000</lastbuilddate>
+<language>en-GB</language>
+<sy:updateperiod>
+	hourly	</sy:updateperiod>
+<sy:updatefrequency>
+	1	</sy:updatefrequency>
+<site xmlns="com-wordpress:feed-additions:1">229807914</site> <item>
+<title>Ipsen’s Iqirvo receives EC approval to treat primary biliary cholangitis in adults</title>
+<link/>https://pmlive.com/pharma_news/ipsens-iqirvo-receives-ec-approval-to-treat-primary-biliary-cholangitis-in-adults/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Tue, 24 Sep 2024 11:36:14 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Regulatory]]&gt;</category>
+<category>&lt;![CDATA[European Commission]]&gt;</category>
+<category>&lt;![CDATA[Ipsen]]&gt;</category>
+<category>&lt;![CDATA[Iqirvo]]&gt;</category>
+<category>&lt;![CDATA[liver disease]]&gt;</category>
+<category>&lt;![CDATA[primary biliary cholangitis]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266802</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" fetchpriority="high" height="320" sizes="(max-width: 480px) 100vw, 480px" src="https://pmlive.com/wp-content/uploads/2024/02/Ipsen_headquarters.jpg" srcset="https://pmlive.com/wp-content/uploads/2024/02/Ipsen_headquarters.jpg 480w, https://pmlive.com/wp-content/uploads/2024/02/Ipsen_headquarters-300x200.jpg 300w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="480"/>The rare liver disease affects approximately nine women for every one man]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266802</post-id> </item>
+<item>
+<title>Sanofi/Regeneron’s Dupixent recommended by CHMP for younger eosinophilic oesophagitis patients</title>
+<link/>https://pmlive.com/pharma_news/sanofi-regenerons-dupixent-recommended-by-chmp-for-younger-eosinophilic-oesophagitis-patients/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Tue, 24 Sep 2024 11:35:03 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Regulatory]]&gt;</category>
+<category>&lt;![CDATA[CHMP]]&gt;</category>
+<category>&lt;![CDATA[Dupixent]]&gt;</category>
+<category>&lt;![CDATA[eosinophilic oesophagitis]]&gt;</category>
+<category>&lt;![CDATA[Regeneron]]&gt;</category>
+<category>&lt;![CDATA[Sanofi]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266722</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" height="683" sizes="(max-width: 1024px) 100vw, 1024px" src="https://pmlive.com/wp-content/uploads/2024/02/NEW_Sanofi-1024x683.jpg" srcset="https://pmlive.com/wp-content/uploads/2024/02/NEW_Sanofi-1024x683.jpg 1024w, https://pmlive.com/wp-content/uploads/2024/02/NEW_Sanofi-300x200.jpg 300w, https://pmlive.com/wp-content/uploads/2024/02/NEW_Sanofi-768x512.jpg 768w, https://pmlive.com/wp-content/uploads/2024/02/NEW_Sanofi-1536x1024.jpg 1536w, https://pmlive.com/wp-content/uploads/2024/02/NEW_Sanofi-scaled.jpg 2040w, https://pmlive.com/wp-content/uploads/2024/02/NEW_Sanofi-1080x720.jpg 1080w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="1024"/>If approved, Dupixent would be the first drug in the EU indicated for this patient population]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266722</post-id> </item>
+<item>
+<title>From lab to life: harnessing real-world evidence for informed clinical insights and improved patient outcomes</title>
+<link/>https://pmlive.com/blogs/from-lab-to-life-harnessing-real-world-evidence-for-informed-clinical-insights-and-improved-patient-outcomes/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Tue, 24 Sep 2024 11:30:19 +0000</pubdate>
+<category>&lt;![CDATA[Blogs]]&gt;</category>
+<category>&lt;![CDATA[Smart Thinking]]&gt;</category>
+<category>&lt;![CDATA[Pharmanovia]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266804</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" height="335" sizes="(max-width: 263px) 100vw, 263px" src="https://pmlive.com/wp-content/uploads/2024/09/Stephen-Deacon-1.jpeg" srcset="https://pmlive.com/wp-content/uploads/2024/09/Stephen-Deacon-1.jpeg 263w, https://pmlive.com/wp-content/uploads/2024/09/Stephen-Deacon-1-236x300.jpeg 236w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="263"/>By Stephen Deacon]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266804</post-id> </item>
+<item>
+<title>Embracing risk: it’s time for big thinking in neurodegeneration</title>
+<link/>https://pmlive.com/intelligence/embracing-risk-its-time-for-big-thinking-in-neurodegeneration/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Tue, 24 Sep 2024 11:12:16 +0000</pubdate>
+<category>&lt;![CDATA[Intelligence]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266659</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" height="686" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://pmlive.com/wp-content/uploads/2024/09/Neurodegeneration.jpg" srcset="https://pmlive.com/wp-content/uploads/2024/09/Neurodegeneration.jpg 1024w, https://pmlive.com/wp-content/uploads/2024/09/Neurodegeneration-300x201.jpg 300w, https://pmlive.com/wp-content/uploads/2024/09/Neurodegeneration-768x515.jpg 768w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="1024"/>Drug discovery is an inherently risky endeavour, but society relies upon new drug discoveries and innovations]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266659</post-id> </item>
+<item>
+<title>J&amp;J’s Rybrevant combination approved by FDA to treat EGFR-mutated NSCLC</title>
+<link/>https://pmlive.com/pharma_news/jjs-rybrevant-combination-approved-by-fda-to-treat-egfr-mutated-nsclc/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Mon, 23 Sep 2024 11:32:28 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Regulatory]]&gt;</category>
+<category>&lt;![CDATA[FDA]]&gt;</category>
+<category>&lt;![CDATA[Johnson &amp; Johnson]]&gt;</category>
+<category>&lt;![CDATA[lung cancer]]&gt;</category>
+<category>&lt;![CDATA[non-small cell lung cancer]]&gt;</category>
+<category>&lt;![CDATA[NSCLC]]&gt;</category>
+<category>&lt;![CDATA[Rybrevant]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266688</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" height="320" loading="lazy" sizes="(max-width: 480px) 100vw, 480px" src="https://pmlive.com/wp-content/uploads/2024/02/J_and_J_cottonwood_drive.jpg" srcset="https://pmlive.com/wp-content/uploads/2024/02/J_and_J_cottonwood_drive.jpg 480w, https://pmlive.com/wp-content/uploads/2024/02/J_and_J_cottonwood_drive-300x200.jpg 300w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="480"/>Alterations in EGFR are among the most common driver mutations in lung cancer patients]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266688</post-id> </item>
+<item>
+<title>EC approves Bavarian Nordic’s mpox vaccine Imvanex for use in adolescents</title>
+<link/>https://pmlive.com/pharma_news/ec-approves-bavarian-nordics-mpox-vaccine-imvanex-for-use-in-adolescents/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Mon, 23 Sep 2024 11:31:41 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Regulatory]]&gt;</category>
+<category>&lt;![CDATA[Bavarian Nordic]]&gt;</category>
+<category>&lt;![CDATA[EC]]&gt;</category>
+<category>&lt;![CDATA[European Commission]]&gt;</category>
+<category>&lt;![CDATA[Imvanex]]&gt;</category>
+<category>&lt;![CDATA[mpox]]&gt;</category>
+<category>&lt;![CDATA[Smallpox]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266691</guid>
+<description>&lt;![CDATA[<img alt="EU flag" class="attachment-large size-large wp-post-image" decoding="async" height="330" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://pmlive.com/wp-content/uploads/2024/02/eu-flag.jpg" srcset="https://pmlive.com/wp-content/uploads/2024/02/eu-flag.jpg 500w, https://pmlive.com/wp-content/uploads/2024/02/eu-flag-300x198.jpg 300w" style="float:left; margin:0 15px 15px 0;" title="EU flag - PMLiVE" width="500"/>More than 120 countries have confirmed over 103,000 cases of mpox since the global outbreak began in 2022]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266691</post-id> </item>
+<item>
+<title>Wedgewood appoints Danielle Cranwell as president and global agency head</title>
+<link/>https://pmlive.com/pharma_appointments/wedgewood-appoints-danielle-cranwell-as-president-and-global-agency-head/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Mon, 23 Sep 2024 11:27:52 +0000</pubdate>
+<category>&lt;![CDATA[Appointments]]&gt;</category>
+<category>&lt;![CDATA[Wedgewood Communications]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266696</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" height="914" loading="lazy" sizes="(max-width: 734px) 100vw, 734px" src="https://pmlive.com/wp-content/uploads/2024/09/Danielle_Cranwell_Wedgewood.jpeg" srcset="https://pmlive.com/wp-content/uploads/2024/09/Danielle_Cranwell_Wedgewood.jpeg 734w, https://pmlive.com/wp-content/uploads/2024/09/Danielle_Cranwell_Wedgewood-241x300.jpeg 241w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="734"/>Cranwell most recently served as executive vice president, managing partner at Biolumina]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266696</post-id> </item>
+<item>
+<title>Seeing giraffes in the boardroom</title>
+<link/>https://pmlive.com/blogs/seeing-giraffes-in-the-boardroom/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Mon, 23 Sep 2024 08:54:47 +0000</pubdate>
+<category>&lt;![CDATA[Blogs]]&gt;</category>
+<category>&lt;![CDATA[Darwin’s Medicine]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266622</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" height="593" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://pmlive.com/wp-content/uploads/2024/09/Giraffe.jpg" srcset="https://pmlive.com/wp-content/uploads/2024/09/Giraffe.jpg 1024w, https://pmlive.com/wp-content/uploads/2024/09/Giraffe-300x174.jpg 300w, https://pmlive.com/wp-content/uploads/2024/09/Giraffe-768x445.jpg 768w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="1024"/>Why strategy sometimes needs a nudge]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266622</post-id> </item>
+<item>
+<title>Novo Nordisk and NanoVation to develop genetic medicines in partnership worth $600m</title>
+<link/>https://pmlive.com/pharma_news/novo-nordisk-and-nanovation-to-develop-genetic-medicines-in-partnership-worth-600m/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Fri, 20 Sep 2024 07:20:28 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Sales]]&gt;</category>
+<category>&lt;![CDATA[cardiometabolic diseases]]&gt;</category>
+<category>&lt;![CDATA[genetic medicines]]&gt;</category>
+<category>&lt;![CDATA[NanoVation Therapeutics]]&gt;</category>
+<category>&lt;![CDATA[Novo Nordisk]]&gt;</category>
+<category>&lt;![CDATA[rare diseases]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266652</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" height="330" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://pmlive.com/wp-content/uploads/2024/02/edit-Novo.jpg" srcset="https://pmlive.com/wp-content/uploads/2024/02/edit-Novo.jpg 500w, https://pmlive.com/wp-content/uploads/2024/02/edit-Novo-300x198.jpg 300w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="500"/>The companies will collaborate on up to seven programmes for cardiometabolic and rare diseases]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266652</post-id> </item>
+<item>
+<title>Merck/Daiichi Sankyo’s ADC candidate shows promise in phase 3 lung cancer trial</title>
+<link/>https://pmlive.com/pharma_news/merck-daiichi-sankyos-adc-candidate-shows-promise-in-phase-3-lung-cancer-trial/
+		
+		<dc:creator>&lt;![CDATA[Emily Kimber]]&gt;</dc:creator>
+<pubdate>Fri, 20 Sep 2024 07:19:38 +0000</pubdate>
+<category>&lt;![CDATA[News]]&gt;</category>
+<category>&lt;![CDATA[Research]]&gt;</category>
+<category>&lt;![CDATA[Daiichi Sankyo]]&gt;</category>
+<category>&lt;![CDATA[lung cancer]]&gt;</category>
+<category>&lt;![CDATA[Merck]]&gt;</category>
+<category>&lt;![CDATA[non-small cell lung cancer]]&gt;</category>
+<category>&lt;![CDATA[NSCLC]]&gt;</category>
+<category>&lt;![CDATA[patritumab deruxtecan]]&gt;</category>
+<guid ispermalink="false">https://pmlive.com/?p=266633</guid>
+<description>&lt;![CDATA[<img alt="- PMLiVE" class="attachment-large size-large wp-post-image" decoding="async" height="333" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://pmlive.com/wp-content/uploads/2024/02/Merck_Co_HQ.jpg" srcset="https://pmlive.com/wp-content/uploads/2024/02/Merck_Co_HQ.jpg 500w, https://pmlive.com/wp-content/uploads/2024/02/Merck_Co_HQ-300x200.jpg 300w" style="float:left; margin:0 15px 15px 0;" title="- PMLiVE" width="500"/>EGFR-activating mutations occur in up to 38% of all NSCLC tumours globally]]&gt;</description>
+<post-id xmlns="com-wordpress:feed-additions:1">266633</post-id> </item>
+</channel>
+</rss></body></html>
+
+
+--------------------

@@ -1,0 +1,109 @@
+<html><body><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>&lt;![CDATA[ Clinical RSS Feed]]&gt;</title>
+<link/>https://www.pharma-iq.com/rss/categories/clinical
+        <description>&lt;![CDATA[ &lt;p&gt;Discover results-proven tools and methodologies for your clinical development. Learn how to improve your trial design, data collection and clinical supply. In addition, get key information on how to improve your patient recruitment and retention. Pharma IQ is proud to provide an international, non-biased, central resource, for professionals working in clinical development to exchange ideas on best practice and share case studies on innovation within the area.&lt;/p&gt; ]]&gt;</description>
+<language>en</language>
+<pubdate>Wed, 25 Sep 2024 09:18:49 +0000</pubdate>
+<atom:link href="https://www.pharma-iq.com/rss/categories/clinical" rel="self" type="application/rss+xml"></atom:link>
+<item>
+<title>&lt;![CDATA[AI in Pharma and Life Sciences: Balancing Innovation with Integrity]]&gt;</title>
+<link/>https://www.pharma-iq.com/pre-clinical-discovery-and-development/interviews/ai-in-pharma-and-life-sciences-balancing-innovation-with-integrity?utm_medium=RSS
+                <description>&lt;![CDATA[ Explore how optimism and ethical concerns shape AI adoption in the Pharma &amp; Healthcare industries in Elsevier's 2024 market report. ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/pre-clinical-discovery-and-development/interviews/ai-in-pharma-and-life-sciences-balancing-innovation-with-integrity?utm_medium=RSS</guid>
+<pubdate>Tue, 24 Sep 2024 13:55:56 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[Exploring AI's Untapped Potential in Personalised Medicine]]&gt;</title>
+<link/>https://www.pharma-iq.com/pre-clinical-discovery-and-development/interviews/exploring-ais-untapped-potential-in-personalised-medicine?utm_medium=RSS
+                <description>&lt;![CDATA[ Discover how AI is transforming personalised medicine and patient-specific treatments and how data integration can revolutionise drug discovery and healthcare. ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/pre-clinical-discovery-and-development/interviews/exploring-ais-untapped-potential-in-personalised-medicine?utm_medium=RSS</guid>
+<pubdate>Wed, 18 Sep 2024 10:30:07 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[Digital Transformation in Healthcare: Mastering Efficiency and Innovation]]&gt;</title>
+<link/>https://www.pharma-iq.com/informatics/articles/digital-transformation-in-healthcare-mastering-efficiency-and-innovation?utm_medium=RSS
+                <description>&lt;![CDATA[ Explore how digital transformation, particularly cloud technology and AI enhances efficiency and patient outcomes. ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/informatics/articles/digital-transformation-in-healthcare-mastering-efficiency-and-innovation?utm_medium=RSS</guid>
+<pubdate>Thu, 05 Sep 2024 12:22:19 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[Breaking New Ground: How AI and Protein Patterns Are Changing Disease Prediction]]&gt;</title>
+<link/>https://www.pharma-iq.com/pre-clinical-discovery-and-development/interviews/breaking-new-ground-how-ai-and-protein-patterns-are-changing-disease-prediction?utm_medium=RSS
+                <description>&lt;![CDATA[ Discover how AI and protein pattern analysis are transforming disease prediction. Latest research from Optima Partners, Biogen, and the University of Edinburgh. ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/pre-clinical-discovery-and-development/interviews/breaking-new-ground-how-ai-and-protein-patterns-are-changing-disease-prediction?utm_medium=RSS</guid>
+<pubdate>Wed, 14 Aug 2024 12:45:49 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[Otsuka and Oxford HIN Collaborate on Digital Therapeutic for Major Depressive Di...]]&gt;</title>
+<link/>https://www.pharma-iq.com/pre-clinical-discovery-and-development/articles/otsuka-and-oxford-hin-collaborate-on-digital-therapeutic-for-major-depressive-disorder?utm_medium=RSS
+                <description>&lt;![CDATA[ Discover how Otsuka and Oxford HIN are collaborating to evaluate and implement CARE for MDD, a digital therapeutic designed to treat major depressive disorder. ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/pre-clinical-discovery-and-development/articles/otsuka-and-oxford-hin-collaborate-on-digital-therapeutic-for-major-depressive-disorder?utm_medium=RSS</guid>
+<pubdate>Wed, 14 Aug 2024 13:53:22 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[Revolutionising Drug Discovery: The Impact of AI and Patient-on-Chip Technology]]&gt;</title>
+<link/>https://www.pharma-iq.com/pre-clinical-discovery-and-development/articles/revolutionising-drug-discovery-the-impact-of-ai-and-patient-on-chip-technology?utm_medium=RSS
+                <description>&lt;![CDATA[ Discover how AI and patient-on-chip technology are revolutionising drug discovery and development. ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/pre-clinical-discovery-and-development/articles/revolutionising-drug-discovery-the-impact-of-ai-and-patient-on-chip-technology?utm_medium=RSS</guid>
+<pubdate>Fri, 09 Aug 2024 09:59:39 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[The Connected Health Revolution: Transforming the Life Sciences Industry]]&gt;</title>
+<link/>https://www.pharma-iq.com/medical-devices-and-diagnostics/interviews/the-connected-health-revolution-transforming-the-life-sciences-industry?utm_medium=RSS
+                <description>&lt;![CDATA[ Explore the transformative impact of connected health technologies in the life sciences industry, with key findings from Capgemini's report. ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/medical-devices-and-diagnostics/interviews/the-connected-health-revolution-transforming-the-life-sciences-industry?utm_medium=RSS</guid>
+<pubdate>Thu, 01 Aug 2024 18:45:50 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[Navigating AI Integration in Pharma's Legacy Systems]]&gt;</title>
+<link/>https://www.pharma-iq.com/manufacturing/articles/navigating-ai-integration-in-pharmas-legacy-systems?utm_medium=RSS
+                <description>&lt;![CDATA[ Explore the challenges and strategic solutions involved in integrating AI into established legacy systems in the Pharma Industry. ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/manufacturing/articles/navigating-ai-integration-in-pharmas-legacy-systems?utm_medium=RSS</guid>
+<pubdate>Wed, 31 Jul 2024 15:28:26 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[Leveraging AI and XR to Transform Patient Care in Pharma and Healthcare]]&gt;</title>
+<link/>https://www.pharma-iq.com/medical-devices-and-diagnostics/interviews/leveraging-ai-and-xr-to-transform-patient-care-in-pharma-and-healthcare?utm_medium=RSS
+                <description>&lt;![CDATA[ Discover how AI and XR technologies are revolutionizing the pharmaceutical and healthcare industries. Dr. Justin Barad from Osso VR shares insights on how these emerging technologies are enhancing tra... ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/medical-devices-and-diagnostics/interviews/leveraging-ai-and-xr-to-transform-patient-care-in-pharma-and-healthcare?utm_medium=RSS</guid>
+<pubdate>Wed, 10 Jul 2024 15:15:44 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[The AI-Powered Path to Revolutionising Rare Disease Research]]&gt;</title>
+<link/>https://www.pharma-iq.com/clinical/articles/revolutionising-rare-disease-research-the-ai-powered-path-to-inclusivity-and-efficiency?utm_medium=RSS
+                <description>&lt;![CDATA[ Explore how AI/ML can accelerate rare disease research and clinical trials, by enhancing inclusivity and efficiency, to deliver new drugs and therapeutics to patients. With insights from Dr. Harsha Ra... ]]&gt;</description>
+<author>&lt;![CDATA[ joanna.edwards@iqpc.co.uk (Joanna Edwards) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/clinical/articles/revolutionising-rare-disease-research-the-ai-powered-path-to-inclusivity-and-efficiency?utm_medium=RSS</guid>
+<pubdate>Fri, 23 Feb 2024 16:47:55 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[“Diversity brings better science to the table”]]&gt;</title>
+<link/>https://www.pharma-iq.com/clinical/interviews/diversity-brings-better-science-to-the-table-driving-equity-in-precision-medicine?utm_medium=RSS
+                <description>&lt;![CDATA[ Yusuf Henriques, founder of IndyGeneUS AI, tells Pharma IQ about the need to rethink precision medicine ]]&gt;</description>
+<author>&lt;![CDATA[ leila.hawkins@iqpc.com (Leila Hawkins) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/clinical/interviews/diversity-brings-better-science-to-the-table-driving-equity-in-precision-medicine?utm_medium=RSS</guid>
+<pubdate>Tue, 29 Aug 2023 15:19:34 +0000</pubdate>
+</item>
+<item>
+<title>&lt;![CDATA[Five antiviral Covid treatments are too expensive, says UK government body]]&gt;</title>
+<link/>https://www.pharma-iq.com/clinical/news-trends/five-antiviral-covid-treatments-are-too-expensive-says-uk-government-body?utm_medium=RSS
+                <description>&lt;![CDATA[ UK agency deems treatments too costly, prompting backlash ]]&gt;</description>
+<author>&lt;![CDATA[ leila.hawkins@iqpc.com (Leila Hawkins) ]]&gt;</author>
+<guid>https://www.pharma-iq.com/clinical/news-trends/five-antiviral-covid-treatments-are-too-expensive-says-uk-government-body?utm_medium=RSS</guid>
+<pubdate>Tue, 29 Aug 2023 15:19:34 +0000</pubdate>
+</item>
+</channel>
+</rss></body></html>
+
+
+--------------------

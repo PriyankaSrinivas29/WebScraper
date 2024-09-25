@@ -1,0 +1,271 @@
+Latest News
+25 Sep 2024
+By 
+Splunk is rapidly integrating with Ciscos technology to enable seamless transitions between their platforms while delivering advanced threat detection capabilities
+25 Sep 2024
+By 
+Communications and collaboration leader Zoom unveils new suite of business offerings to boost efficiency, reliability, security and compliance for enterprise organisations
+25 Sep 2024
+By 
+Post Office IT procurement mistakes have wasted millions of pounds of taxpayers money, non-executive board member tells public inquiry
+Latest news from around the world
+All News
+from the past 365 days
+24 Sep 2024
+By 
+The U.. S.. Commerce Department's proposal to ban software and hardware for connected vehicles imported from China or Russia might face enforcement issues down the road.. 24 Sep 2024
+By 
+While disruptions are limited, the attack on the water treatment facility highlights how the critical infrastructure sector remains a popular target for threat actors.. 24 Sep 2024
+By 
+Money transfer specialist MoneyGram services remain down several days after a network outage developed into a full-blown cyber security incident
+24 Sep 2024
+By 
+The vendor's latest set of capabilities includes prebuilt applications and automated features aimed at making it easier to use observability tools to monitor data and IT processes.. 24 Sep 2024
+By 
+Distributor shares membership update as it looks to take the community to a fresh part of the globe
+24 Sep 2024
+By 
+BlackBerrys latest Global threat intelligence report details a surge in unique malware samples as threat actors ramp up the pace of targeted attacks
+24 Sep 2024
+By 
+Features are aimed at Pures file and object architecture with functionality based on software that aids management at system level
+24 Sep 2024
+By 
+Post Office IT team and executives slammed for rushing into tech hardware purchase while eyeing a discount
+24 Sep 2024
+By 
+By the 2025-2026 respiratory virus season, FluMist, the nasal influenza vaccine, will be available for home vaccination via self- or caregiver-administration to eligible patients.. 24 Sep 2024
+By 
+Leading networking provider sees growth of customer base and data lake accelerate AI insights and improved network management, security, performance and visibility
+24 Sep 2024
+By 
+Pure Storage's Real-Time Enterprise file service gives a simplified look into file data across the enterprise.. It's also offering a VM assessment tool and universal credits program.. 24 Sep 2024
+By 
+From data storage to intelligent data infrastructure  thats the plan from NetApp, which has announced data curation for artificial intelligence as well as additions to its ASA and FAS storage arrays
+24 Sep 2024
+By 
+NetApp executives see a disaggregated future for its storage hardware and software into data management, but industry analysts question how storage admins will handle these duties.. 24 Sep 2024
+By 
+Vodafone and Intelsat team up to provide additional connectivity and resilience to customers in hardest-to-reach places, whether on the move or following an environmental or humanitarian disaster
+24 Sep 2024
+By 
+VMware claims its Private AI Foundation with Nvidia platform that speeds up AI deployment in private cloud environments is gaining significant traction in the Asia-Pacific region
+24 Sep 2024
+By 
+Quocircas annual investigation into the managed print landscape is a call to action for the channel
+23 Sep 2024
+By 
+Apple joined a list of big tech companies voluntarily committing to responsible AI.. But without regulation, there is no legal requirement for companies to meet those commitments.. 23 Sep 2024
+By 
+After rebranding Einstein copilot products as 'agents,' Salesforce CEO Marc Benioff likened Microsoft Copilot AI to Clippit, also known as Clippy, the original intelligent agent.. 23 Sep 2024
+By 
+Microsoft's latest moves to secure electricity and more data centers tackle two problems faced by major cloud providers: insufficient power and space to meet AI demands.. 23 Sep 2024
+By 
+Particle Health has filed a federal antitrust lawsuit against Epic Systems, accusing the EHR giant of practices that block competition and harm patient care.. 23 Sep 2024
+By 
+Caremark Rx, Express Scripts, and OptumRx are facing legal repercussions after the FTC accused them of insulin price inflation in a lawsuit announced on Sept.. 20, 2024.. 23 Sep 2024
+By 
+Microsoft has published a progress report on its Secure Future Initiative, launched last year in the wake of multiple security incidents, and made a series of commitments to improve its internal cyber culture
+23 Sep 2024
+By 
+In the first progress report since the launch of its Secure Future Initiative, Microsoft said it's made key improvements to identity and supply chain security.. 23 Sep 2024
+By 
+Using open source machine learning tools, researchers recalibrated the AHA-PREVENT calculator to improve cardiovascular risk assessment in local patient populations.. 23 Sep 2024
+By 
+More moves across the industry that have been worth noting in the past week involve BCN, Syynaxon, Calabrio, Keeper Security and Vertiv
+23 Sep 2024
+By 
+Channel player Nebula will be plugging the services gap and delivering support to resellers in an approach it intends to replicate with further partnerships
+23 Sep 2024
+By 
+Fujitsu worker tells Computer Weekly that firm only cares about shareholders and not subpostmaster suffering
+23 Sep 2024
+By 
+Comms tech giant unveils blueprint for AI-driven future improving smart enterprises, including adaptive user experiences and closed-loop autonomous operations for all business flows
+23 Sep 2024
+By 
+Digital rights campaigners say the Home Offices plan to make its new electronic Visa scheme a real-time online-only process is part and parcel of the 'hostile environment' around immigration status
+23 Sep 2024
+By 
+International collaboration agreement will see the governments of Canada, the UK and the US work together to research, evaluate and test new defence technologies
+23 Sep 2024
+By 
+Learn how Oracle Cloud Infrastructure and its cutting-edge AI features are bringing new benefits to cancer care by helping doctors identify better treatment options
+23 Sep 2024
+By 
+Indian IT services giant taken on to support Metro Banks digital transformation in multi-year deal
+23 Sep 2024
+By 
+A quarter of todays subpostmasters are very dissatisfied with how the current Horizon IT system works
+23 Sep 2024
+By 
+Nokias energy measurement tool quantifies the sustainability of private wireless networks-enabled industrial use cases, allowing businesses to identify opportunities to achieve tangible gains through digitisation
+22 Sep 2024
+By 
+Zendesk customers only pay for successful AI query resolutions, easing the transition to AI-powered customer support and improving scalability during peak periods
+20 Sep 2024
+By 
+Despite Amazon's return-to-office order, remote and hybrid work significantly helps recruitment and retention -- and remain popular options in tech.. 20 Sep 2024
+By 
+Microsoft observed cyberthreat actor Vice Society, also known as Vanilla Tempest, targeting U.. S.. healthcare organizations with INC ransomware for the first time.. 20 Sep 2024
+By 
+Computer Weeklys Hall of Fame showcases the great women who have made a lifetime contribution to the technology sector
+20 Sep 2024
+By 
+A United Nations body set up to investigate the international governance of AI says the nature of how the technology currently operates requires a global approach to regulation that prioritises equity and inclusion
+20 Sep 2024
+By 
+Project Amelia is a selling expert that provides sellers with answers to questions.. It makes use of broad knowledge and will soon provide answers to complex problems.. 20 Sep 2024
+By 
+Research from Zoom reveals that leaders and employees favour collaborating via instant messaging instead of in-person meetings
+20 Sep 2024
+By 
+Hock Tan unscored the importance of customers at the Boston VMware User Group UserCon, but users remain uneasy about the recent changes ushered in by VMware's new parent company.. 20 Sep 2024
+By 
+AI-native networking company enhances core platform to support end users tounlock the full potential of Wi-Fi 7, offeringhigher throughput, lower latency, extended range and greater reliability
+20 Sep 2024
+By 
+LG and Ricoh to offer package of digital office solutions and services designed to boost productivity and deliver better user experiences
+20 Sep 2024
+By 
+Australia-based global operator teams with optical tech company and global comms provider to achieve 1.. 6Tbps throughput over a single optical channel covering 700km
+20 Sep 2024
+By 
+We speak to the CIO of Spanish gas distribution firm Madrilea Red de Gas about keeping SAP running after official support ends
+20 Sep 2024
+By 
+Server engineered for diverse edge locations is said to ensure high performance for environments that generate demanding workloads such as in stores, clinics, banks and factory lines
+19 Sep 2024
+By 
+At the recent Gartner IT Symposium 2024 in Gold Coast, experts call for CIOs to pace their adoption of AI, manage costs and embrace augmented leadership
+19 Sep 2024
+By 
+Connected worker capabilities are now part of the Plex smart manufacturing platform, designed for manufacturers to address worker shortages and improve safety and productivity.. 19 Sep 2024
+By 
+Pulumi's ESC, now GA, filled an automation gap in multi-cloud identity and permissions management for platform engineers well-versed in general-purpose programming languages.. 19 Sep 2024
+By 
+As the 2024 U.. S.. presidential election nears, Microsoft detailed new influence campaigns, such as fake videos aimed at discrediting Vice President Kamala Harris.. 19 Sep 2024
+By 
+The FBI said the massive botnet, which included 260,000 connected devices, was developed and operated by a publicly traded Chinese company named Integrity Technology Group.. 19 Sep 2024
+By 
+Zoom collaborates with Mitel to deliver what it calls a unique hybrid cloud solution combining Zoom Workplace and AI Companion with communications platform
+19 Sep 2024
+By 
+Distributors both unveil signings to bolster portfolios with briefs to expand market reach and partner relationships
+19 Sep 2024
+By 
+Encryption required for post-quantum cryptography will have a material impact on the performance of distributed ledgers
+19 Sep 2024
+By 
+The compensation payment raises hopes that other wrongly convicted subpostmasters will receive payments far more quickly under new scheme
+19 Sep 2024
+By 
+The CMA published the summary hearings from Microsoft, AWS and Google this week, which revealed all three had quite a lot to say on the Redmond software giants cloud licensing practices
+19 Sep 2024
+By 
+The nation's healthcare quality ranking is low for outcomes and equity, but the U.. S.. does excel in preventive care and patient safety.. 19 Sep 2024
+By 
+The UK competition watchdog has secured a four-month deadline extension for its investigation into the cloud infrastructure services market, citing the need to probe Microsofts licensing practices as a causal factor in the decision
+19 Sep 2024
+By 
+In Computer Weeklys search for this years top 50 Most Influential Women in UK Tech, hundreds of women have been put forward for consideration.. Here, we look at a list of everyone nominated in 2024
+19 Sep 2024
+By 
+Provider of technology for managing and securing enterprise private 5G/LTE operational technology networks selected by energy providerto support network device management and zero trust security
+19 Sep 2024
+By 
+Half-year financial updates issued by channel firms both looking towards a stronger finish to fiscal 2024
+19 Sep 2024
+By 
+Research anticipates that as the availability of 5G networks and devices improves, there will be a more rapid global expansion of private networks across diverse industries
+19 Sep 2024
+By 
+The prime ministers Council for Science and Technology is looking for 10 members to join the council, which advises government on science and technology issues
+19 Sep 2024
+By 
+After years of lobbying, the UK government has agreed to classify datacentres as critical national infrastructure, with the tech industry claiming the move is long overdue, but also recognition of the importance of server farms to the economy
+19 Sep 2024
+By 
+Self-driving vehicle software provider makes strategic acquisition to strengthen position in industrial logistics, offering movement and management of goods on private land, including ports, logistics hubs, retail fulfilment centres and airports
+18 Sep 2024
+By 
+Singapore telco M1 is switching off 70% of its legacy systems by the end of 2024 and leveraging Salesforce to offer more personalised services
+18 Sep 2024
+By 
+The vendor's new feature aims to aid organizations that deal with sensitive data by enabling them to manage pipelines from private clouds and on-premises environments.. 18 Sep 2024
+By 
+Workday says it is advancing AI in HR with a series of platform upgrades that handle complex problems and build answers that capture the context around the data.. 18 Sep 2024
+By 
+A phishing scheme used against Atrium Health caused one of several healthcare data breaches reported in September.. 18 Sep 2024
+By 
+The cybersecurity company observed a brute force attack campaign targeting Foundation customers that did not change default credentials in their accounting software.. 18 Sep 2024
+By 
+At Dreamforce in San Francisco, Salesforce and Nvidia detail some of the tech that will power the software giant's newly launched Agentforce service
+18 Sep 2024
+By 
+The NCSC and its Five Eyes allies have published details of the activities of a China-based cyber security company that is operating a Mirai IoT botnet in the service of government-backed intrusions
+18 Sep 2024
+By 
+Law enforcement bodies from across the world have revealed how they collaborated to bring down encrypted network Ghost and the new ways of working that have been established with Europol at the centre
+18 Sep 2024
+By 
+According to a study from Dandelion Health, an estimated 44 million people in the U.. S.. could benefit from using GLP-1 drugs for the primary prevention of cardiovascular disease.. 18 Sep 2024
+By 
+Research shows infrastructure and operationsleaders increasingly looking to AI-based analytics and augmented decision-making to improve operational resilience and responsiveness
+18 Sep 2024
+By 
+Employees are using GenAI primarily for spelling and grammar checking, while business chiefs are using it for data analysis
+18 Sep 2024
+By 
+The new screener measures patients' comfort and ability to use digital health tools, which can support personalized interventions to improve virtual healthcare access.. 18 Sep 2024
+By 
+OVHcloud shares insights it discovered by asking councils about their current challenges
+18 Sep 2024
+By 
+Global comms tech provider intros what it claims to be the industrys most modern datacentre automation platform, bringing an intent-based approach to network automation
+18 Sep 2024
+By 
+Hubspot users get their generative AI infusion that includes souped-up bots, a no-code workflow builder, sophisticated content generation and marketing analytics.. 18 Sep 2024
+By 
+New research from Orca Security shows that AI services and models in cloud contain a number of risks and security shortcomings that could be exploited by threat actors.. 18 Sep 2024
+By 
+HHS has awarded $2 million in LEAP in Health IT grants to Columbia University and OHSU to advance the accuracy of AI algorithms and behavioral health IT adoption.. 18 Sep 2024
+By 
+Public sector and IT industry figures gathered at TechUKs 10th annual Building the Smarter State event discussed how Labours mission-driven policy approach can drive digital transformation efforts in the context of fresh austerity measures
+18 Sep 2024
+By 
+Comms specialists across the channel continue to focus on encouraging customers to migrate from analogue comms to digital alternatives
+18 Sep 2024
+By 
+Half of physicians said hospital mergers and acquisitions affect their job satisfaction, contributing to medicine's physician burnout woes.. 18 Sep 2024
+By 
+Research finds continued large range in degree of fibre connectivity adoption in leading European economies but finds optimism in growing average adoption rates and fibre broadband revenue models
+18 Sep 2024
+By 
+After months in the spotlight and calls for his resignation from victims of the Post Office scandal, CEO Read will step down in March 2025
+18 Sep 2024
+By 
+A stream of customers helped Salesforce make the case for its Agentforce artificial intelligence offering on the opening day of the annual Dreamforce conference in San Francisco
+18 Sep 2024
+By 
+Quantinuum is planning to develop a machine called Apollo by 2029, which it claims will have enough logical qubits to perform complex calculations
+18 Sep 2024
+By 
+An international police operation has penetrated an end-to-end encrypted communications service allegedly used by organised criminals in Australia, Ireland, Sweden and Italy
+17 Sep 2024
+By 
+Intel's turnaround efforts are progressing, but the chipmaker will need more than government funding and a deal that expands its AWS manufacturing partnership, an analyst said.. 17 Sep 2024
+By 
+Since the U.. S.. lacks an overarching AI policy, insiders worry that existing AI harms aren't being addressed and that artificial general intelligence could increase risks.. 17 Sep 2024
+By 
+IBM broadens its multi-cloud and hybrid cloud FinOps support with its acquisition of Kubecost, as its AI infrastructure strategy diverges from VMware's under Broadcom.. 17 Sep 2024
+By 
+Explainable AI will look different depending on whether a business is using a predictive, generative or agentic AI system.. 17 Sep 2024
+By 
+The vendor's latest platform update adds features such as a PySpark conversion tool and AutoML aimed at helping customers improve returns on their investments in AI and ML models.. 17 Sep 2024
+By 
+UCSF research shows a higher pregnancy risk post-tubal ligation, urging women to consider more effective contraceptives, such as implants or intrauterine devices.. 17 Sep 2024
+By 
+Updated CMS guidance walks organizations through the process of becoming a rural emergency hospital provider type.. 17 Sep 2024
+By 
+After acquiring data management vendor Moonwalk in July, Panzura is debuting its next verse with the release of Panzura Symphony, a data orchestration service.
